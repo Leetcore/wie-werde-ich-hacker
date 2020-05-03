@@ -349,7 +349,7 @@ Hier ein Penrose-Dreieck in ASCII:
 
 Der Wikipedia Artikel zur Ascii-Art hat weitere Beispiele. Es schadet nicht ein bisschen Geschick in Ascii zu haben, um ein eigenes Logo oder Visualisierungen zu basteln.
 
-Es gibt unzählige Arten von Animationen, Musik, Geschichten und Spiele, die sich mit Computern erstellen lassen. Ich wäre nicht ich, wenn ich das nicht auch schon einiges davon ausprobiert hätte. Eine kleine Reise in die Spieleentwicklung habe ich bereits hinter mir. Ich fand einen Flappy Bird Klon, der auch wie Flappy Bird funktioniert hat. Es gibt eine kleinen Vogel, der einmal mit den Flügeln schlägt, wenn auf den Bildschirm getippt wird. Damit muss er an verschiedenen hohen Röhren vorbei. Das Originalspiel war unfassbar erfolgreich, obwohl es mega schwer ist.
+Es gibt unzählige Arten von Animationen, Musik, Geschichten und Spiele, die sich mit Computern erstellen lassen. Ich wäre nicht ich, wenn ich davon nicht auch schon einiges ausprobiert hätte. Eine kleine Reise in die Spieleentwicklung habe ich bereits hinter mir. Ich fand einen Flappy Bird Klon, der auch wie Flappy Bird funktioniert hat. Es gibt eine kleinen Vogel, der einmal mit den Flügeln schlägt, wenn auf den Bildschirm getippt wird. Damit muss er an verschiedenen hohen Röhren vorbei. Das Originalspiel war unfassbar erfolgreich, obwohl es mega schwer ist.
 
 Jedenfalls fand ich einen Klon im Web und habe das Spiel umprogrammiert. Statt den Vogel zu steuern, steuerst du die Röhren. Der Vogel schlägt selbst mit den Flügeln. Die Funktionen sind exakt wie vorher, werden aber automatisch angestoßen. Mit der Maus kann die Höhe der Röhren bestimmt werden. Ich habe es "Reverse Flappy Bird" getauft. Der Code ist auf Codepen und kann dort auch weiter verändert und "geremixed" werden.
 
