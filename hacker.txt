@@ -276,7 +276,7 @@ Du kannst mit deinem Wissen danach in der Open Source Community helfen und lerne
 
 Das ist ein wichtiger Punkt: Viele dieser Dinge sind standardisiert oder werden im Internet bereits gut erklärt. Es gibt sehr viele Dokumentationen zu lesen, verstehen und Software zum Ausprobieren. Ich versuche einen Überblick über die wichtigsten Konzepte zu geben. Die Ideen, Beispiele und ein paar einfache Code-Schnipsel sollen den Einstieg erleichtern.
 
-Mit zwölf Jahren hat mit der damalige Freund meiner Schwester auf das Thema gestoßen, weil er einen Computer hatte und ich absolut begeistert davon war, dass er BASIC (ältere Programmiersprache) konnte. Außerdem hatte ich früher auch eine Lerncomputer, bei dem eine Menge an Code abtippen musste, um dann Stein-Schere-Papier zu spielen. Ich verstand als Kind nichts davon, aber fasziniert hat es mich trotzdem. Damals fehlte mir eine kleine Anleitung wie Schleifen, Bedingungen und deren Ablauf funktioniert.
+Mit zwölf Jahren ist der damalige Freund meiner Schwester auf das Thema gestoßen, weil er einen Computer hatte und ich absolut begeistert davon war, dass er BASIC (ältere Programmiersprache) konnte. Außerdem hatte ich früher auch eine Lerncomputer, bei dem eine Menge an Code abtippen musste, um dann Stein-Schere-Papier zu spielen. Ich verstand als Kind nichts davon, aber fasziniert hat es mich trotzdem. Damals fehlte mir eine kleine Anleitung wie Schleifen, Bedingungen und deren Ablauf funktioniert.
 
 Dieses Buch, das WWW und andere Hacker/-innen sind ein guter Startpunkt um Informationen zu sammeln, herauszufinden was dich davon besonders interessiert und etwas damit anzufangen.
 
