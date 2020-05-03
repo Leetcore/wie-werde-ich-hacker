@@ -411,7 +411,7 @@ Das Web 2.0 hat uns auch eine ständige Verfügbarkeit von Meinungen gebracht, v
 Die Möglichkeit Artikel oder andere Inhalte zu kommentieren, war einige Jahre sehr nützlich, weil auf Fehler innerhalb der Artikel hingewiesen werden konnten. Heute werden die Kommentarspalten von Nachrichtenseiten sehr häufig für Propaganda missbraucht. Aber es ist wie bei Facebook, ich habe einfach aufgehört es zu lesen.
 
 Likes
-Es gibt Plattformen, die sogar aus technischer Perspektive destruktive Community fördern. Der Fokus liegt auf maximaler Nutzungszeit, damit mehr Werbung dargestellt werden kann. Dabei wäre es nicht schwierig auch für große, öffentliche Plattformen durch verschiedene Mechanismen die Plattform deutlich angenehmer zu machen.
+Es gibt Plattformen, die sogar aus technischer Perspektive eine destruktive Community fördern. Der Fokus liegt auf maximaler Nutzungszeit, damit mehr Werbung dargestellt werden kann. Dabei wäre es nicht schwierig auch für große, öffentliche Plattformen durch verschiedene Mechanismen die Plattform deutlich angenehmer zu machen.
 
 Zum Beispiel führt Karma auf Reddit dazu, dass Beiträge mit zu vielen negative Bewertungen ausgeblendet werden und der Wert im Gesamtkarma des Accounts gespeichert wird.
 
