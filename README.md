@@ -1,6 +1,6 @@
 Ich hatte das Bedürfnis einen (hoffentlich besseren) Anfänger-Guide ins Hacking zu schreiben.
 
-Darin geht es um Netzkultur, Hacker-Ethik, IT-Grundlagen, Programmieren lernen mit Hilfe des Internets, Webseiten Hacking, Excel-Trojaner, Internet scannen und sich wundern, was alles ungeschützt an Daten drin hängt. Die Hälfte des Buches sind einige Hacking- oder Spaßprojekte: RPG Chatbots, IMSI-Catcher, Lockpicking und Bad-USB. 222 Seiten mit kleinen Einblicken in verschiedenste Themen und wie du dich in so ein Thema einarbeitest.
+Darin geht es um Netzkultur, Hacker-Ethik, IT-Grundlagen, Programmieren lernen mit Hilfe des Internets, Webseiten Hacking, Excel-Trojaner, Internet scannen und sich wundern, welche ungeschützten Daten erreichbar sind. Ungefähr die Hälfte des Buches sind  Hacking- oder Spaßprojekte: RPG Chatbots, IMSI-Catcher, Excel-Trojaner, Lockpicking und Bad-USB. 222 Seiten mit kleinen Einblicken in verschiedenste Themen und wie du dich in so ein Thema einarbeitest.
 
 EPUB Download liegt auf: www.1337core.de
 
