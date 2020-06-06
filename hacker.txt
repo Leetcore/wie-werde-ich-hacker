@@ -40,10 +40,10 @@ Feedback kann gerne an feedback@1337core.de gesendet werden.
 
 
 Vorwort
-Vielleicht kennst du Texte aus dem Internet zur großen Frage: "Wie werde ich Hacker/-in?" Dort werden einige Themen angesprochen, aber nicht erklärt, wie Einsteiger/-innen dahin kommen. Nach einer Twitter-Umfrage war klar, dass mein Umfeld etwas für Einsteiger und Scriptkiddies lesen möchte. Also erzähle ich euch etwas von meinem Einstieg ins Hacking. Viel Spaß!
+Vielleicht kennst du Texte aus dem Internet zur großen Frage: "Wie werde ich Hacker/-in?" Dort werden einige Themen angesprochen, aber nicht erklärt, wie Einsteiger/-innen dahin kommen. Nach einer Twitter-Umfrage war klar, dass mein Umfeld etwas für Einsteiger/-innen und Scriptkiddies lesen möchte. Also erzähle ich euch etwas von meinem Einstieg ins Hacking. Viel Spaß!
 
 —
-Was sind Hacker/-innen und wie werde ich es? Wieso wird der Begriff so unterschiedlich verwendet? Was hat es mit der Netzkultur auf sich? Wie werde ich Hacker/-in mit der Hilfe des Internets? Was ist Hacktivismus und wozu ist es gut? Es geht um Bastler/-innen, Sicherheitslücken, Netzwerke, Bots, Scriptkiddies, blinkende LEDs und vieles mehr. Wie funktioniert es und was kann ich damit machen?
+Was sind Hacker/-innen und wie werde ich eine/-r? Wieso wird der Begriff so unterschiedlich verwendet? Was hat es mit der Netzkultur auf sich? Wie werde ich Hacker/-in mit der Hilfe des Internets? Was ist Hacktivismus und wozu ist es gut? Es geht um Bastler/-innen, Sicherheitslücken, Netzwerke, Bots, Scriptkiddies, blinkende LEDs und vieles mehr. Wie funktioniert es und was kann ich damit machen?
 
 Dieses Buch ist ein schneller Einstieg in die Hackerwelt. Es ist für Einsteiger als Orientierung geschrieben und steigert sich über Netzkultur, Lernen im Internet, IT-Grundlagen, Programmierung, Security hin zu Projekten wie zum Beispiel: Emoji Aquarium, IMSI-Catcher, Schlösser knacken, Freifunk oder offene Server finden.
 
@@ -83,13 +83,13 @@ Give a man a gun and he can rob a bank, but give a man a bank, and he can rob th
 
 Ein weiterer Film, der interessante Hacks zeigt, ist "Whoami - Kein System ist sicher" aus dem Jahre 2014. Erstaunlicherweise sogar ein deutscher Film. Dann fiel mir noch eine deutsche Serie auf, die 2019 auf Netflix erschien: "How to sell drugs (fast) online". Dort wird korrekt erzählt, wie Tor Hidden Services funktionieren, um anonym im Internet Drogen zu verkaufen. Wobei mir direkt auffiel, dass sie Briefkästen benutzten, die viel zu nah an ihrem Wohnort waren. In Stranger Things Staffel 2 programmiert Bob einen Brute Force Angriff um alle Kombinationen eines vierstelligen Zahlencodes auszuprobieren in der Programmiersprache BASIC.
 
-Das sind viele Beispiele in denen entweder technisch korrekt oder immerhin kulturell korrekt gezeigt wurde, wie Hacker/-innen ticken können. Doch wir merken schon, in den meisten Fällen ist es illegal oder verursacht große Probleme.
+Das sind viele Beispiele, in denen entweder technisch korrekt oder immerhin kulturell korrekt gezeigt wurde, wie Hacker/-innen ticken können. Doch wir merken schon, in den meisten Fällen ist es illegal oder verursacht große Probleme.
 
 Der Begriff "Hacker" wird als Sammelbegriff für verschiedene Aktivitäten verwendet. In den Medien und der Popkultur taucht er vor allem bei Einbrüchen in Computersysteme auf. Er wird gleichgesetzt mit Betrug, Datendiebstahl und was sonst noch ein minimales technisches Verständnis benötigt. Doch die Hackerkultur ist deutlich mehr als das und hat eine lange Tradition.
 
 Ursprünglich entstand der Begriff "Hacker" aus der Programmierer-Szene und der freien Software Bewegung. Hacken ist experimentieren mit Software oder Hardware. Sobald dies erstmals mit PCs möglich war, entwickelte sich eine Szene aus Bastlern, die ihre Geräte an ihre Grenzen und darüber hinaus bringen wollten.
 
-Zur History gibt es ein paar alte Dokumentationen, die sich im WWW finden lassen. Der Wikipedia Artikel zu Hacker ist auch interessant zu lesen. Falls du auf eine Zusammenfassung gehofft hast, muss ich dich leider enttäuschen. Als im Jahre 1993 das WWW für die Öffentlichkeit freigegeben wurde, war ich erst vier Jahre alt. Ich belasse es dabei, denn du findest es selbst im Internet mit dem Suchbegriff "Geschichte des Internets". Auch der Vorschlag wie das WWW funktionieren soll, ist heute noch verfügbar auf der Webseite des W3C (Gremium der WWW Standards), wenn du nach "World Wide Web: Proposal for a HyperText Project" suchst.
+Zur History gibt es ein paar alte Dokumentationen, die sich im WWW finden lassen. Der Wikipedia-Artikel zu Hacker ist auch interessant zu lesen. Falls du auf eine Zusammenfassung gehofft hast, muss ich dich leider enttäuschen. Als im Jahre 1993 das WWW für die Öffentlichkeit freigegeben wurde, war ich erst vier Jahre alt. Ich belasse es dabei, denn du findest es selbst im Internet mit dem Suchbegriff "Geschichte des Internets". Auch der Vorschlag wie das WWW funktionieren soll, ist heute noch verfügbar auf der Webseite des W3C (Gremium der WWW Standards), wenn du nach "World Wide Web: Proposal for a HyperText Project" suchst.
 
 Ich habe mich schon früh für Computer interessiert und bin über Tutorials zu den ersten "Hacks" gekommen. Das war eigentlich mehr Zufall als Absicht, denn ich las einfach verdammt viel und gerne im Internet, wodurch ich darauf gestoßen bin. Ich konnte einfach nicht aufhören Dokumentationen, Anleitungen und Blogs zu lesen.
 
@@ -107,7 +107,7 @@ Später interessierten mich immer mehr die Grundlagen dahinter: Netzwerke, das I
 
 Je nachdem wie motiviert das Scriptkiddie ist, kommt es damit trotzdem relativ weit, wird aber früher oder später auf Probleme stoßen, da es die Grenzen nicht kennt. Der Klassiker ist auch, dass nach einem Hack damit geprahlt wird.
 
-Mir wurde früh klar, dass diese Macht auch Verantwortung bedeutet. Durch meine Faszination von Computern war es sicher, dass ich in irgendeine Art IT-Ausbildung muss. Ich interessierte mich damals fast ausschließlich für Computer und dem Internet.
+Mir wurde früh klar, dass diese Macht auch Verantwortung bedeutet. Durch meine Faszination von Computern war es sicher, dass ich in irgendeine Art IT-Ausbildung muss. Ich interessierte mich damals fast ausschließlich für Computer und das Internet.
 
 In meiner Ausbildung gab es auch einen Moment, der mir nochmal bewusst machte, wie wichtig ein moralischer Kompass ist: Ich arbeitete in einer kleinen Firma, die Computer für Privat- und Geschäftskunden zusammenschraubte, installierte und reparierte. Ein Auftrag kam rein, bei dem gelöschte Dateien einer Speicherkarte wiederherzustellen waren. Es ging um die Hausarbeit einer Studentin. Nach etwas Recherche wie das funktioniert, hatte ich ein passendes Tool und konnte die wiederhergestellten Dateien sehen. Neben ihrer Hausarbeit wurden aber auch selbstgemachte Nacktfotos wieder sichtbar.
 
@@ -117,16 +117,16 @@ Nach meiner Ausbildung als IT-Systemelektroniker fing ich wieder an mich mehr f�
 
 Daraufhin dachte ich mir: Wie schwer kann das sein? Wenn dieser Junge das nach Anleitung schafft, dann kann ich das bestimmt auch. Drei Wochen später waren meine Skills in SQL Injections, Local File Inclusions und Cross Site Scripting ohne zusätzliche Tools gut genug für Hacks von TV Total, einer NATO-Webseite oder der Petitionswebseite vom Weißen Haus. Ich machte die Betreiber darauf aufmerksam, damit die Sicherheitslücke geschlossen werden.
 
-Im Grunde war mein Ziel das Internet ein kleines Stück sicherer zu machen. Das Hobby lies mich nicht los. Auf dem Saarcamp (Barcamp mit freien Vorträgen) hielte ich einen Web Security Vortrag, zeigte und erklärte welche Probleme es immer noch gibt. Demonstrierte eine SQL Injection an einer normalen Webseite. Ich wollte klar machen, dass es sich hierbei um keine komplizierten Lücken handelte.
+Im Grunde war mein Ziel, das Internet ein kleines Stück sicherer zu machen. Das Hobby ließ mich nicht los. Auf dem Saarcamp (Barcamp mit freien Vorträgen) hielte ich einen Web Security Vortrag, zeigte und erklärte welche Probleme es immer noch gibt. Demonstrierte eine SQL Injection an einer normalen Webseite. Ich wollte klar machen, dass es sich hierbei um keine komplizierten Lücken handelte.
 
 Nach einer gemeldeten Lücke bei TV Total sponserten sie mir damals zwei Zuschauertickets für ihre Show. Ich war Anfang 20 mit meiner Freundin als Zuschauer bei TV Total, weil ich deren Webseite gehackt habe.
 
 Security ist ein geiles Hobby.
 
 Was erwartet dich hier?
-Was ist dieses Buch und was ist es nicht? Dieses Buch ist ein kleiner Ausschnitt meines Weges zum Hacker. Dies soll ein Buch für mein früheres Ich werden, um die ersten Schritte zu machen. Ein Guide, der einen möglichen Lernweg aufzeigt. Mein Ziel ist es nicht ein umfassendes Sachbuch zu liefern, sondern Interesse und Neugierde zu wecken, um selbst herauszufinden, was dich davon interessiert und wie es funktioniert.  Es soll ein besserer "Wie werde ich Hacker"-Guide werden. Die finden sich häufig im Internet, aber sie bleiben oberflächlich. Ich schubse Interessierte ein bisschen weiter in die richtige Richtung. Nicht nur der technische Teil ist wissenswert, sondern auch der Weg dahin. Wie finde ich die Informationen? Wie gehe ich damit um? Durch welche Methoden oder Dienste kann ich schnell lernen?
+Was ist dieses Buch und was ist es nicht? Dieses Buch ist ein kleiner Ausschnitt meines Weges zum Hacker. Dies soll ein Buch für mein früheres Ich werden, um die ersten Schritte zu machen. Ein Guide, der einen möglichen Lernweg aufzeigt. Mein Ziel ist es nicht, ein umfassendes Sachbuch zu liefern, sondern Interesse und Neugierde zu wecken, um selbst herauszufinden, was dich davon interessiert und wie es funktioniert.  Es soll ein besserer "Wie werde ich Hacker"-Guide werden. Die finden sich häufig im Internet, aber sie bleiben oberflächlich. Ich schubse Interessierte ein bisschen weiter in die richtige Richtung. Nicht nur der technische Teil ist wissenswert, sondern auch der Weg dahin. Wie finde ich die Informationen? Wie gehe ich damit um? Durch welche Methoden oder Dienste kann ich schnell lernen?
 
-Dieses Buch wird keine ausgedruckte Dokumentation. Es wird auch nicht voller Code Beispiele sein, die niemand ordentlich heraus kopieren kann. Es ist unsinnig dieses Wissen in vollständiger Tiefe in ein Buch zu packen, weil sich dieser Bereich zu schnell weiterentwickelt. Außerdem gibt es in den meisten Fällen bereits Dokumentationen im Internet. Dort sind sie auch deutlich besser aufgehoben und sollten auch dort erweitert werden. Was ich liefere sind Einstiegshilfen, Grundlagen, Ideen, Methoden und Beispiele. Mein Ziel ist es einen unterhaltsamen Weg aufzuzeigen, der Lust auf Hacking macht.
+Dieses Buch wird keine ausgedruckte Dokumentation. Es wird auch nicht voller Codebeispiele sein, die niemand ordentlich heraus kopieren kann. Es ist unsinnig, dieses Wissen in vollständiger Tiefe in ein Buch zu packen, weil sich dieser Bereich zu schnell weiterentwickelt. Außerdem gibt es in den meisten Fällen bereits Dokumentationen im Internet. Dort sind sie auch deutlich besser aufgehoben und sollten auch dort erweitert werden. Was ich liefere sind Einstiegshilfen, Grundlagen, Ideen, Methoden und Beispiele. Mein Ziel ist es einen unterhaltsamen Weg aufzuzeigen, der Lust auf Hacking macht.
 
 Ich werde das Grundwissen anreißen, um einen Einblick zu vermitteln, womit sich Hacker beschäftigen könnten. Danach geht es raus in die Welt: Informationen sammeln, Prototypen programmieren, an der Community teilhaben, an Open Source Software arbeiten, das Internet scannen, Webseiten hacken, den moralischen Kompass ausrichten und Dinge programmieren, die niemand haben möchte, aber dafür ordentlich Spaß gemacht haben.
 
@@ -144,11 +144,11 @@ Vorweg: Nicht-männliche Hacker werden gerne auch Hackerinnen oder manchmal Häc
 
 —
 Was ist ein/-e Hacker/-in?
-Eine Person, die Spaß daran hat programmierbare Systeme zu erforschen und bis an die Grenzen ihrer Fähigkeiten gehen will. Eine Person, die begeistert (sogar obsessiv) programmiert. Die in der Lage ist einen guten Hack zu erkennen. Die besonders schnell programmieren kann. Die intellektuelle Herausforderung liebt, auf kreative Art und Weise Hindernisse zu überwinden oder zu umgehen. Eine Person mit Wissen über technische Geräte, sowie dem Internet und die Spaß daran hat die Technik zu überlisten, zweckentfremden oder zu modifizieren.
+Eine Person, die Spaß daran hat, programmierbare Systeme zu erforschen und bis an die Grenzen ihrer Fähigkeiten gehen will. Eine Person, die begeistert (sogar obsessiv) programmiert. Die in der Lage ist, einen guten Hack zu erkennen. Die besonders schnell programmieren kann. Die die intellektuelle Herausforderung liebt, auf kreative Art und Weise Hindernisse zu überwinden oder zu umgehen. Eine Person mit Wissen über technische Geräte sowie das Internet und die Spaß daran hat, die Technik zu überlisten, zu zweckentfremden oder zu modifizieren.
 
 Doch was ist der Unterschied zwischen Programmierern oder Informatikern und Hackern? Diese Frage ist nicht einfach zu beantworten, denn es gibt keine feste Definition. "Software Entwickler/-in" ist eben auch ein normaler Job, der erlernt werden kann, ohne automatisch ein/-e Hacker/-in zu sein.
 
-Es gibt einige Punkte, bei denen Hacker/-innen sich von Programmierer/-innen unterscheiden: Hacker/-innen probieren neue Dinge aus. Dinge, die nicht dokumentiert sind. Sie experimentieren und testen Software oder Hardware. Sie wissen nicht unbedingt wie alles funktioniert und versuchen die Software oder Hardware über ihre Tests zu verstehen. Programmierer/-innen bleiben bei den Systemen die sie kennen. Hacker/-innen versuchen die Software zu einem Verhalten zu bringen, dass ihnen Freude bereitet. Sie versuchen die Ecken zu finden, die nicht dokumentiert sind. Was oft Trial and Error (= Versuch und Irrtum) bedeutet. Hackern bereitet es Freude, was normalerweise Frust hervorruft. Sie fühlen sich davon herausgefordert und werden nicht ruhen bis sie verstanden haben was gerade passiert oder sie davon gelangweilt sind.
+Es gibt einige Punkte, bei denen Hacker/-innen sich von Programmierer/-innen unterscheiden: Hacker/-innen probieren neue Dinge aus. Dinge, die nicht dokumentiert sind. Sie experimentieren und testen Software oder Hardware. Sie wissen nicht unbedingt, wie alles funktioniert und versuchen, die Software oder Hardware über ihre Tests zu verstehen. Programmierer/-innen bleiben bei den Systemen die sie kennen. Hacker/-innen versuchen die Software zu einem Verhalten zu bringen, dass ihnen Freude bereitet. Sie versuchen die Ecken zu finden, die nicht dokumentiert sind. Was oft Trial and Error (= Versuch und Irrtum) bedeutet. Hackern bereitet es Freude, was normalerweise Frust hervorruft. Sie fühlen sich davon herausgefordert und werden nicht ruhen, bis sie verstanden haben, was gerade passiert oder sie davon gelangweilt sind.
 
 Hacker/-innen würden ihre Erkenntnisse mit der Community (= dem Internet) teilen, um damit für ein besseres Verständnis zu sorgen. Sie würden ihre Schritte dokumentieren, um auch andere an diesen Punkt zu bringen. Dadurch haben sie die Möglichkeit darüber hinaus zu kommen. Ein weiterer Unterschied ist, dass ein/-e Programmierer/-in in erster Linie Geld verdienen will und nicht, weil es ein persönliches Bedürfnis ist.
 
@@ -349,7 +349,7 @@ Hier ein Penrose-Dreieck in ASCII:
 
 Der Wikipedia Artikel zur Ascii-Art hat weitere Beispiele. Es schadet nicht ein bisschen Geschick in Ascii zu haben, um ein eigenes Logo oder Visualisierungen zu basteln.
 
-Es gibt unzählige Arten von Animationen, Musik, Geschichten und Spiele, die sich mit Computern erstellen lassen. Ich wäre nicht ich, wenn ich davon nicht auch schon einiges ausprobiert hätte. Eine kleine Reise in die Spieleentwicklung habe ich bereits hinter mir. Ich fand einen Flappy Bird Klon, der auch wie Flappy Bird funktioniert hat. Es gibt eine kleinen Vogel, der einmal mit den Flügeln schlägt, wenn auf den Bildschirm getippt wird. Damit muss er an verschiedenen hohen Röhren vorbei. Das Originalspiel war unfassbar erfolgreich, obwohl es mega schwer ist.
+Es gibt unzählige Arten von Animationen, Musik, Geschichten und Spiele, die sich mit Computern erstellen lassen. Ich wäre nicht ich, wenn ich davon nicht auch schon einiges ausprobiert hätte. Einen kleinen Ausflug in die Spieleentwicklung habe ich bereits hinter mir. Ich fand einen Flappy Bird Klon, der auch wie Flappy Bird funktioniert hat. Es gibt eine kleinen Vogel, der einmal mit den Flügeln schlägt, wenn auf den Bildschirm getippt wird. Damit muss er an verschiedenen hohen Röhren vorbei. Das Originalspiel war unfassbar erfolgreich, obwohl es mega schwer ist.
 
 Jedenfalls fand ich einen Klon im Web und habe das Spiel umprogrammiert. Statt den Vogel zu steuern, steuerst du die Röhren. Der Vogel schlägt selbst mit den Flügeln. Die Funktionen sind exakt wie vorher, werden aber automatisch angestoßen. Mit der Maus kann die Höhe der Röhren bestimmt werden. Ich habe es "Reverse Flappy Bird" getauft. Der Code ist auf Codepen und kann dort auch weiter verändert und "geremixed" werden.
 
@@ -361,12 +361,12 @@ An den Mini Games habe ich schon gemerkt, wie schlecht ich im Zeichnen bin, das 
 
 
 
-Mit etwas Übung und mehr Zeit wurde es besser, aber die Zeit war knapp und andere Hobbies haben mir mehr Spaß gemacht. Nach meinem Kurztrip in die Webcomics hatte ich auch noch Musik auf meiner Todo-Liste. Ich wollte es auch ausprobieren und an den Spaß auf der Playstation 1 mit dem Programm "Music 2000" in meiner Jugend anknüpfen. Richtig spannend dabei war aber eigentlich das Ziel diese MP3s auch auf allen Streamingplattformen zu veröffentlichen. Nach etwas Recherche bin ich auf distrokid.com gestoßen. Deshalb waren meine Techno-Tracks, die rückblickend betrachtet deutlich zu wenig Bass hatten, auf Spotify, Apple Music und x anderen Plattformen abspielbar. Am Ende hat mich das Experiment ungefähr 15 Euro für ein Jahr gekostet. Wenn ich ein fähiger Indie-Musiker wäre, wüsste ich wie ich meine Tracks veröffentlichen könnte. Aber zurück zum Thema Netzkultur. Mit Gifs hat sich eine Technologie durchgesetzt, die eigentlich ziemlich alt ist.
+Mit etwas Übung und mehr Zeit wurde es besser, aber die Zeit war knapp und andere Hobbies haben mir mehr Spaß gemacht. Nach meinem Kurztrip in die Webcomics hatte ich auch noch Musik auf meiner Todo-Liste. Ich wollte es auch ausprobieren und an den Spaß auf der Playstation 1 mit dem Programm "Music 2000" in meiner Jugend anknüpfen. Richtig spannend dabei war aber eigentlich das Ziel diese MP3s auch auf allen Streamingplattformen zu veröffentlichen. Nach etwas Recherche bin ich auf distrokid.com gestoßen. Deshalb waren meine Techno-Tracks, die rückblickend betrachtet noch dazu deutlich zu wenig Bass hatten, auf Spotify, Apple Music und x anderen Plattformen abspielbar. Am Ende hat mich das Experiment ungefähr 15 Euro für ein Jahr gekostet. Wenn ich ein fähiger Indie-Musiker wäre, wüsste ich wie ich meine Tracks veröffentlichen könnte. Aber zurück zum Thema Netzkultur. Mit Gifs hat sich eine Technologie durchgesetzt, die eigentlich ziemlich alt ist.
 
 GIFs
 Die animierten Bildchen fristeten über 20 Jahre ein Nischendasein und kamen in Form von "Reaction Gifs" oder in kurzen Ausschnitten aus beliebten Serien und Filmen zurück. Das lag vor allem daran, dass im Jahre 2006 wesentlich Patente des Formates ausliefen. Wodurch das Bild-Format ohne Lizenzkosten genutzt werden konnte. Danach wurden Gifs als Reaktion in viele Apps integriert und immer weiter verbreitet. Die Animationen sind nicht besonders sparsam. Das heißt, längere Gifs bestehen schnell aus einige Megabyte an Daten. Trotzdem ist das Format eben auf sehr vielen Plattformen vorhanden.
 
-Mit Webseiten wie Giphy oder Tenor ist es deutlich einfacher geworden überhaupt das passende Gif für seine Situation zu finden. Die Klassiker sind Facepalm- (gerne auch scherzhaft als "Gesichtspalme" übersetzt) oder Katzen-Gifs. Gifs sind zwar ein Urheberrechtsminenfeld, aber kulturell ungemein wichtig geworden.
+Mit Webseiten wie Giphy oder Tenor ist es deutlich einfacher geworden überhaupt das passende Gif für seine Situation zu finden. Die Klassiker sind ein Facepalm- (gerne auch scherzhaft als "Gesichtspalme" übersetzt) oder Katzen-Gifs. Gifs sind zwar ein Urheberrechtsminenfeld, aber kulturell ungemein wichtig geworden.
 
 Manchmal sagt ein Gif mehr als tausend Worte.
 
@@ -670,7 +670,7 @@ Maulwurf konnten später die Haupttäter enttarnt und verhaftet werden.
 
 
 
-Im Anonymous Umfeld habe ich die meisten Hacker-Strategien gelernt. Damals, als sich Hacker/-innen noch nicht schämen mussten in diesem Kollektiv zusammengeschlossen zu sein, gab es einige offene Chats und einzelnee Hacker/-innen mit denen ich mich austauschen konnte. Von Anonymisierung, Social Engineering, über Sicherheitslücken bis zur Informationsbeschaffung. Nach LulzSec und anderen Fake-Anonymous-Seiten war der Ruf des Labels komplett zerstört. Mit LulzSec gingen wichtiger Hacker verloren und generell wurde durch die V-Mann Geschichte eine starke Unsicherheit verbreitet. Am Ende stirbt aber nur das Label und nicht die Idee.
+Im Anonymous Umfeld habe ich die meisten Hacker-Strategien gelernt. Damals, als sich Hacker/-innen noch nicht schämen mussten in diesem Kollektiv zusammengeschlossen zu sein, gab es einige offene Chats und einzelne Hacker/-innen mit denen ich mich austauschen konnte. Von Anonymisierung, Social Engineering, über Sicherheitslücken bis zur Informationsbeschaffung. Nach LulzSec und anderen Fake-Anonymous-Seiten war der Ruf des Labels komplett zerstört. Mit LulzSec gingen wichtiger Hacker verloren und generell wurde durch die V-Mann Geschichte eine starke Unsicherheit verbreitet. Am Ende stirbt aber nur das Label und nicht die Idee.
 
 An dieser Stelle: RIP Anonymous.
 
@@ -1086,7 +1086,7 @@ Am Ende musst du wissen und verstehen wie Variablen, Datentypen funktionieren, w
 Wer auf Probleme stößt und findest du mit etwas Glück Hilfe oder funktionierende Beispiele im WWW. Stackoverflow wird dein guter Freund werden. Aber passe dabei auf, schau vorher in die Dokumentation was du dort raus kopierst. ;)
 
 —
-Was in jedem Hacker Guide erwähnt wird ist HTML. Jeder Hacker sollte die Grundlagen von HTML kennen, schließlich ist das WWW damit gebaut. Manche Hacker Guides behaupten auch, dass du als erste "Programmiersprache" HTML lernen sollst. Nach dem ersten Abschnitt auf Wikipedia sollte klar sein, dass HTML keine Programmiersprache ist. Es ist eine Markup Language. Die kümmert sich nur um Gliederungen und Formatierung.
+Was in jedem Hacker Guide erwähnt wird ist HTML. Jeder Hacker sollte die Grundlagen von HTML kennen, schließlich ist das WWW damit gebaut. Manche Hacker Guides behaupten auch, dass du als erste "Programmiersprache" HTML lernen sollst. Nach dem ersten Abschnitt auf Wikipedia sollte jedem klar sein, dass HTML keine Programmiersprache ist. Es ist eine Markup Language. Die kümmert sich nur um Gliederungen und Formatierung.
 
 HTML
 Die "Hypertext Markup Language" wird benutzt, um im Browser deiner Wahl eine Webseite anzuzeigen. HTML gibt die Struktur der Seite vor, beinhaltet Links zu anderen Seiten und Bilder. CSS, die Abkürzung für: "Cascading Style Sheets" macht die HTML Elemente hübsch, weil es beschreibt wie der Browser diese darstellen soll.
@@ -1215,7 +1215,7 @@ Von Hacker/-innen wird erwartet, dass sie fähig sind verschlüsselte E-Mails zu
 PGP
 Da E-Mails im Internet grundsätzlich unverschlüsselt sind, ist es wichtig, dass du verschlüsselte Mails empfangen und verschicken kannst. Nur mit Glück werden Mails überhaupt beim Transport zwischen Mailservern verschlüsselt übertragen werden.
 
-Als technikbegeisterter Bastler kannst du ganz tolle OpenPGP Software installieren und konfigurieren. Normalsterbliche Nutzer haben dabei eher Probleme, weil die Software alles andere als leicht verständlich ist. Hier stoßen wir auf das übliche Problem. Für Programmierer/-innen und Bastler/-innen steht die Sicherheit an oberster Stelle. Für den normalen Endanwender steht Funktionalität und wenig Konfiguration ganz oben. Das ist bei PGP mit dem Schlüsselmanagement z.B. für verschiedene Geräte schon zu schwierig.
+Als technikbegeisterter/-e Bastler/-in kannst du tolle OpenPGP Software installieren und konfigurieren. Normalsterbliche Nutzer haben dabei eher Probleme, weil die Software alles andere als leicht verständlich ist. Hier stoßen wir auf das übliche Problem. Für Programmierer/-innen und Bastler/-innen steht die Sicherheit an oberster Stelle. Für den normalen Endanwender steht Funktionalität und wenig Konfiguration ganz oben. Das ist bei PGP mit dem Schlüsselmanagement z.B. für verschiedene Geräte schon zu schwierig.
 
 Das einfachste Tool, was ich bisher gefunden habe, ist ein PGP-Plugin für die bekanntesten Webmailer wie GMX, Outlook oder GMail. Eigene Webmailer können auch hinzugefügt werden. Es heißt mailvelope.com und ist eine Erweiterung für Chrome und Firefox.
 
@@ -2209,11 +2209,11 @@ Wer bereits gemeldete Phishing Webseiten sucht, der wird auf https://openphish.c
 
 Was könnten wir tun? JavaScript in die Webseite einbinden, dass ständig das Formular ausfüllt und mit zufälligen Daten absendet. Das ist möglich, allerdings kann es später, wenn ein guter Hacker die Datenbank in die Hände bekommt und die Opfer informieren möchte, zu Problemen führen, weil auch diese Person nicht unterscheiden kann was Fake oder Echt ist.
 
-Trotzdem gehe ich gerne die Theorie durch. Hier haben wir ein Beispiel von "Bank of America". Was auf einer womöglich gehackten Wordpress Installation liegt.
+Trotzdem gehe ich gerne die Theorie durch. Hier haben wir ein Beispiel von "Bank of America" auf einer (womöglich) gehackten Wordpress Installation.
 
 
 
-Es gibt verschiedene Varianten, wie sich das programmieren lässt. Eine davon wäre ein Script im Browser selbst, dass die Seite auf normale Art und Weise ausfüllt und absendet. Das ist von manuellen Eingaben nicht zu unterscheiden.
+Es gibt verschiedene Varianten, wie sich das programmieren lässt. Eine Möglichkeit wäre ein Script im Browser selbst, dass die Seite auf normale Art und Weise ausfüllt und absendet. Das ist von manuellen Eingaben nicht zu unterscheiden.
 
 Wir installieren eine Browser Erweiterung, die uns erlaubt, auf jeder Seite eigenes Javascript auszuführen. Dadurch wird unser Script gespeichert und bei jedem Besuch der Seite gestartet.
 
@@ -2267,9 +2267,9 @@ Die gehobene Variante wäre eine Abfrage an diese API: https://randomuser.me. Do
 Soweit zum Kali Linux Exkurs. Da gibt es genug zum Ausprobieren. Nachdem die Grundlagen aus dem Security Bereich angeschnitten wurden, fange ich mit eigenem Code an.
 
 Das Internet scannen
-Das "Internet der Dinge" (= Internet of Things) ist eine tolle Sache. An Alltagsgegenstände wird ein WLAN Modul eingebaut, damit es ferngesteuert werden kann. Meistens auch noch über das Internet. Allerdings werden die wenigsten dieser Systeme überhaupt aktualisiert, wenn eine Sicherheitslücke auftritt. In den meisten Fällen müssten die Besitzer/-innen diese Informationen bekommen und die Mühe aufbringen ihre Kaffeemaschine zu updaten.
+Das "Internet der Dinge" (= Internet of Things) ist eine tolle Sache. In Alltagsgegenstände wird ein WLAN Modul eingebaut, damit es ferngesteuert werden kann. Meistens auch noch über das Internet. Allerdings werden die wenigsten dieser Systeme überhaupt aktualisiert. In den meisten Fällen müssten die Besitzer/-innen diese Informationen bekommen und die Mühe aufbringen ihre Kaffeemaschine zu updaten.
 
-Um solche und andere Systeme zu finden, muss ein Hacker nicht viel tun. Er muss nämlich eigentlich nur scannen. Was in diesem Fall nichts anderes ist als das Ausprobieren von IPv4 Adressen, freundliches Anklopfen und schauen, was dort antwortet.
+Um solche und andere Systeme zu finden, muss ein Hacker nicht viel tun. Er muss eigentlich nur scannen. Was in diesem Fall nichts anderes ist als das Ausprobieren von IPv4 Adressen, freundliches Anklopfen und schauen, was dort antwortet.
 
 Ich zeige die Grundlagen dafür, denn auf dieser Basis können auch andere Dienste gescannt werden oder statt IPv4 könnte IPv6 benutzt werden. Wie auch immer das Internet ist groß und es wird lange dauern.
 
@@ -2284,7 +2284,7 @@ Die gefunden Webcams speichern und auf der eigenen Webseite anzeigen.
 
 Grundsätzlich lässt sich das mit netzwerkfähigen Programmiersprachen umsetzen. Ich nehme dieses Mal NodeJS, weil ich den Scanner auch veröffentlichen möchte. Aber keine Sorge, wir programmieren etwas ähnliches auch noch in Python.
 
-Wir brauchen eine Bibliothek, die einfache Requests verschicken kann und einen Node HTML Parser, der mir auf der Webseite schon mal ein paar Informationen besorgt. Interessant wäre, ob es auf der Webseite ein Formular mit Login und Passwortabfrage gibt.
+Wir brauchen eine Bibliothek, die einfache Requests verschicken kann und einen Node HTML Parser, der mir von der Webseite schon mal ein paar Informationen besorgt. Interessant wäre, ob es auf der Webseite ein Formular mit Login und Passwortabfrage gibt.
 
 const request = require('request');
 const express = require('express');
@@ -2298,9 +2298,9 @@ for (var oct1 = oct1start; oct1 < 253; oct1++) {
 	// build ipv4 and check for web server
 }
 
-Außerdem speichere ich die IP Adresse bei der wir zuletzt waren, alle Webserver die eine Antwort geben, deren Server-Header, welches System im Header steht und ob es ein Login/Passwort Formular gibt.
+Außerdem speichere ich die IP Adresse bei der wir zuletzt waren, alle Webserver, die eine Antwort geben, deren Server-Header (Systemname) und ob es ein Login/Passwort Formular gibt.
 
-Damit nicht viel zu viele Requests raus gehen und mir die Netzwerkverbindung auslasten (zu viele gleichzeitige Verbindungen) warte ich alle 10 IP Adressen bis der Request abgeschlossen wurde. Da ich auf Port 80, 8080 und 8081 prüfe, werden 30 Requests gleichzeitig gesendet, womit ich den Rest meines Computers noch normal nutzen kann, allerdings dauert der Scan dadurch länger.
+Damit nicht viel zu viele Requests raus gehen und mir die Netzwerkverbindung auslasten (zu viele gleichzeitige Verbindungen) warte ich alle 10 IP Adressen bis der Request abgeschlossen wurde. Da ich auf Port 80, 8080 und 8081 prüfe, werden 30 Requests gleichzeitig gesendet, womit ich den Rest meines Computers noch normal nutzen kann. Allerdings dauert der Scan dadurch länger.
 
 Der komplette Code befindet sich auf Github: https://github.com/Leetcore/node-webcam-scanner.
 
@@ -2308,16 +2308,18 @@ Neben der Suche nach dieser speziellen Live Webcam lohnt es sich auch einfach di
 
 Sollte es ein Passwort geben, könnten wir im Internet herausfinden was das Standardpasswort für dieses Gerät ist. Aber wir erinnern uns: Logins und Passwörter "umgehen" ist illegal. In keinem meiner gezeigten Beispiel war ein Passwort notwendig. Mit der IP-Adresse sind die Webserver erreichbar bzw. erreichbar gewesen.
 
+…
+
 Währenddessen hat mein Web Scanner ein Lenovo Media Center ohne Passwortabfrage gefunden. Das ist auch ein Punkt auf meiner Bucket List, den ich unbedingt abhaken wollte:
 
-[x] Fremdes, ungesichertes Media Center im Internet finden und dann was mit Justin Bieber hören.
+[x] Fremdes, ungesichertes Media Center im Internet finden und dann Justin Bieber hören.
 
 Auch ein schöner Fund ist das D-Link ShareCenter, dass nach einem Reset dem Admin Nutzer gar kein Passwort mehr gibt, sodass ein Klick auf das Login, dich als Admin einloggt. Okay…
 
 Es gibt eine (teilweise kostenpflichtige) Suchmaschine für solche Dienste. Die funktioniert so ähnlich, wie das was wir programmiert haben: www.shodan.io. Wer sich die Wartezeit sparen möchte und es in seine eigene Scripte integrieren will, kann dort verschiedene Bibliotheken für Programmiersprachen finden.
 
 Internet of Things
-Das ganze Netz ist voll mit Geräten, von denen die Besitzer vermutlich nicht wissen, dass sie öffentlich erreichbar sind, wie z.B. Drucker. Es kann auch durchaus passieren, dass wir auf einem Honeypot landen. Das sind Systeme, die im Netz hängen, um zu schauen wer sie hacken will und vor allem wie.
+Das ganze Netz ist voll mit Geräten, von denen die Besitzer vermutlich nicht wissen, dass sie öffentlich erreichbar sind, wie z.B. Drucker. Es kann auch durchaus passieren, dass wir mal auf einem Honeypot landen. Das sind Systeme, die im Netz hängen, um zu schauen wer sie hacken will und vor allem wie.
 
 
 
@@ -2403,7 +2405,7 @@ Ein paar Wochen später habe ich wieder auf den Server geschaut, der vermutlich 
 
 In den Ordnern befinden sich nun Kommentare in Unterordnern.
 
-Ein Blick auf die Bitcoin Adresse verrät keine eindeutigen Zahlungen. Es wurde keine eindeutige Zahlung von außen getätigt. Diese Bitcoin Wallets werden oft von den Erpressern mitbenutzt, deshalb ist nicht jede Zahlung auf dieser Wallet von einem Opfer. Solche Zahlung sind oft eindeutig zu erkennen, wenn von einem Bitcoin Market eingezahlt wurde (mit einer realen Währung).
+Ein Blick auf die Bitcoin Adresse zeigt keine Transaktionen. Es wurde keine eindeutige Zahlung von außen getätigt. Diese Bitcoin Wallets werden oft von den Erpressern mitbenutzt, deshalb ist nicht jede Zahlung auf dieser Wallet von einem Opfer. Solche Zahlung sind oft eindeutig zu erkennen, wenn direkt von einem Bitcoin Market eingezahlt wurde (mit einer realen Währung).
 
 Ein weiterer schöner Fund: Die komplette Gebäudesteuerung offen im Internet und es ist kein Passwort zur Steuerung notwendig. Gastlogin mit weitreichenden Rechten für die Anlage. Da ich so eine Gebäudemanagement nicht alle Tage vor der Nase habe, verstehe ich auch nur die Hälfte. Da steht jedenfalls, dass ich den Status für verschiedene Alarmpunkte von "off" auf höhere Alarmstufen hoch setzen könnte.
 
@@ -2504,7 +2506,7 @@ site:.tldomain.de
 
 "Site:" beschränkt die Ergebnisse auf eine Domain.
 
-Wenn Sicherheitslücken bekannt geworden sind, lassen sie sich teilweise mit Suchmaschinen finden. Nehmen wir mal das Beispiel von einem Exploit, den ich gemeldet hatte: Die UN hatte ein eigenes Forum. Es lieft dort das Akiva Weboard. Akiva WebBoard 8.x - SQL Injection. Dort konnte mit dem "Google Dork": "/Powered by WebBoard 8" entsprechende Webseiten mit dieser Software gefunden werden. Da die Softwareversion heute ziemlich alt ist, gibt es heute keine Ergebnisse mehr. Aber zu meinen Anfangszeiten (2012) konnte jeder diese Boards finden und das Administrator-Login umgehen mit folgender SQL Injection:
+Wenn Sicherheitslücken bekannt geworden sind, lassen sie sich teilweise mit Suchmaschinen finden. Nehmen wir mal das Beispiel von einem Exploit, den ich gemeldet hatte: Die UN hatte ein eigenes Forum. Es lieft dort das Akiva Weboard. Akiva WebBoard 8.x - SQL Injection. Dort konnte mit dem Google Dork: "/Powered by WebBoard 8" entsprechende Webseiten mit dieser Software gefunden werden. Da die Softwareversion heute ziemlich alt ist, gibt es heute keine Ergebnisse mehr. Aber zu meinen Anfangszeiten (2012) konnte jeder diese Boards finden und das Administrator-Login umgehen mit folgender SQL Injection:
 admin’--
 
 Hochkomma beendet die SQL Abfrage und zweimal Minus kommentiert den Rest aus. Der Rest der Abfrage wird als interner Kommentar betrachtet. Die Abfrage ist so gebaut, dass zuerst der Username mit dem passenden Passwort abgefragt wird. Da wir aber hier nach dem Usernamen den Rest weg kommentieren, wird überhaupt nicht mehr geprüft, ob das Passwort stimmt.
@@ -2539,7 +2541,7 @@ RequestBin ist eine Webseite, die empfangene HTTP Requests anzeigt. Die URL ist 
 
 Dadurch ist es möglich die Browser-Session auf der Webseite zu kopieren. Das Ganze nennt sich "Cookie-Stealing". Wenn sich ein Admin eingeloggt hat und unser Script-Schnipsel ausgeführt wird, erhalten wir sein Admin-Cookie. Wir können das kopierte Cookie in unseren Browser einfügen und sind danach auch als Admin eingeloggt.
 
-Eine andere Variante, weshalb Cross Site Scripting gefährlich ist: Es lässt sich damit eine Phishingseite über die echte Webseite bauen, sodass sie anhand der URL nicht zu unterscheiden ist.
+Eine andere Variante, weshalb Cross Site Scripting gefährlich ist: Es lässt sich damit eine Phishingseite über die echte Webseite bauen, sodass sie anhand der URL nicht zu unterscheiden sind.
 
 Je nachdem auf welcher Unterseite sich die Lücke befindet, lässt sich auch ein Keylogger einbinden.
 
@@ -2559,7 +2561,7 @@ Wir setzen dazu einen Event-Listener auf "keyup", der direkt nach dem eintippen 
 https://github.com/Leetcore/hackerz/blob/master/Keylogger.js
 
 Web Logins knacken
-Es gibt einige Tools, um Web Logins zu hacken. Es wäre denkbar über eine SQL Injection oder durch das automatisierte Ausprobieren von Passwörtern. Der entscheidende Faktor dabei heißt Zeit. Das stumpfe Ausprobieren von Passwörtern muss lange dauern, damit es sich nicht lohnt. Deshalb ist es wichtig, dass Passwörter möglichst lang sind. Statt einem Passwort sollte sowieso eher an eine Passphrase (Geheimsatz) gedacht werden. Diese ist länger, leichter zu merken, aber für den Computer schwerer zu knacken.
+Es gibt einige Tools, um Web Logins zu hacken. Es wäre denkbar über eine SQL Injection oder durch das automatisierte Ausprobieren von Passwörtern. Der entscheidende Faktor dabei heißt Zeit. Das stumpfe Ausprobieren von Passwörtern muss lange dauern, damit es sich nicht lohnt. Deshalb ist es wichtig, dass Passwörter möglichst lang sind. Statt einem Passwort sollte sowieso an eine Passphrase (Geheimsatz) gedacht werden. Der ist leichter zu merken, aber für den Computer schwerer zu knacken.
 
 Brute Force
 Web Logins können ganz unterschiedlich sein, deshalb gibt es nicht nur einen Weg, um ein Script auf alle Logins los zu lassen. In der Zeit als ich mich sehr intensiv mit Webseiten und Passwörtern auseinander gesetzt hatte, wurde ein Artikel mit dem Titel "Netzgemeinde ihr werdet den Kampf verlieren" veröffentlicht. Darin wurde in recht lustiger Schreibweise ein Kampf gegen die Netzgemeinde angezettelt.
@@ -2584,7 +2586,7 @@ Der Login Prozess läuft folgendermaßen ab:
 
 
 
-Wie wir diesen HTTP Post Request nun absenden ist eigentlich egal.  Es gibt keine besonderen Cookies oder Request-Token, der verhindern würden, dass wir in diesem Request das Passwort ständig ändern. Es gibt auch keinen Hinweis darauf, dass das Loginformular viele Loginversuche unterbinden würde und eventuell eine Wartezeit einbaut.
+Wie wir diesen HTTP Post Request nun absenden ist eigentlich egal. Es gibt keine besonderen Cookies oder Request-Token, der verhindern würden, dass wir in diesem Request das Passwort ständig ändern. Es gibt auch keinen Hinweis darauf, dass das Loginformular viele Loginversuche unterbinden würde und eventuell eine Wartezeit einbaut.
 
 (Auch sehr schön, dass ich oben die IP-Adresse entfernen wollte, was ich bei Host getan habe, aber nicht bei Referrer. Das Thermostat war auch nur kurzzeitig erreichbar.)
 
@@ -2673,7 +2675,7 @@ Geld:
 Wer nicht die Fähigkeiten besitzt, aber entsprechend das Geld hat, kann: Entweder Informationen kaufen, unzufriedene Mitarbeiter/-innen bestechen oder Sicherheitslücken aufkaufen.
 
 Timing:
-Wer nicht die Fähigkeiten besitzt und auch nicht das Geld hat, hat immer noch Möglichkeiten. Dabei kommt es auf das richtige Timing an. Wenn Sicherheitslücken veröffentlicht werden und es noch keinen Patch dafür gibt, wird es kritisch. Denn nun müssen die Angreifer nur schneller als die IT-Abteilung sein. Schon haben sie einen Fuß in der Tür. Eine weitere Variation von Timing wäre z.B. regelmäßig alle Möglichkeiten abzuklopfen und darauf zu warten bis ein Fehler passiert.
+Wer nicht die Fähigkeiten besitzt und auch nicht das Geld hat, hat immer noch Möglichkeiten. Dabei kommt es auf das richtige Timing an. Wenn Sicherheitslücken veröffentlicht werden und es noch keinen Patch dafür gibt, wird es kritisch. Denn nun muss der Angreifer nur schneller als die IT-Abteilung sein. Schon haben sie einen Fuß in der Tür. Eine weitere Variation von Timing wäre z.B. regelmäßig alle Möglichkeiten abzuklopfen und darauf zu warten bis ein Fehler passiert.
 
 In den Weiten des Internets gibt es verschiedene Möglichkeiten die Theorie in die Praxis umzusetzen. Da wir keine fremde Systeme hacken dürfen, bleibt uns die eigene Infrastruktur oder Dienste wie "Hack The Box" oder "Vuln Web". Dort werden unsichere Webseiten oder Systeme verfügbar gemacht, um Sicherheitslücken zu testen. Ich habe mir solche Testumgebungen bisher immer selbst eingerichtet, aber genau da liegt auch das Problem vergraben. Dann weiß ich vorher welche Lücken das System hat. Der Spaß an der ganzen Sache ist eigentlich die Lücken zu finden.
 
@@ -2724,7 +2726,7 @@ Das Upgrade für diese Session wird durchgeführt mit:
 
 Das hat allerdings nicht direkt funktioniert, deshalb suche ich nach "shell to metapreter" mit "search shell_to". Wähle es aus mit "use 0". Schaue wie es konfiguriert ist mit "show options". Es fehlt die Info welche Session gewählt werden soll. Das lege ich fest mit "set SESSION 1". Da die andere Session noch geöffnet ist, muss ich den LPORT ändern. Nachdem es konfiguriert wurde, starte ich es mit "exploit" und bekomme eine Meterpreter Session.
 
-Mit "shell" komme ich aus der Meterpreter Session wieder ins Windows CMD. Kann dort mit "whoami" meine Benutzerrechte überprüfen. Zurück im Meterpreter lasse ich mir die aktuellen Prozesse anzeigen mit "ps". Dort suche ich mir einen Systemprozess heraus. Davon brauche ich die PID (= process id). Die Nummer ganz links.
+Mit "shell" komme ich aus der Meterpreter Session wieder ins Windows CMD. Kann dort mit "whoami" meine Benutzerrechte überprüfen. Zurück im Meterpreter lasse ich mir die aktuellen Prozesse anzeigen mit "ps". Dort suche ich mir einen Systemprozess heraus. Davon brauche ich die PID (= process id). Die Zahl ganz links.
 
 2756  640   svchost.exe           x64   0        NT AUTHORITY\SYSTEM           C:\Windows\System32\svchost.exe
 
@@ -2916,7 +2918,7 @@ Zuerst mache ich ein paar Felder schwarz und schreibe hinein, dass doch bitte de
 
 
 
-Ich hatte schon mal mit VBA zu tun, aber du musst das nicht wirklich programmieren können, um ans Ziel zu kommen. Wir erstellen ein Makro. Das Verhalten soll genauso wie im vorherigen Kapitel sein. Unser Ziel ist wie bisher: Wir laden uns Code herunter und führen diesen aus.
+Ich hatte schon mal mit VBA zu tun, aber du musst das nicht wirklich programmieren können um ans Ziel zu kommen. Wir erstellen ein Makro. Das Verhalten soll genauso wie im vorherigen Kapitel sein. Unser Ziel ist wie bisher: Wir laden uns Code herunter und führen diesen aus.
 
 Ich spiele etwas mit den Makros herum und lande bei "Call Shell". Mit dieser Funktion kann ich Shell Befehle ausführen, also exakt wie oben. Leider meckert Excel. Es warnt vor einem möglicherweise schädlichen Makros und schließt das Dokument. Ich dachte einige Zeit, dass ich hier in einer Sackgasse bin und ich erst einen unbekannten Trick suchen muss, um das hinzubekommen. Nach einigen Tests ist aber klar, dass es an "Call Shell" liegt. Ich befrage eine Suchmaschine, ob es andere Möglichkeiten gibt eine Shell zu öffnen.
 
@@ -2939,7 +2941,9 @@ End Sub
 
 Derzeit ist dieser Code in Excel, Stand Januar 2020, nach einem Klick auf "Inhalt aktivieren" ausführbar. Möglicherweise wacht jemand bei Microsoft auf und blockiert auch diesen Aufruf. Aber bis dahin führt dieses Makro Shellbefehle aus, die es direkt von einer Webseite lädt. Diese Aufgabe konnte ich also erfolgreich abschließen.
 
-Update: Meine Vermutung war richtig und der Trick hat ungefähr bis Februar funktioniert.
+…
+
+Meine Vermutung war richtig und der Trick hat ungefähr bis Februar funktioniert. Virenscanner und Schadcode leben ein ständiges Katz-und-Maus-Spiel.
 
 Wer den Code in eine "startup.bat" Datei schreibt und in den Autostart-Ordner legt, führt den Code auf der Webseite bei jedem Neustart aus. Auf einem Windows PC ist der Pfad für den Autostart-Ordner übrigens:
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
@@ -2999,7 +3003,7 @@ Es gibt einfache Tools mit Benutzeroberfläche, die ein Image auf eine SD-Karte 
 Eine Internetsuche sagte mir, wie ich das Image mit "dd" auf die SD-Karte bekomme:
 sudo dd if=./2019-09-26-raspbian-buster.img of=/dev/disk2 bs=1m
 
-Wer sich das leben weniger schwer machen will, kann sich auch "balenaEtcher" herunterladen, wie es die Raspberry Pi Anleitung vorschlägt. Nach einiger Wartezeit ist das Image auf dem Gerät und kann gestartet werden. Ich schließe den Pi an Tastatur, Maus und Monitor an und Raspian fährt hoch.
+Wer sich das Leben weniger schwer machen will, kann sich auch "balenaEtcher" herunterladen, wie es die Raspberry Pi Anleitung vorschlägt. Nach einiger Wartezeit ist das Image auf dem Gerät und kann gestartet werden. Ich schließe den Pi an Tastatur, Maus und Monitor an und Raspian fährt hoch.
 
 In der Anleitung steht sogar, dass die eine "Zeile ins Terminal kopieren"-Installation kontrovers diskutiert ist, weil Code ausgeführt wird, den wir nicht sehen. Grundsätzlich ist das richtig. Ich schaue mir aber auch nicht von jedem Open Source Projekt den kompletten Code an. In meinem Fall akzeptiere ich das Risiko.
 
@@ -3190,7 +3194,7 @@ Nachdem mir das so durch den Kopf ging, sind wir später wieder zurück und habe
 Spammer
 Auch normale Spammer nutzen E-Mails, um dich zu einer Überweisung zu bewegen. Die Geschichten sind meist völliger Quatsch, aber genau das ist die Absicht. Wer auf so eine dünne Geschichte reagiert und sie möglicherweise für wahr hält, der ist auch eher bereit auf den kompletten Betrug herein zu fallen. Die schlecht geschriebenen Spam-Nachrichten filtern schon alle kompetenten Internetnutzer/-innen heraus, was den Betrug für die Spammer weniger aufwendig macht.
 
-Normalerweise läuft es so ab: Dir wird etwas versprochen. Meistens viel Geld, was bei dir geparkt werden soll und was du dann teilweise oder komplett behalten darfst. "Unglücklicherweise" (haha) gibt es plötzlich Probleme bei der Durchführung. Irgendwo müssen Bankgebühren bezahlt werden z.B. du musst zuerst etwas überweisen und danach kommen die Millionen auf dein Konto. Nachdem du Geld überwiesen hast, geht es für den Spammer erst richtig los. Wer gezahlt hat, will natürlich auch jetzt die Millionen haben. Also geht die fiktive Geschichte weiter bis ein anderes Hindernis auftaucht, was nur du mit einer weiteren Überweisung oder einem Ausweis (Identitätsdiebstahl!) beheben kannst.
+Normalerweise läuft es so ab: Dir wird etwas versprochen. Meistens viel Geld, das bei dir geparkt werden soll und das du dann teilweise oder komplett behalten darfst. "Unglücklicherweise" (haha) gibt es plötzlich Probleme bei der Durchführung. Irgendwo müssen Bankgebühren bezahlt werden z.B. du musst zuerst etwas überweisen und danach kommen die Millionen auf dein Konto. Nachdem du Geld überwiesen hast, geht es für den Spammer erst richtig los. Wer gezahlt hat, will natürlich auch jetzt die Millionen haben. Also geht die fiktive Geschichte weiter bis ein anderes Hindernis auftaucht, was nur du mit einer weiteren Überweisung oder einem Ausweis (Identitätsdiebstahl!) beheben kannst.
 
 Wenn die Person bereits einmal gezahlt hat, möchte sie nicht gerne wahr haben, dass sie Opfer eines Betrugs geworden ist und klammert sich vielleicht an die Hoffnung, doch noch etwas von den Millionen zu sehen. Der Spammer verspricht dir weiterhin das Geld, setzt Termine für die finale Überweisung und macht dir Hoffnung. Solange bis eben nichts mehr zu holen ist, du dich nicht mehr meldest oder die Sache aufgeflogen ist.
 
@@ -3273,7 +3277,7 @@ Einmal durchatmen. Für mich persönlich hat sich die Tipparbeit an diesem Buch 
 
 Das Internet vernetzt immer mehr Geräte und soll unseren Alltag einfacher machen. Das ist auf der einen Seite toll, aber auf der anderen Seite gibt es auch immer wieder Datenschutz- und Sicherheitsproblemen. Aus Sicht der Hacker/-innen wird der öffentliche Spielplatz immer größer.
 
-Dieses Buch hat dafür gesorgt, dass ich auch beruflich in den Cybersecurity Bereich geschaut habe. Jetzt kann ich endlich meine Leidenschaft für IT-Security ausleben. Live-Hacking, Awareness Schulungen und Produkte sind geplant. <3
+Dieses Buch hat dafür gesorgt, dass ich meinen Traum vom beruflichen Hacking wiederbeleben wollte. Meine Idee war Live Hacking und Vorträge wieder anzubieten. Daraufhin bin ich auf ein Cybersecurity Startup in der Region gestoßen und arbeite seitdem dort.
 
 Die Lösungen für die Rätselecke:
 Basic Instinct.
