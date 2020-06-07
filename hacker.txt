@@ -788,7 +788,7 @@ Beispiel: 0 NOT = 1
 
 NAND = Nicht Und.
 Sobald ein Eingang 0 ist, wird der Ausgang 1.
-Beispiel: 1 NAND 0 = 0.
+Beispiel: 1 NAND 0 = 1.
 
 NOR = Nicht Oder.
 Alle Eingänge müssen 0 sein, um am Ausgang 1 zu erhalten.
