@@ -1148,7 +1148,7 @@ fn main() {
     println!("Hello, world!");
 }
 
-Ich installiere Rust, kopiere die Zeilen in den Editor. Speichere es als main.rs und tippe "rustc main.rs" in meine Shell. Es wird kompiliert und eine Anwendung mit dem Namen "main" erscheint. Wenn ich diese in der SHell ausführe, sehe ich mein "Hello, world!".
+Ich installiere Rust, kopiere die Zeilen in den Editor. Speichere es als main.rs und tippe "rustc main.rs" in meine Shell. Es wird kompiliert und eine Anwendung mit dem Namen "main" erscheint. Wenn ich diese in der Shell ausführe, sehe ich mein "Hello, world!".
 
 Debugging wäre auch schön, sodass ich während der Laufzeit stoppen und Fehler suchen kann. Dafür muss ich auf meinem System "CodeLLDB" installieren.
 
