@@ -678,7 +678,7 @@ Neben diesen Gruppierungen ist die Open Source Szene noch besonders interessant,
 
 —
 Open Source
-Ein wichtiger Grundsatz für Hacker/-innen ist Open Source. Der Quellcode der Programme und Scripte sollte offen im Netz verfügbar sein, um anderen die Möglichkeit zu geben den Code zu überprüfen, sowie diesen zu nutzen und weiter zu entwickeln. Außerdem schafft transparenter Code vertrauen.
+Ein wichtiger Grundsatz für Hacker/-innen ist Open Source. Der Quellcode der Programme und Scripte sollte offen im Netz verfügbar sein, um anderen die Möglichkeit zu geben den Code zu überprüfen, zu verstehen und daraus zu lernen, sowie diesen zu nutzen und weiter zu entwickeln. Außerdem schafft transparenter Code vertrauen.
 
 Dieser Code kann unter bestimmte offene Lizenzen veröffentlicht werden, wodurch die Weiterentwicklung ermöglicht. Es gibt einige Lizenzen, die dafür genutzt werden können. Bekannt sind "GNU General Public License" und "MIT Lizenz" (Massachusetts Institute of Technology). GPL erlaubt es die Software auszuführen, zu studieren, zu ändern und zu kopieren. Damit wird euer Projekt zu freier Software.
 
