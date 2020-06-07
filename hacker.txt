@@ -1228,7 +1228,7 @@ Jedes populäre Betriebssystem hat die Möglichkeit die Festplatte zu verschlüs
 
 Einzelne Dateien lassen sich auch verschlüsseln. Anleitungen dafür gibt es genügend. Bei allen Systemen lässt sich das mit Bordmitteln erreichen. Dort werden "virtuelle Festplatten" in den Festplattenprogrammen erstellt, die eingebunden werden können. Diese lassen sich verschlüsseln und sind damit sehr flexibel zu nutzen.
 
-Für Linux sind fortgeschrittene Kenntnisse erforderlich. Anleitung auf ubuntuusers zu finden oder unter "luks containerdatei".
+Für Linux sind fortgeschrittene Kenntnisse erforderlich. Anleitungen sind auf Ubuntu-Users oder unter dem Begriff "luks containerdatei" in einer Suchmaschine deiner Wahl zu finden.
 
 Windows 10:
 Datenträgerverwaltung öffnen.
