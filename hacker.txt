@@ -757,9 +757,7 @@ Zurück zum Beispiel:
 Nehmen wir eine Beispiel:
 00110001 00110011 00110011 00110111
 
-Durch die Leerzeichen wird klar, dass es sich um 1 Byte handelt, das sind 8 Bit also 8 Stellen mit 0 oder 1. Hierbei handelt es sich um ein ASCII (= American Standard Code for Information Interchange) Beispiel. Hierbei können die ersten 4 Bit ignoriert werden, da es sich immer um eine Dezimalzahl handelt.
-
-0001 0011 0011 0111
+Durch die Leerzeichen ist einfacher zu sehen, wo die Bytes beginnen und enden. Ein Byte besteht aus 8 Bits, also 8 Stellen die eine 0 oder 1 sein können. Hierbei handelt es sich um ein ASCII (= American Standard Code for Information Interchange) Beispiel.
 
 Ein Oszilloskop macht die elektrische Spannung in ihrem zeitlichen Verlauf sichtbar. Eine Leitung wird gemessen, dargestellt und bei entsprechender Abtastung einem der beiden Werte zugewiesen. Um etwas Gefühl für Signale zu bekommen, kann ich nur "The sound of the dialup, pictured" von windytan.com empfehlen. Eine Suche nach Bildern im Internet bringt dich auch dahin. Dort wird der berühmte Modemsound erklärt:
 
