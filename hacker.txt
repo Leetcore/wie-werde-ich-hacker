@@ -1305,7 +1305,7 @@ Ich habe mir für die Projekte ein paar interessante Beispiele herausgesucht. Au
 Schönheit
 Für Hacker/-innen steht der Spaß am Gerät im Vordergrund. Neben unzähligen Möglichkeiten wie Schönheit genau aussehen kann, gibt es verschiedene Szenen, die digitale Kunstwerke erstellen. Die "Demo Szene" zählt zu den ältesten. Hier werden aufwendige Animationen programmiert, teilweise auf alter Hardware und möglichst wenig RAM, was eine zusätzliche Herausforderung darstellt.
 
-Eine "Demo" zeigt was der "Szener" mit Code und Algorithmen erschaffen kann. Diese Demos werden immer in Echtzeit berechnet und keine Videos. Der Computer arbeitet beim Abspielen jedesmal die Befehle ab.
+Eine "Demo" zeigt was der "Szener" mit Code und Algorithmen erschaffen kann. Diese Demos werden immer in Echtzeit berechnet und sind keine Videos. Der Computer arbeitet beim Abspielen jedesmal die Befehle ab.
 
 Ein Intro, ist oft auf eine feste Größe beschränkt und deshalb eine größere Herausforderung. Es gibt dort verschiedene Kategorien, Grafik, Animation, Music und dann jeweils die Kategorie der Plattform. Zwei große Veranstaltungen sind z.B. die Revision und Evoke.
 
