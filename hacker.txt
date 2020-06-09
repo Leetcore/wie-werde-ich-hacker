@@ -563,13 +563,15 @@ Grund Nummer 4: Du klickst jede übertriebene Überschrift an.
 
 Clickbaiting Titel sind Headlines, die dich zum Klicken bewegen sollen. Das führt dazu, dass die Webseite Geld für die Werbeanzeigen bekommt,  völlig egal wie der Inhalt ist. Ab diesem Zeitpunkt ist es egal, ob die Meldung überhaupt einen Nachrichtenwert hat oder Inhalt annähernd so ist wie versprochen. Es werden auch gerne "geheime" Haushaltstricks als "Life-Hacks" vermarktet. Die erstbeste Suche nach Life-Hacks bringt mir eine Anleitung der Brigitte, wie ich mein Bad richtig putzen soll. Was daran eine kreative "Hackerleistung" sein soll, habe ich noch nicht herausgefunden. Falls es einen geheimen Knopf gibt, den ich dafür drücken muss, sagt mir bitte Bescheid.
 
-Die populärsten Plattformen (Facebook, YouTube, Twitter) sind auf maximal Werbeeinnahmen optimiert, deshalb werden sowieso schon viel angeklickte Inhalte gerne noch prominenter dargestellt. Alles um die Nutzungszeit so lang wie möglich zu strecken.
+Die populärsten Plattformen (Facebook, YouTube, Twitter) sind auf maximale Werbeeinnahmen optimiert, deshalb werden sowieso schon viel angeklickte Inhalte gerne noch prominenter dargestellt. Alles um die Nutzungszeit so lang wie möglich zu strecken.
 
 Technische Mechanismen dafür:
 Instagram: Unendliches Scrollen ist möglich, es werden nur Likes dargestellt, Hashtags erhöhen die Sichtbarkeit (Spam), kopiert Features anderer Plattformen (Snapchat Videofilter, Stories).
 Facebook: Unendliches Scrollen ist möglich, es werden Likes dargestellt, sinnlose Benachrichtigungen werden angezeigt, kopiert Features anderer Plattformen (Kleinanzeigen, Veranstaltungen, Gruppen oder Snapchat Videofilter, Stories).
 YouTube: Bewertungen werden bei der Suche nicht angezeigt, nur die Anzahl der Aufrufe sind relevant, einmal angeklickte Videos, bringen immer wieder die gleichen Themen in die Empfehlungen, völlig egal, ob der Nutzer das Video davor gut fand. Thumbnails können selbst hochgeladen werden und müssen nicht dem Inhalt entsprechen.
 Twitter: Unendliches Scrollen ist möglich, mehrere Accounts sind leicht erstellt, unnötige Benachrichtigungen, Hashtagspam für höhere Sichtbarkeit, Spam-Bots folgen Personen, die Hashtags posten.
+TikTok:
+Unendliches Scrollen ist möglich, die Videos sind meist nur einige Sekunden lang, die Hintergrundmusik sind häufig die Highlights einzelner Songs, die App ist auf niedrigst möglichen Lag beim Wechsel der Clips ausgelegt. Außerdem schließt der Zurückknopf in der Android Version nicht die App, sondern zeigt stattdessen einen neuen Clip an. Die Werbung geht in der Menge der Videos unter und ist kaum sichtbar gekennzeichnet.
 
 Wenn ein Inhalt nicht mehr erreichbar ist, wird schnell von Zensur gesprochen. Doch ist es wirklich Zensur, wenn der neuste Film von Brad Pitt aus dem Internet gelöscht wurde?
 
@@ -579,6 +581,8 @@ Mit Internetzensur sind Inhalte gemeint, die entweder gelöscht oder gesperrt we
 Neben technischer Zensur wird auch immer wieder durch rechtliche Schritte versucht bestimmte Aussagen zu unterbinden. Wenn dieses bestreben erst die Aufmerksamkeit auf eine Sache lenkt, die dadurch vielfach häufiger verteilt wird, sodass sie nicht so einfach aus dem Internet zu entfernen ist, sprechen wir vom Streisand-Effekt. Damals ging es um ein Foto für das "California Coastal Records Project" auf dem das Haus von Barbra zu sehen ist.
 
 Bisher sieht es bei dem Thema Zensur relativ gut aus. In Deutschland wurde als Reaktion auf ein gewünschtes Zugangserschwerungsgesetz die Kampagne "Löschen statt Sperren" gestartet. Denn die meisten Inhalte auf der Sperrliste, sowieso auf einem so hohen Niveau illegal sind (Terror-Propaganda, Kinderpornografie, Gewalt-Webseiten), dass sie auch gleich weltweit gelöscht werden können. Das ist auch über die üblichen Abuse- Meldungen auf Webseiten möglich.
+
+In Sozialen Medien, hinter denen häufig eine private Firma steht, können einzelne Posts oder Nutzer allerdings auch unauffällig entfernt werden. Beispielsweise zwingt Twitter Nutzer dazu Tweets zu löschen, die gegen die aufgestellten Richtlinien verstoßen, indem der Account bis zur Löschung gesperrt bleibt. Da die meisten Nutzer hunderten Accounts folgen fällt das plötzliche Fehlen eines einzelnen häufig nicht auf. Durch diese Monopolstellung können neben Staaten auch einzelne Firmen öffentliche Meinungen beeinflussen oder Zensieren.
 
 Aufklärung
 Manipulation ist eine autoritäre Methode, bei der ein  Mensch zum gewünschten Handeln gebracht werden soll. Was kann solchen Kampagnen entgegengesetzt werden? Wie kann auf manipulative Kampagnen reagiert werden? Wie können wir reagieren auf politischen Spam im WWW?
@@ -640,7 +644,7 @@ Ich bin sehr oft "Lost in Wikipedia". Wenn ich einmal angefangen habe etwas zu l
 
 Ein absolutes Highlight meiner Urlaubsreise 2019 war der Bryant Park in New York City. Mit Abstand mein Lieblingspark in der Stadt. Dort hatten wir im Sommer das Glück, dass an einem Abend eine "Movie Night" veranstaltet wurde. Ausgewählte Filme wurden im Park auf einer großen Leinwand gezeigt. Präsentiert wurde das Event in diesem Jahr von Netflix. Es war krass zu sehen, wie der ganze Park voll mit Menschen gespannt "Carrie" (1976) geschaut haben. Warum ich das hier erzähle? Ein Foto davon habe ich unter offener Lizenz in die Foto-Gallery der "Bryant Park" Wikipedia-Seite veröffentlicht.
 
-Das Großprojekt Wikipedia funktioniert nur mit freiwilligen Autoren/-innen und Spenden. Da Wikipedia ein gemeinnütziges Projekt ist, können die Spenden von der Steuer abgesetzt werden. Die deutsche Wikipedia hat allerdings auch einige Probleme in ihrer Community. Alle Kritikpunkte sind in einem eigenen Artikel "Kritik an Wikipedia" aufgelistet. Dort wird kritisiert, dass es immer weniger Autoren/-innen gibt. Was daran liegt, dass nicht jeder/jede Nutzer/-in die Grundsätze von Wikipedia kennt oder sich daran hält. Außerdem wird oft unnötig aggressiv über die Relevanz von Artikeln diskutiert. Da Wikipedia für alle offen ist, lässt sich das nicht komplett vermeiden, allerdings werden destruktive Nutzer auch sanktioniert.
+Das Großprojekt Wikipedia funktioniert nur mit freiwilligen Autoren/-innen und Spenden. Da Wikipedia ein gemeinnütziges Projekt ist, können die Spenden von der Steuer abgesetzt werden. Die deutsche Wikipedia hat allerdings auch einige Probleme in ihrer Community. Alle Kritikpunkte sind in einem eigenen Artikel "Kritik an Wikipedia" aufgelistet. Dort wird kritisiert, dass es immer weniger Autoren/-innen gibt, was daran liegt, dass nicht jeder/jede Nutzer/-in die Grundsätze von Wikipedia kennt oder sich daran hält. Außerdem wird oft unnötig aggressiv über die Relevanz von Artikeln diskutiert. Da Wikipedia für alle offen ist, lässt sich das nicht komplett vermeiden, allerdings werden destruktive Nutzer auch sanktioniert.
 
 Digitale Gesellschaft
 Das ist der Name eines Vereins, der sich für Bürgerrechte im Bereich Computer und Internet einsetzt. Der Verein versucht mit politischen Publikationen Einfluss auf die aktuelle Gesetzgebung zu nehmen. Es wird auch zu Demonstrationen informiert, die schlechte Internetgesetze betreffen.
@@ -665,8 +669,7 @@ Das Anonymous Zeichen ist eine Guy Fawkes Maske, die im Film "V wie Vendetta" zu
 
 Das ist die Grundidee von Anonymous.
 
-In diesem Umfeld bildete sich eine Gruppe namens "LulzSec" (= Lacht über eure Sicherheit) die einige DDoS (Distributed Denial of Service, Überlasten von Webseiten) Angriffe und auch Hacks durchgeführt hat. Durch einen 
-Maulwurf konnten später die Haupttäter enttarnt und verhaftet werden.
+In diesem Umfeld bildete sich eine Gruppe namens "LulzSec" (= Lacht über eure Sicherheit) die einige DDoS (Distributed Denial of Service, Überlasten von Webseiten) Angriffe und auch Hacks durchgeführt hat. Durch einen Maulwurf konnten später die Haupttäter enttarnt und verhaftet werden.
 
 
 
@@ -715,8 +718,8 @@ Grundlagen sind eine wichtige Basis, um zu wissen an welcher Stelle du einen Feh
 
 Ein gewöhnlicher PC besteht aus:
 Netzteil: Versorgt alle Komponenten und das Mainboard mit Strom.
-Mainboard: Die Hauptplatine verbinde die Komponenten miteinander.
-BIOS: Das "basic input, output system" ist die Firmware (= Software, die in elektronischen Geräten eingebettet ist) dem Mainboard, was die Komponenten anspricht und danach das Betriebssystem startet.
+Mainboard: Die Hauptplatine verbindet die Komponenten miteinander.
+BIOS: Das "basic input, output system" ist die Firmware (= Software, die in elektronischen Geräten eingebettet ist) dem Mainboard, welche die Komponenten anspricht und danach das Betriebssystem startet.
 Der Nachfolger des BIOS: EFI (= Extensible Firmware Interface) sitzt zwischen Betriebsystem und Firmware.
 Prozessor (= CPU, Central Processing Unit): Zentrale Einheit, die Berechnungen des Systems durchführt.
 RAM (= Random Access Memory): Flüchtiger Speicher, für die gerade ausgeführten Programme. Er besteht solange, wie der Computer mit Strom versorgt wird.
@@ -803,7 +806,7 @@ Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mi
 Wer wissen möchte wie die Schaltung aussehen würde, schaut sich den Artikel "Logische Verknüpfung" auf Wikipedia an. Wer wissen möchte welche Operatoren die gewählte Programmiersprache direkt beherrscht, findet später im Kapitel "Programmieren lernen" antworten.
 
 Netzwerke und Internet
-Ein wichtiges Thema: Netzwerke. Wer das Internet verstehen will, der muss Netzwerke verstehen. Ganz oben auf der Liste, nach Wichtigkeit sortiert, steht TCP/IP. Es wird aber auch bereits an Nachfolgerprotokollen gearbeitet. Um verschiedene Protokolle im Kontext eines Netzwerks darzustellen, gibt es verschiedene Schichten. Das ISO/OSI Modell (= Open Systems Interconnection model) ist ein Referenzmodell mit diesen Schichten.
+Ein wichtiges Thema: Netzwerke. Wer das Internet verstehen will, der muss Netzwerke verstehen. Ganz oben auf der Liste, nach Wichtigkeit sortiert, steht TCP/IP. Es wird aber auch bereits an Nachfolgerprotokollen gearbeitet. Um verschiedene Protokolle im Kontext eines Netzwerks darzustellen, gibt es verschiedene Schichten. Das ISO/OSI Modell (= Open Systems Interconnection model) ist ein Referenzmodell mit diesen, insgesamt 7, Schichten.
 
 
 
@@ -1206,7 +1209,7 @@ Wir sind nun ein paar wichtige Grundlagen durchgegangen. Neben Programmierung is
 
 —
 Verschlüsselung
-Cryptosystem sind wie ein Kaninchenbau, aus dem du nie wieder raus kommst. Im Prinzip funktioniert asymmetrische Verschlüsselung mit einem Schlüsselpaar: Ein öffentlicher Schlüssel und ein privater Schlüssel.
+Cryptosysteme sind wie ein Kaninchenbau, aus dem du nie wieder raus kommst. Im Prinzip funktioniert asymmetrische Verschlüsselung mit einem Schlüsselpaar: Ein öffentlicher Schlüssel und ein privater Schlüssel.
 
 Durch das asymmetrische Verschlüsselungsverfahren kann eine Nachricht, die mit diesem öffentlichen Schlüssel verschlüsselt wurde, nur mit dem privaten, geheimen Schlüssel entschlüsselt werden. Mathematisch wird das mit Einweg Funktionen realisiert, die leicht zu berechnen sind, es aber praktisch unmöglich ist sie zurück zu rechnen. In so ziemlich jedem Beispiel heißen die zwei Kommunikationsteilnehmer Alice und Bob, auch im Wikipedia Artikel: "Asymmetrisches Kryptosystem". Das ist einer der sehr guten Wikipedia Artikel, was mich nochmal daran erinnert, dass ich alle Informationsquellen lokal sichern wollte. Der Artikel zu RSA und die weiterführenden Links mit Einzelnachweisen können als Einstieg hilfreich sein. Im Artikel "RSA-Kryptosystem" ist auch ein Beispiel dabei.
 
@@ -1531,7 +1534,7 @@ Das ist ein gutes Beispiel, wie eine utopische Idee innerhalb von zehn Jahren ko
 
 Auf dem Schwarzmarkt wird es benutzt, weil es eine pseudonyme Digitalwährung ist. Aber Bitcoins schürfen lohnt sich eben nur, wenn am Ende die Stromrechnung explodiert. Es wird also viel Strom gegen eine digitale Währung getauscht, mit der der Nutzer leider praktisch wenig anfangen kann, außer sie eben wieder gegen Realwährung zu verkaufen.
 
-Ich bin deshalb skeptisch, was den ethischen Bereich angeht, da wurde eigentlich nicht viel gewonnen. Aber das ist auch nur meine Meinung. Als mögliches Projekt hatte ich nach einem Bitcoin Mini-USB-Miner geschaut. Mit einem Mini-USB-Miner kommt $1US an Wert pro Monat heraus, wenn ein einziger Miner 24 Stunden und 7 Tage die Woche läuft. So richtig Lust dafür Geld auszugeben hatte ich auch nicht, vor allem wenn sich das Gerät erst nach einem halben Jahr überhaupt selbst bezahlt. Es kann nichtmal mit Bitcoins im Internet bestellt werden, was das eigentliche Problem gut zusammenfasst. ;)
+Ich bin deshalb skeptisch, was den ethischen Bereich angeht wurde eigentlich nicht viel gewonnen. Aber das ist auch nur meine Meinung. Als mögliches Projekt hatte ich nach einem Bitcoin Mini-USB-Miner geschaut. Mit einem Mini-USB-Miner kommt $1US an Wert pro Monat heraus, wenn ein einziger Miner 24 Stunden und 7 Tage die Woche läuft. So richtig Lust dafür Geld auszugeben hatte ich auch nicht, vor allem wenn sich das Gerät erst nach einem halben Jahr überhaupt selbst bezahlt. Es kann nichtmal mit Bitcoins im Internet bestellt werden, was das eigentliche Problem gut zusammenfasst. ;)
 
 Auf einem Raspberry Pi lässt sich auch mit der CPU Cryptowährung minen.  Die CPU ist sowieso zu langsam und der Raspberry Pi hat kaum Power. Neben Bitcoins gibt es aber auch über 100 andere Cryptowährungen. Das lohnt sich derzeit genauso wenig, aber ihr könnt auch darauf hoffen, dass andere Währungen auch den Hype erfahren. Wer früh einsteigt hat am Ende mehr Coins. Obwohl ich den Quatsch verabscheue installiere ich mir einen kleinen Coin Miner. Einfach nur um es abzuhaken.
 
@@ -1595,7 +1598,7 @@ Wer den Installationsmarathon geschafft hat und es auch geschafft hat in XAMPP d
 
 Doch leider scheitere ich ständig daran, dass das Script die Verbindung nicht hinbekommt. Was allerdings ungewöhnlich ist, denn genau die Einstellungen werden für das Wiki benutzt. Das Script hat die Config-Datei des Wikis, aber startet den Import nicht.
 
-Ich könnte jetzt in dem PHP-Script auf die Suche nach dem Problem gehen, aber seht mir es nach. Projekte beerdigen, weil es weniger Spaß machte als ich gehofft hatte. Das ist auch ein Ergebnis. Leider kann ich mit den derzeitigen Script keine eigene Wikipedia Seite aufbauen. Aber warum mache ich es so kompliziert? Kiwix ist ein Offline-Reader, der für Wikipedia entwickelt wurde. Die Wikipedia Backups lassen sich auch per Torrent weiter verbreiten. Das wäre etwas für den Raspberry Pi mit externer Festplatte.
+Ich könnte jetzt in dem PHP-Script auf die Suche nach dem Problem gehen, aber seht mir es nach. Projekte beerdigen, weil es weniger Spaß machte als ich gehofft hatte. Das ist auch ein Ergebnis. Leider kann ich mit den derzeitigen Script keine eigene Wikipedia Seite aufbauen. Aber warum mache ich es so kompliziert? Kiwix ist ein Offline-Reader, der für Wikipedia entwickelt wurde. Die Wikipedia Backups lassen sich auch per Torrent weiter verbreiten. Das wäre etwas für den Raspberry Pi mit externer Festplatte. Über die Kiwix Webseite werden auch andere Seiten zum Speichern angeboten, zum Beispiel Projekt Gutenberg, welches in Deutschland aus uhrheberrechtsgründen teilweise gesperrt ist.
 
 —
 
