@@ -798,7 +798,7 @@ XNOR = Exklusive Nicht Oder.
 Eine gerade Anzahl der Eingänge müssen 1 oder 0 sein, um am Ausgang 1 zu bekommen.
 Beispiel: 1 XNOR 1 = 1.
 
-Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mit boolescher Algebra beschäftigen. Wichtig um später Bedingungen zu schreiben sind logische Operatoren. Da kommen noch Vergleiche wie größer, kleiner, größer oder gleich, kleiner oder gleich, gleich und ungleich hinzu.c
+Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mit boolescher Algebra beschäftigen. Wichtig um später Bedingungen zu schreiben sind logische Operatoren. Da kommen noch Vergleiche wie größer, kleiner, größer oder gleich, kleiner oder gleich, gleich und ungleich hinzu.
 
 Wer wissen möchte wie die Schaltung aussehen würde, schaut sich den Artikel "Logische Verknüpfung" auf Wikipedia an. Wer wissen möchte welche Operatoren die gewählte Programmiersprache direkt beherrscht, findet später im Kapitel "Programmieren lernen" antworten.
 
