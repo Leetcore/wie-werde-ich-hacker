@@ -286,7 +286,7 @@ Da die meisten Dokumentationen in englischer Sprache verfasst sind, musst du Eng
 Was macht ein Hacker?
 Ein/-e Hacker/-in kann sich in einem der beschrieben Bereiche engagieren. Das kann der Aufbau von Netzwerkinfrastruktur sein, wie im Freifunk Projekt. Das kann Dokumentation von Software sein. Freie Software Projekte starten. Hardware schnappen und etwas daraus bauen. Web Server einrichten und den hacken. In Zusammenarbeit mit anderen gemeinnützige Projekte voran treiben.
 
-Einiger dieser Sachen werde ich im Laufe dieses Buches umsetzen und darüber schreiben wie gut oder schlecht es funktioniert hat. Aber lass uns vorher mit der Kultur anfangen, um erstmal die aktuelle Lage des Lebensraums "Internet" zu verstehen. Danach machen wir die IT-Grundlagen und mischen alles zusammen, würzen es mit Kreativität und fangen an diese Dinge auszuprobieren.
+Einiger dieser Sachen werde ich im Laufe dieses Buches umsetzen und darüber schreiben wie gut oder schlecht es funktioniert hat. Aber lass uns vorher mit der Kultur anfangen, um erstmal die aktuelle Lage des Lebensraums "Internet" zu verstehen. Danach behandeln wir die IT-Grundlagen und mischen alles zusammen, würzen es mit Kreativität und fangen an diese Dinge auszuprobieren.
 
 Was ist ein Hack? Eine Lösung auf ungewöhnliche Weise. Dein Hack sollte schnell durchzuführen sein und vor allem effektiv sein. Er soll ein Ziel erfüllen, dabei ist es egal, ob das Ergebnis hübsch, elegant oder effizient ist. Außerdem darfst du dir das Ziel auch selbst aussuchen. Im ersten Schritt sollte es erstmal funktionieren und der Weg dahin Spaß gemacht haben.
 
