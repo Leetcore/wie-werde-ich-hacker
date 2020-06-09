@@ -1251,7 +1251,7 @@ Diese Container lassen sich auch auf USB-Sticks oder Micro SD-Karten speichern. 
 
 —
 Passwortsicherheit
-Sichere Passwörter zu erstellen und sie sich zu merken ist nicht schwer. Statt ein "Passwort" solltest du besser an einen Satz denken. Einen Satz, der komplett als "Passworteingabe" getippt wird. Falls es hier eine Längenbeschränkung gibt, können auch nur die Anfangsbuchstaben des Satzes verwendet werden. Ich muss mir auch angewöhnen eine böse Mail an den Support zu schreiben, falls nicht genügend Zeichen bei einem Passwort erlaubt sind.
+Sichere Passwörter zu erstellen und sie sich zu merken ist nicht schwer. Statt ein "Passwort" solltest du besser an einen Satz denken. Einen Satz, der komplett als "Passworteingabe" getippt wird. Falls es hier eine Längenbeschränkung gibt, können auch nur die Anfangsbuchstaben der Wörter des Satzes verwendet werden. Ich muss mir auch angewöhnen eine böse Mail an den Support zu schreiben, falls nicht genügend Zeichen bei einem Passwort erlaubt sind.
 
 Passwortmanager
 Leider müssen sich Nutzer/-innen unzählige Passwörter merken, wenn sie in einem Online-Shop etwas bestellen oder sich irgendwo anmelden. Dabei kann ein Passwortmanager helfen.
