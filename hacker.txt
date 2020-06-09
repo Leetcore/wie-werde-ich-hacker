@@ -1009,13 +1009,13 @@ ungleich
 kleiner als
 
 <=
-kleiner oder gleich als
+kleiner als oder gleich
 
 >
 größer als
 
 >=
-größer oder gleich als
+größer als oder gleich
 
 Logische Operatoren:
 
