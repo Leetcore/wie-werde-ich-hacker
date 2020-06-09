@@ -999,7 +999,7 @@ Diese werden je nach Programmier- oder Schriftsprache unterschiedlich geschriebe
 
 Im Grunde gibt es die Folgenden:
 
-=
+==
 gleich
 
 !=
