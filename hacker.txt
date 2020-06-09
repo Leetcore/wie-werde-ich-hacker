@@ -770,7 +770,7 @@ Die visuelle Variante davon findet sich auf YouTube mit "Dial Up Modem Handshake
 Wer Interesse an einem Messgerät hat, um Signale an Leitungen zu analysieren, der sollte sich nach "USB Oszilloskop BitScope" umsehen. Mir persönlich war es zum Ausprobieren allerdings zu teuer und das war schon eines der günstigen Produkte.
 
 Logische Verknüpfungen
-Nachdem wir über Signalen und dem Binärsystem gesprochen haben, kommen wir zu einem weiteren wichtigen Teil, der uns auf kommende Aufgaben vorbereiten soll. Logische Schaltungen. Logik Gatter verarbeiten zwei  oder mehrere binäre Eingangssignale zu einem Ausgangssignal. Wikipedia hilft und hat auch schöne Beispiele im Artikel zu "Logikgatter".
+Nachdem wir über Signalen und dem Binärsystem gesprochen haben, kommen wir zu einem weiteren wichtigen Teil, der uns auf kommende Aufgaben vorbereiten soll: Logische Schaltungen. Logik Gatter verarbeiten ein oder mehr binäre Eingangssignale zu einem Ausgangssignal. Wikipedia hilft und hat auch schöne Beispiele im Artikel zu "Logikgatter".
 
 AND = Und.
 Beispiel:1 AND 1 = 1
