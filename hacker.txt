@@ -795,10 +795,10 @@ Alle Eingänge müssen 0 sein, um am Ausgang 1 zu erhalten.
 Beispiel: 0 NOR 0 = 1.
 
 XNOR = Exklusive Nicht Oder.
-Ein gerade Anzahl der Eingänge müssen 1 oder 0 sein, um am Ausgang 1 zu bekommen.
+Eine gerade Anzahl der Eingänge müssen 1 oder 0 sein, um am Ausgang 1 zu bekommen.
 Beispiel: 1 XNOR 1 = 1.
 
-Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mit boolescher Algebra beschäftigen. Wichtig um später Bedingungen zu schreiben sind logische Operatoren. Da kommen noch Vergleiche wie größer, kleiner, größer oder gleich, kleiner oder gleich, gleich und ungleich hinzu.
+Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mit boolescher Algebra beschäftigen. Wichtig um später Bedingungen zu schreiben sind logische Operatoren. Da kommen noch Vergleiche wie größer, kleiner, größer oder gleich, kleiner oder gleich, gleich und ungleich hinzu.c
 
 Wer wissen möchte wie die Schaltung aussehen würde, schaut sich den Artikel "Logische Verknüpfung" auf Wikipedia an. Wer wissen möchte welche Operatoren die gewählte Programmiersprache direkt beherrscht, findet später im Kapitel "Programmieren lernen" antworten.
 
@@ -918,13 +918,13 @@ Als einfaches Beispiel: "cd" steht für change directory und die Manpage findest
 Mit der Taste "q", kommst du wieder zurück aus der Manpage. Da wir später hauptsächlich direkt mit Debian-basierten Linux-Distributionen unterwegs sein werden, hier ein paar Befehle:
 
 >>> cd foldername
-Ordner wechseln.
+In das Verzeichnis "foldername" im aktuellen Verzeichnis wechseln.
 
 >>> ls
 Liste aller Dateien im aktuellen Verzeichnis.
 
 >>> mkdir test
-Erstellen eines Ordners im aktuellen Verzeichnis.
+Erstellen eines Verzeichnisses mit dem Namen "test" im aktuellen Verzeichnis.
 
 >>> touch file.txt
 Ändert das Änderungsdatum oder legt die Datei an, wenn sie nicht existiert.
@@ -999,7 +999,7 @@ Diese werden je nach Programmier- oder Schriftsprache unterschiedlich geschriebe
 
 Im Grunde gibt es die Folgenden:
 
-=
+==
 gleich
 
 !=
@@ -1009,13 +1009,13 @@ ungleich
 kleiner als
 
 <=
-kleiner oder gleich als
+kleiner als oder gleich
 
 >
 größer als
 
 >=
-größer oder gleich als
+größer als oder gleich
 
 Logische Operatoren:
 
@@ -1036,7 +1036,7 @@ for ($i=0; $i < 10; $i++) {
 };
 ?>
 
-Jede Variable wird in PHP mit $ markiert. Hier zählen wir von $i = 0 solange $i kleiner als 10 ist. $i++ bedeutet, dass der Wert $i immer um Eins erhöht wird, also in Einer-Schritten. Schleifen werden später beim "Portscanner" bzw. bei dem Thema "Internet scannen" interessant.
+Jede Variable wird in PHP mit $ markiert. In dieser Schleife setzen wir $i zu Beginn auf 0 und führen die Schleife solange aus, wie $i kleiner als 10 ist. $i++ bedeutet, dass der Wert $i immer um Eins erhöht wird, also in Einer-Schritten. Schleifen werden später beim "Portscanner" bzw. bei dem Thema "Internet scannen" interessant.
 
 Wir führen es in der Shell aus mit:
 >>> php test.php
@@ -1664,7 +1664,7 @@ Allerdings kennt der Anbieter über die Zahlungsmethode oder eventuelle E-Mailad
 Wirklich anonym bist du damit nicht, du versteckst dich eher hinter einem VPN Anbieter, der sich auch an Vorschriften und Gesetze halten muss.
 
 TOR
-Ein Tool, dass ursprünglich mal "The Onion Routing" hieß. Hier werden Verbindungen in verschiedenen Schichten, wie bei einer Zwiebel aufgeteilt und die Teilnehmer kennen nur ihre direkt verbundenen Knoten in ihrer Schicht, aber wissen nicht von wem das Paket ursprünglich kam.
+Ein Tool, dass ursprünglich "The Onion Routing" hieß. Hier werden Verbindungen vom Client zum Server durch das TOR-Netzwerk verschleiert. Die Verbindungen vom Client zum Server läuft über drei zufällig ausgewählte Zwischenknoten (Nodes) des Netzwerks. Die einzelnen Knoten kennen nur ihren direkten Kommunikationspartner, was eine gewisse Anonymität bringt.
 
 Tor ist sicherer als VPN, aber auch hier kann mit Traffic Analyse oder Sicherheitslücken in der Tor-Software die Quelle ausfindig gemacht werden. Der Aufwand ist allerdings deutlich größer. Wer viele Tor Knoten kennt, kennt mit immer höherer Wahrscheinlichkeit auch den Ursprung einer Anfrage.
 
