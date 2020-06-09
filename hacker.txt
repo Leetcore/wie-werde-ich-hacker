@@ -571,7 +571,7 @@ Facebook: Unendliches Scrollen ist möglich, es werden Likes dargestellt, sinn
 YouTube: Bewertungen werden bei der Suche nicht angezeigt, nur die Anzahl der Aufrufe sind relevant, einmal angeklickte Videos, bringen immer wieder die gleichen Themen in die Empfehlungen, völlig egal, ob der Nutzer das Video davor gut fand. Thumbnails können selbst hochgeladen werden und müssen nicht dem Inhalt entsprechen.
 Twitter: Unendliches Scrollen ist möglich, mehrere Accounts sind leicht erstellt, unnötige Benachrichtigungen, Hashtagspam für höhere Sichtbarkeit, Spam-Bots folgen Personen, die Hashtags posten.
 TikTok:
-Unendliches Scrollen ist möglich, die Videos sind meist nur einige Sekunden lang, die Hintergrundmusik sind häufig die Highlights einzelner Songs, die App ist auf den niedrigst möglichen Lag beim Wechsel der Clips ausgelegt. Außerdem schließt der Zurückknopf in der Android Version nicht die App, sondern zeigt stattdessen einen neuen Clip an. Die Werbung geht in der Menge der Videos unter und ist kaum sichtbar gekennzeichnet.
+Unendliches Scrollen ist möglich, die Videos sind meist nur einige Sekunden lang, die Hintergrundmusik sind häufig die Highlights einzelner Songs, die App ist auf niedrigst möglichen Lag beim Wechsel der Clips ausgelegt. Außerdem schließt der Zurückknopf in der Android Version nicht die App, sondern zeigt stattdessen einen neuen Clip an. Die Werbung geht in der Menge der Videos unter und ist kaum sichtbar gekennzeichnet.
 
 Wenn ein Inhalt nicht mehr erreichbar ist, wird schnell von Zensur gesprochen. Doch ist es wirklich Zensur, wenn der neuste Film von Brad Pitt aus dem Internet gelöscht wurde?
 
@@ -644,7 +644,7 @@ Ich bin sehr oft "Lost in Wikipedia". Wenn ich einmal angefangen habe etwas zu l
 
 Ein absolutes Highlight meiner Urlaubsreise 2019 war der Bryant Park in New York City. Mit Abstand mein Lieblingspark in der Stadt. Dort hatten wir im Sommer das Glück, dass an einem Abend eine "Movie Night" veranstaltet wurde. Ausgewählte Filme wurden im Park auf einer großen Leinwand gezeigt. Präsentiert wurde das Event in diesem Jahr von Netflix. Es war krass zu sehen, wie der ganze Park voll mit Menschen gespannt "Carrie" (1976) geschaut haben. Warum ich das hier erzähle? Ein Foto davon habe ich unter offener Lizenz in die Foto-Gallery der "Bryant Park" Wikipedia-Seite veröffentlicht.
 
-Das Großprojekt Wikipedia funktioniert nur mit freiwilligen Autoren/-innen und Spenden. Da Wikipedia ein gemeinnütziges Projekt ist, können die Spenden von der Steuer abgesetzt werden. Die deutsche Wikipedia hat allerdings auch einige Probleme in ihrer Community. Alle Kritikpunkte sind in einem eigenen Artikel "Kritik an Wikipedia" aufgelistet. Dort wird kritisiert, dass es immer weniger Autoren/-innen gibt. Was daran liegt, dass nicht jeder/jede Nutzer/-in die Grundsätze von Wikipedia kennt oder sich daran hält. Außerdem wird oft unnötig aggressiv über die Relevanz von Artikeln diskutiert. Da Wikipedia für alle offen ist, lässt sich das nicht komplett vermeiden, allerdings werden destruktive Nutzer auch sanktioniert.
+Das Großprojekt Wikipedia funktioniert nur mit freiwilligen Autoren/-innen und Spenden. Da Wikipedia ein gemeinnütziges Projekt ist, können die Spenden von der Steuer abgesetzt werden. Die deutsche Wikipedia hat allerdings auch einige Probleme in ihrer Community. Alle Kritikpunkte sind in einem eigenen Artikel "Kritik an Wikipedia" aufgelistet. Dort wird kritisiert, dass es immer weniger Autoren/-innen gibtm was daran liegt, dass nicht jeder/jede Nutzer/-in die Grundsätze von Wikipedia kennt oder sich daran hält. Außerdem wird oft unnötig aggressiv über die Relevanz von Artikeln diskutiert. Da Wikipedia für alle offen ist, lässt sich das nicht komplett vermeiden, allerdings werden destruktive Nutzer auch sanktioniert.
 
 Digitale Gesellschaft
 Das ist der Name eines Vereins, der sich für Bürgerrechte im Bereich Computer und Internet einsetzt. Der Verein versucht mit politischen Publikationen Einfluss auf die aktuelle Gesetzgebung zu nehmen. Es wird auch zu Demonstrationen informiert, die schlechte Internetgesetze betreffen.
@@ -669,8 +669,7 @@ Das Anonymous Zeichen ist eine Guy Fawkes Maske, die im Film "V wie Vendetta" zu
 
 Das ist die Grundidee von Anonymous.
 
-In diesem Umfeld bildete sich eine Gruppe namens "LulzSec" (= Lacht über eure Sicherheit) die einige DDoS (Distributed Denial of Service, Überlasten von Webseiten) Angriffe und auch Hacks durchgeführt hat. Durch einen 
-Maulwurf konnten später die Haupttäter enttarnt und verhaftet werden.
+In diesem Umfeld bildete sich eine Gruppe namens "LulzSec" (= Lacht über eure Sicherheit) die einige DDoS (Distributed Denial of Service, Überlasten von Webseiten) Angriffe und auch Hacks durchgeführt hat. Durch einen Maulwurf konnten später die Haupttäter enttarnt und verhaftet werden.
 
 
 
@@ -719,8 +718,8 @@ Grundlagen sind eine wichtige Basis, um zu wissen an welcher Stelle du einen Feh
 
 Ein gewöhnlicher PC besteht aus:
 Netzteil: Versorgt alle Komponenten und das Mainboard mit Strom.
-Mainboard: Die Hauptplatine verbinde die Komponenten miteinander.
-BIOS: Das "basic input, output system" ist die Firmware (= Software, die in elektronischen Geräten eingebettet ist) dem Mainboard, was die Komponenten anspricht und danach das Betriebssystem startet.
+Mainboard: Die Hauptplatine verbindet die Komponenten miteinander.
+BIOS: Das "basic input, output system" ist die Firmware (= Software, die in elektronischen Geräten eingebettet ist) dem Mainboard, welche die Komponenten anspricht und danach das Betriebssystem startet.
 Der Nachfolger des BIOS: EFI (= Extensible Firmware Interface) sitzt zwischen Betriebsystem und Firmware.
 Prozessor (= CPU, Central Processing Unit): Zentrale Einheit, die Berechnungen des Systems durchführt.
 RAM (= Random Access Memory): Flüchtiger Speicher, für die gerade ausgeführten Programme. Er besteht solange, wie der Computer mit Strom versorgt wird.
@@ -807,7 +806,7 @@ Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mi
 Wer wissen möchte wie die Schaltung aussehen würde, schaut sich den Artikel "Logische Verknüpfung" auf Wikipedia an. Wer wissen möchte welche Operatoren die gewählte Programmiersprache direkt beherrscht, findet später im Kapitel "Programmieren lernen" antworten.
 
 Netzwerke und Internet
-Ein wichtiges Thema: Netzwerke. Wer das Internet verstehen will, der muss Netzwerke verstehen. Ganz oben auf der Liste, nach Wichtigkeit sortiert, steht TCP/IP. Es wird aber auch bereits an Nachfolgerprotokollen gearbeitet. Um verschiedene Protokolle im Kontext eines Netzwerks darzustellen, gibt es verschiedene Schichten. Das ISO/OSI Modell (= Open Systems Interconnection model) ist ein Referenzmodell mit diesen Schichten.
+Ein wichtiges Thema: Netzwerke. Wer das Internet verstehen will, der muss Netzwerke verstehen. Ganz oben auf der Liste, nach Wichtigkeit sortiert, steht TCP/IP. Es wird aber auch bereits an Nachfolgerprotokollen gearbeitet. Um verschiedene Protokolle im Kontext eines Netzwerks darzustellen, gibt es verschiedene Schichten. Das ISO/OSI Modell (= Open Systems Interconnection model) ist ein Referenzmodell mit diesen, insgesamt 7, Schichten.
 
 
 
