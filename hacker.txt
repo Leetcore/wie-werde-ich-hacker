@@ -1036,7 +1036,7 @@ for ($i=0; $i < 10; $i++) {
 };
 ?>
 
-Jede Variable wird in PHP mit $ markiert. Hier zählen wir von $i = 0 solange $i kleiner als 10 ist. $i++ bedeutet, dass der Wert $i immer um Eins erhöht wird, also in Einer-Schritten. Schleifen werden später beim "Portscanner" bzw. bei dem Thema "Internet scannen" interessant.
+Jede Variable wird in PHP mit $ markiert. In dieser Schleife setzen wir $i zu Beginn auf 0 und führen die Schleife solange aus, wie $i kleiner als 10 ist. $i++ bedeutet, dass der Wert $i immer um Eins erhöht wird, also in Einer-Schritten. Schleifen werden später beim "Portscanner" bzw. bei dem Thema "Internet scannen" interessant.
 
 Wir führen es in der Shell aus mit:
 >>> php test.php
