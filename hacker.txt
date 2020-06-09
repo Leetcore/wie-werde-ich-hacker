@@ -924,7 +924,7 @@ In das Verzeichnis "foldername" im aktuellen Verzeichnis wechseln.
 Liste aller Dateien im aktuellen Verzeichnis.
 
 >>> mkdir test
-Erstellen eines Ordners im aktuellen Verzeichnis.
+Erstellen eines Verzeichnisses mit dem Namen "test" im aktuellen Verzeichnis.
 
 >>> touch file.txt
 Ändert das Änderungsdatum oder legt die Datei an, wenn sie nicht existiert.
