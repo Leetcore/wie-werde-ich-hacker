@@ -563,13 +563,15 @@ Grund Nummer 4: Du klickst jede übertriebene Überschrift an.
 
 Clickbaiting Titel sind Headlines, die dich zum Klicken bewegen sollen. Das führt dazu, dass die Webseite Geld für die Werbeanzeigen bekommt,  völlig egal wie der Inhalt ist. Ab diesem Zeitpunkt ist es egal, ob die Meldung überhaupt einen Nachrichtenwert hat oder Inhalt annähernd so ist wie versprochen. Es werden auch gerne "geheime" Haushaltstricks als "Life-Hacks" vermarktet. Die erstbeste Suche nach Life-Hacks bringt mir eine Anleitung der Brigitte, wie ich mein Bad richtig putzen soll. Was daran eine kreative "Hackerleistung" sein soll, habe ich noch nicht herausgefunden. Falls es einen geheimen Knopf gibt, den ich dafür drücken muss, sagt mir bitte Bescheid.
 
-Die populärsten Plattformen (Facebook, YouTube, Twitter) sind auf maximal Werbeeinnahmen optimiert, deshalb werden sowieso schon viel angeklickte Inhalte gerne noch prominenter dargestellt. Alles um die Nutzungszeit so lang wie möglich zu strecken.
+Die populärsten Plattformen (Facebook, YouTube, Twitter) sind auf maximale Werbeeinnahmen optimiert, deshalb werden sowieso schon viel angeklickte Inhalte gerne noch prominenter dargestellt. Alles um die Nutzungszeit so lang wie möglich zu strecken.
 
 Technische Mechanismen dafür:
 Instagram: Unendliches Scrollen ist möglich, es werden nur Likes dargestellt, Hashtags erhöhen die Sichtbarkeit (Spam), kopiert Features anderer Plattformen (Snapchat Videofilter, Stories).
 Facebook: Unendliches Scrollen ist möglich, es werden Likes dargestellt, sinnlose Benachrichtigungen werden angezeigt, kopiert Features anderer Plattformen (Kleinanzeigen, Veranstaltungen, Gruppen oder Snapchat Videofilter, Stories).
 YouTube: Bewertungen werden bei der Suche nicht angezeigt, nur die Anzahl der Aufrufe sind relevant, einmal angeklickte Videos, bringen immer wieder die gleichen Themen in die Empfehlungen, völlig egal, ob der Nutzer das Video davor gut fand. Thumbnails können selbst hochgeladen werden und müssen nicht dem Inhalt entsprechen.
 Twitter: Unendliches Scrollen ist möglich, mehrere Accounts sind leicht erstellt, unnötige Benachrichtigungen, Hashtagspam für höhere Sichtbarkeit, Spam-Bots folgen Personen, die Hashtags posten.
+TikTok:
+Unendliches Scrollen ist möglich, die Videos sind meist nur einige Sekunden lang, die Hintergrundmusik sind häufig die Highlights einzelner Songs, die App ist auf den niedrigst möglichen Lag beim Wechsel der Clips ausgelegt. Außerdem schließt der Zurückknopf in der Android Version nicht die App, sondern zeigt stattdessen einen neuen Clip an. Die Werbung geht in der Menge der Videos unter und ist kaum sichtbar gekennzeichnet.
 
 Wenn ein Inhalt nicht mehr erreichbar ist, wird schnell von Zensur gesprochen. Doch ist es wirklich Zensur, wenn der neuste Film von Brad Pitt aus dem Internet gelöscht wurde?
 
