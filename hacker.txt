@@ -1664,7 +1664,7 @@ Allerdings kennt der Anbieter über die Zahlungsmethode oder eventuelle E-Mailad
 Wirklich anonym bist du damit nicht, du versteckst dich eher hinter einem VPN Anbieter, der sich auch an Vorschriften und Gesetze halten muss.
 
 TOR
-Ein Tool, dass ursprünglich mal "The Onion Routing" hieß. Hier werden Verbindungen in verschiedenen Schichten, wie bei einer Zwiebel aufgeteilt und die Teilnehmer kennen nur ihre direkt verbundenen Knoten in ihrer Schicht, aber wissen nicht von wem das Paket ursprünglich kam.
+Ein Tool, dass ursprünglich "The Onion Routing" hieß. Hier werden Verbindungen vom Client zum Server durch das TOR-Netzwerk verschleiert. Die Verbindungen vom Client zum Server läuft über drei zufällig ausgewählte Zwischenknoten (Nodes) des Netzwerks. Die einzelnen Knoten kennen nur ihren direkten Kommunikationspartner, was eine gewisse Anonymität bringt.
 
 Tor ist sicherer als VPN, aber auch hier kann mit Traffic Analyse oder Sicherheitslücken in der Tor-Software die Quelle ausfindig gemacht werden. Der Aufwand ist allerdings deutlich größer. Wer viele Tor Knoten kennt, kennt mit immer höherer Wahrscheinlichkeit auch den Ursprung einer Anfrage.
 
