@@ -582,6 +582,8 @@ Neben technischer Zensur wird auch immer wieder durch rechtliche Schritte versuc
 
 Bisher sieht es bei dem Thema Zensur relativ gut aus. In Deutschland wurde als Reaktion auf ein gewünschtes Zugangserschwerungsgesetz die Kampagne "Löschen statt Sperren" gestartet. Denn die meisten Inhalte auf der Sperrliste, sowieso auf einem so hohen Niveau illegal sind (Terror-Propaganda, Kinderpornografie, Gewalt-Webseiten), dass sie auch gleich weltweit gelöscht werden können. Das ist auch über die üblichen Abuse- Meldungen auf Webseiten möglich.
 
+In Sozialen Medien, hinter denen häufig eine private Firma steht, können einzelne Posts oder Nutzer allerdings auch unauffällig entfernt werden. Beispielsweise zwingt Twitter Nutzer dazu Tweets zu löschen, die gegen die aufgestellten Richtlinien verstoßen, indem der Account bis zur Löschung gesperrt bleibt. Da die meisten Nutzer hunderten Accounts folgen fällt das plötzliche Fehlen eines einzelnen häufig nicht auf. Durch diese Monopolstellung können neben Staaten auch einzelne Firmen öffentliche Meinungen beeinflussen oder Zensieren.
+
 Aufklärung
 Manipulation ist eine autoritäre Methode, bei der ein  Mensch zum gewünschten Handeln gebracht werden soll. Was kann solchen Kampagnen entgegengesetzt werden? Wie kann auf manipulative Kampagnen reagiert werden? Wie können wir reagieren auf politischen Spam im WWW?
 
