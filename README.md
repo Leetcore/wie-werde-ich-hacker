@@ -4,6 +4,8 @@ Darin geht es um Netzkultur, Hacker-Ethik, IT-Grundlagen, Programmieren lernen m
 
 EPUB Download liegt auf: www.1337core.de
 
+Mein Sponsor auf Github werden und mein nächstes Open Source Projekt fördern. 🤩
+
 ## Copyright
 Dieses Buch steht unter Creative Commons Lizenz "Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland" (CC BY-NC-SA 3.0 DE). Das bedeutet, dass es im privaten Umfeld geteilt werden darf. Bei Änderungen daran muss es unter die gleiche Lizenz gestellt werden.
 
