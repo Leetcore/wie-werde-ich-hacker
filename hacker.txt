@@ -1,4 +1,4 @@
-WIE WERDE ICH HACKER?
+WIE WERDE ICH HACKER?
 
  __    __                               _       
 / / /\ \ <x> ___  __      _____ _ __ __| | ___  
@@ -11,30 +11,14 @@ WIE WERDE ICH HACKER?
   | | (__| | | | / __  / (_| | (__|   <  __/ |     \/ 
   |_|\___|_| |_||_/ /_/ \__,_|\___|_|\_\___|_|    <x> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Der Anfänger-Guide von 1337core
+
 Copyright
 Dieses Buch steht unter Creative Commons Lizenz "Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland" (CC BY-NC-SA 3.0 DE). Das bedeutet, dass es im privaten Umfeld geteilt werden darf. Bei Änderungen daran muss es unter die gleiche Lizenz gestellt werden.
 
 Als Namensnennung reicht mein Nickname "1337core" aus.
+
+Versionsnummer: 0.4
 
 Feedback kann gerne an feedback@1337core.de gesendet werden.
 
@@ -283,7 +267,7 @@ Dieses Buch, das WWW und andere Hacker/-innen sind ein guter Startpunkt um Infor
 Da die meisten Dokumentationen in englischer Sprache verfasst sind, musst du Englisch können. Einzelne Fachbegriffe sind schnell nachgeschlagen, aber ohne technischen Wortschatz wird es fast unmöglich.
 
 —
-Was macht ein Hacker?
+Was macht ein/-e Hacker/-in?
 Ein/-e Hacker/-in kann sich in einem der beschrieben Bereiche engagieren. Das kann der Aufbau von Netzwerkinfrastruktur sein, wie im Freifunk Projekt. Das kann Dokumentation von Software sein. Freie Software Projekte starten. Hardware schnappen und etwas daraus bauen. Web Server einrichten und den hacken. In Zusammenarbeit mit anderen gemeinnützige Projekte voran treiben.
 
 Einiger dieser Sachen werde ich im Laufe dieses Buches umsetzen und darüber schreiben wie gut oder schlecht es funktioniert hat. Aber lass uns vorher mit der Kultur anfangen, um erstmal die aktuelle Lage des Lebensraums "Internet" zu verstehen. Danach behandeln wir die IT-Grundlagen und mischen alles zusammen, würzen es mit Kreativität und fangen an diese Dinge auszuprobieren.
@@ -563,7 +547,7 @@ Grund Nummer 4: Du klickst jede übertriebene Überschrift an.
 
 Clickbaiting Titel sind Headlines, die dich zum Klicken bewegen sollen. Das führt dazu, dass die Webseite Geld für die Werbeanzeigen bekommt,  völlig egal wie der Inhalt ist. Ab diesem Zeitpunkt ist es egal, ob die Meldung überhaupt einen Nachrichtenwert hat oder Inhalt annähernd so ist wie versprochen. Es werden auch gerne "geheime" Haushaltstricks als "Life-Hacks" vermarktet. Die erstbeste Suche nach Life-Hacks bringt mir eine Anleitung der Brigitte, wie ich mein Bad richtig putzen soll. Was daran eine kreative "Hackerleistung" sein soll, habe ich noch nicht herausgefunden. Falls es einen geheimen Knopf gibt, den ich dafür drücken muss, sagt mir bitte Bescheid.
 
-Die populärsten Plattformen (Facebook, YouTube, Twitter) sind auf maximal Werbeeinnahmen optimiert, deshalb werden sowieso schon viel angeklickte Inhalte gerne noch prominenter dargestellt. Alles um die Nutzungszeit so lang wie möglich zu strecken.
+Die populärsten Plattformen (Facebook, YouTube, Twitter) sind auf maximale Werbeeinnahmen optimiert, deshalb werden sowieso schon viel angeklickte Inhalte gerne noch prominenter dargestellt. Alles um die Nutzungszeit so lang wie möglich zu strecken.
 
 Technische Mechanismen dafür:
 Instagram: Unendliches Scrollen ist möglich, es werden nur Likes dargestellt, Hashtags erhöhen die Sichtbarkeit (Spam), kopiert Features anderer Plattformen (Snapchat Videofilter, Stories).
@@ -715,8 +699,8 @@ Grundlagen sind eine wichtige Basis, um zu wissen an welcher Stelle du einen Feh
 
 Ein gewöhnlicher PC besteht aus:
 Netzteil: Versorgt alle Komponenten und das Mainboard mit Strom.
-Mainboard: Die Hauptplatine verbinde die Komponenten miteinander.
-BIOS: Das "basic input, output system" ist die Firmware (= Software, die in elektronischen Geräten eingebettet ist) dem Mainboard, was die Komponenten anspricht und danach das Betriebssystem startet.
+Mainboard: Die Hauptplatine verbindet die Komponenten miteinander.
+BIOS: Das "basic input, output system" ist die Firmware (= Software, die in elektronischen Geräten eingebettet ist) auf dem Mainboard, welche die Komponenten anspricht und danach das Betriebssystem startet.
 Der Nachfolger des BIOS: EFI (= Extensible Firmware Interface) sitzt zwischen Betriebsystem und Firmware.
 Prozessor (= CPU, Central Processing Unit): Zentrale Einheit, die Berechnungen des Systems durchführt.
 RAM (= Random Access Memory): Flüchtiger Speicher, für die gerade ausgeführten Programme. Er besteht solange, wie der Computer mit Strom versorgt wird.
@@ -734,7 +718,7 @@ Die Grafikkarte kommt in den Slot Richtung Gehäuse-Rückseite, damit auch der M
 Die Festplatten haben auch entsprechend große Rahmen an der Vorderseite. Strom und Datenkabel für das Mainboard anschließen.
 
 CPU
-Wenn wir uns mit Prozessoren beschäftigen wollen, müssen wir den Aufbau verstehen und danach die Abarbeitung eines Programms im Zusammenspiel mit dem RAM. Es stellt sich erstmal die Frage, woher wir diese Informationen bekommen. Wie immer ist Wikipedia zwar ein Einstieg ins Thema, es hilft aber leider wenig zum Verständnis. Mein Einstieg war der Artikel auf Wikipedia, der mir immerhin sagen konnte aus was ein Prozessor besteht. Zum besseren Verständnis, wie am Ende die Kommunikation wirklich abläuft, hilft das Video "See How a CPU Works" auf YouTube. Dadurch wird klarer wie in einem Prozessor gearbeitet wird. Die bessere schriftliche Einführung fand ich durch eher typische Überschriften im Universitätsumfeld und dem Zusatz "PDF". Eine gute Erklärung mit Schaubildern konnte ich finden mit "Einführung in Aufbau und Funktionsweise von Mikroprozessoren PDF" wieder. Suchmaschine befeuern und lesen!
+Wenn wir uns mit Prozessoren beschäftigen wollen, müssen wir den Aufbau verstehen und danach die Abarbeitung eines Programms im Zusammenspiel mit dem RAM. Es stellt sich erstmal die Frage, woher wir diese Informationen bekommen. Wie immer ist Wikipedia zwar ein Einstieg ins Thema, es hilft aber leider wenig zum Verständnis. Mein Einstieg war der Artikel auf Wikipedia, der mir immerhin sagen konnte aus was ein Prozessor besteht. Zum besseren Verständnis, wie am Ende die Kommunikation wirklich abläuft, hilft das Video "See How a CPU Works" auf YouTube. Dadurch wird klarer wie in einem Prozessor gearbeitet wird. Die bessere schriftliche Einführung fand ich durch eher typische Überschriften im Universitätsumfeld und dem Zusatz "PDF". Eine gute Erklärung mit Schaubildern konnte ich mit dem "Einführung in Aufbau und Funktionsweise von Mikroprozessoren PDF" finden. Suchmaschine befeuern und lesen!
 
 Funktionsgruppen:
 Steuerwerk (= Control Unit). Liest und interpretiert Programminstruktionen aus dem Speicher Schritt für Schritt und gibt Befehle an das Rechenwerk weiter. Diese Programminstruktionen erhält das Steuerwerk in Maschinensprache. Der Compiler erzeugt aus einem in einer höheren Programmiersprache (C, C++, Rust, usw.) geschrieben Quellcode (= Source Code) diese Maschinensprache.
@@ -770,7 +754,7 @@ Die visuelle Variante davon findet sich auf YouTube mit "Dial Up Modem Handshake
 Wer Interesse an einem Messgerät hat, um Signale an Leitungen zu analysieren, der sollte sich nach "USB Oszilloskop BitScope" umsehen. Mir persönlich war es zum Ausprobieren allerdings zu teuer und das war schon eines der günstigen Produkte.
 
 Logische Verknüpfungen
-Nachdem wir über Signalen und dem Binärsystem gesprochen haben, kommen wir zu einem weiteren wichtigen Teil, der uns auf kommende Aufgaben vorbereiten soll: Logische Schaltungen. Logik Gatter verarbeiten ein oder mehr binäre Eingangssignale zu einem Ausgangssignal. Wikipedia hilft und hat auch schöne Beispiele im Artikel zu "Logikgatter".
+Nachdem wir über Signalen und dem Binärsystem gesprochen haben, kommen wir zu einem weiteren wichtigen Teil, der uns auf kommende Aufgaben vorbereiten soll: Logische Schaltungen. Logik Gatter verarbeiten ein  oder mehr binäre Eingangssignale zu einem Ausgangssignal. Wikipedia hilft und hat auch schöne Beispiele im Artikel zu "Logikgatter".
 
 AND = Und.
 Beispiel:1 AND 1 = 1
@@ -803,7 +787,7 @@ Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mi
 Wer wissen möchte wie die Schaltung aussehen würde, schaut sich den Artikel "Logische Verknüpfung" auf Wikipedia an. Wer wissen möchte welche Operatoren die gewählte Programmiersprache direkt beherrscht, findet später im Kapitel "Programmieren lernen" antworten.
 
 Netzwerke und Internet
-Ein wichtiges Thema: Netzwerke. Wer das Internet verstehen will, der muss Netzwerke verstehen. Ganz oben auf der Liste, nach Wichtigkeit sortiert, steht TCP/IP. Es wird aber auch bereits an Nachfolgerprotokollen gearbeitet. Um verschiedene Protokolle im Kontext eines Netzwerks darzustellen, gibt es verschiedene Schichten. Das ISO/OSI Modell (= Open Systems Interconnection model) ist ein Referenzmodell mit diesen Schichten.
+Ein wichtiges Thema: Netzwerke. Wer das Internet verstehen will, der muss Netzwerke verstehen. Ganz oben auf der Liste, nach Wichtigkeit sortiert, steht TCP/IP. Es wird aber auch bereits an Nachfolgerprotokollen gearbeitet. Um verschiedene Protokolle im Kontext eines Netzwerks darzustellen, gibt es verschiedene Schichten. Das ISO/OSI Modell (= Open Systems Interconnection model) ist ein Referenzmodell mit sieben Schichten.
 
 
 
@@ -1036,7 +1020,7 @@ for ($i=0; $i < 10; $i++) {
 };
 ?>
 
-Jede Variable wird in PHP mit $ markiert. In dieser Schleife setzen wir $i zu Beginn auf 0 und führen die Schleife solange aus, wie $i kleiner als 10 ist. $i++ bedeutet, dass der Wert $i immer um Eins erhöht wird, also in Einer-Schritten. Schleifen werden später beim "Portscanner" bzw. bei dem Thema "Internet scannen" interessant.
+Jede Variable wird in PHP mit $ markiert. In der Schleife setzen wir $i zu Beginn auf 0 und führen die Schleife solange aus, wie $i kleiner als 10 ist. $i++ bedeutet, dass der Wert $i immer um Eins erhöht wird, also in Einer-Schritten. Schleifen werden später beim "Portscanner" bzw. bei dem Thema "Internet scannen" interessant.
 
 Wir führen es in der Shell aus mit:
 >>> php test.php
@@ -1206,7 +1190,7 @@ Wir sind nun ein paar wichtige Grundlagen durchgegangen. Neben Programmierung is
 
 —
 Verschlüsselung
-Cryptosystem sind wie ein Kaninchenbau, aus dem du nie wieder raus kommst. Im Prinzip funktioniert asymmetrische Verschlüsselung mit einem Schlüsselpaar: Ein öffentlicher Schlüssel und ein privater Schlüssel.
+Cryptosysteme sind wie ein Kaninchenbau, aus dem du nie wieder raus kommst. Im Prinzip funktioniert asymmetrische Verschlüsselung mit einem Schlüsselpaar: Ein öffentlicher Schlüssel und ein privater Schlüssel.
 
 Durch das asymmetrische Verschlüsselungsverfahren kann eine Nachricht, die mit diesem öffentlichen Schlüssel verschlüsselt wurde, nur mit dem privaten, geheimen Schlüssel entschlüsselt werden. Mathematisch wird das mit Einweg Funktionen realisiert, die leicht zu berechnen sind, es aber praktisch unmöglich ist sie zurück zu rechnen. In so ziemlich jedem Beispiel heißen die zwei Kommunikationsteilnehmer Alice und Bob, auch im Wikipedia Artikel: "Asymmetrisches Kryptosystem". Das ist einer der sehr guten Wikipedia Artikel, was mich nochmal daran erinnert, dass ich alle Informationsquellen lokal sichern wollte. Der Artikel zu RSA und die weiterführenden Links mit Einzelnachweisen können als Einstieg hilfreich sein. Im Artikel "RSA-Kryptosystem" ist auch ein Beispiel dabei.
 
@@ -1219,7 +1203,7 @@ Als technikbegeisterter/-e Bastler/-in kannst du tolle OpenPGP Software installi
 
 Das einfachste Tool, was ich bisher gefunden habe, ist ein PGP-Plugin für die bekanntesten Webmailer wie GMX, Outlook oder GMail. Eigene Webmailer können auch hinzugefügt werden. Es heißt mailvelope.com und ist eine Erweiterung für Chrome und Firefox.
 
-Der/die Sender/-in braucht deinen öffentlichen Schlüssel, was er/sie über öffentliche Keyserver finden kann. Vorher muss der Empfänger diesen natürlich generiert und hochgeladen haben. Die guten Keyserver schicken eine Bestätigungsmail an die E-Mailadresse, damit sie nicht zugemüllt werden mit falschen Schlüsseln.
+Der/die Sender/-in braucht deinen öffentlichen Schlüssel, was er/sie über öffentliche Keyserver finden kann. Vorher muss der Empfänger diesen natürlich generiert und hochgeladen haben. Die guten Keyserver schicken eine Bestätigungsmail an die E-Mailadresse, damit sie nicht zugemüllt werden mit falschen Schlüsseln z.B. keys.openpgp.org.
 
 Mailvelope unterstützt dich schon etwas bei der Verwaltung der Schlüssel. Meinen privaten PGP Schlüssel habe ich auf einem USB-Stick gesichert. Verschlüsselte Nachrichten zu versenden ist gut, die eigenen Dateien sollten aber auch geschützt werden, falls ein Datenspeicher abhanden kommt. Das wird bei den Themen Hackerparagraph, Anonymisierung und Hausdurchsuchung noch spannend.
 
@@ -1228,7 +1212,7 @@ Jedes populäre Betriebssystem hat die Möglichkeit die Festplatte zu verschlüs
 
 Einzelne Dateien lassen sich auch verschlüsseln. Anleitungen dafür gibt es genügend. Bei allen Systemen lässt sich das mit Bordmitteln erreichen. Dort werden "virtuelle Festplatten" in den Festplattenprogrammen erstellt, die eingebunden werden können. Diese lassen sich verschlüsseln und sind damit sehr flexibel zu nutzen.
 
-Für Linux sind fortgeschrittene Kenntnisse erforderlich. Anleitungen sind auf Ubuntu-Users oder unter dem Begriff "luks containerdatei" in einer Suchmaschine deiner Wahl zu finden.
+Für Linux sind fortgeschrittene Kenntnisse erforderlich. Anleitungen sind auf Ubuntu-Users unter "luks containerdatei" in einer Suchmaschine deiner Wahl zu finden.
 
 Windows 10:
 Datenträgerverwaltung öffnen.
@@ -3277,7 +3261,7 @@ Einmal durchatmen. Für mich persönlich hat sich die Tipparbeit an diesem Buch 
 
 Das Internet vernetzt immer mehr Geräte und soll unseren Alltag einfacher machen. Das ist auf der einen Seite toll, aber auf der anderen Seite gibt es auch immer wieder Datenschutz- und Sicherheitsproblemen. Aus Sicht der Hacker/-innen wird der öffentliche Spielplatz immer größer.
 
-Dieses Buch hat dafür gesorgt, dass ich meinen Traum vom beruflichen Hacking wiederbeleben wollte. Meine Idee war Live Hacking und Vorträge wieder anzubieten. Daraufhin bin ich auf ein Cybersecurity Startup in der Region gestoßen und arbeite seitdem dort.
+Dieses Buch hat dafür gesorgt, dass ich meinen Traum vom beruflichen Hacking wiederbeleben wollte. Meine Idee war Live Hacking und Vorträge anzubieten. Daraufhin bin ich auf ein Cybersecurity Startup in der Region gestoßen und arbeite seitdem dort.
 
 Die Lösungen für die Rätselecke:
 Basic Instinct.
@@ -3286,12 +3270,12 @@ Alicia Keys.
 NSync.
 Rammstein.
 Apache 207.
+
 Vielen Dank für deine Aufmerksamkeit.
 
+Vielen Dank für Hinweise auf Tippfehler und Verbesserungen an Noxmiles, DanielBilanovic, unbelauscht und ytvwld.
+
 Al3x
-
-
-
 www.1337core.de
 
 
