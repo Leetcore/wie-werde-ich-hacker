@@ -65,7 +65,7 @@ Die Serie Mr. Robot (2015) macht in Staffel 1 vieles richtig, vor allem aus tech
 Tyrell Wellick:
 Give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world.
 
-Ein weiterer Film, der interessante Hacks zeigt, ist "Whoami - Kein System ist sicher" aus dem Jahre 2014. Erstaunlicherweise sogar ein deutscher Film. Dann fiel mir noch eine deutsche Serie auf, die 2019 auf Netflix erschien: "How to sell drugs (fast) online". Dort wird korrekt erzählt, wie Tor Hidden Services funktionieren, um anonym im Internet Drogen zu verkaufen. Wobei mir direkt auffiel, dass sie Briefkästen benutzten, die viel zu nah an ihrem Wohnort waren. In Stranger Things Staffel 2 programmiert Bob einen Brute Force Angriff um alle Kombinationen eines vierstelligen Zahlencodes auszuprobieren in der Programmiersprache BASIC.
+Ein weiterer Film, der interessante Hacks zeigt, ist "Whoami - Kein System ist sicher" aus dem Jahre 2014. Erstaunlicherweise sogar ein deutscher Film. Dann fiel mir noch eine deutsche Serie auf, die 2019 auf Netflix erschien: "How to sell drugs online (fast)". Dort wird korrekt erzählt, wie Tor Hidden Services funktionieren, um anonym im Internet Drogen zu verkaufen. Wobei mir direkt auffiel, dass sie Briefkästen benutzten, die viel zu nah an ihrem Wohnort waren. In Stranger Things Staffel 2 programmiert Bob einen Brute Force Angriff um alle Kombinationen eines vierstelligen Zahlencodes auszuprobieren in der Programmiersprache BASIC.
 
 Das sind viele Beispiele, in denen entweder technisch korrekt oder immerhin kulturell korrekt gezeigt wurde, wie Hacker/-innen ticken können. Doch wir merken schon, in den meisten Fällen ist es illegal oder verursacht große Probleme.
 
