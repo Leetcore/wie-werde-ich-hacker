@@ -1,0 +1,16 @@
+{
+  "name": "twittertokeyboard",
+  "version": "0.0.1",
+  "description": "Twitter API to Keyboard Mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.14.12",
+    "robotjs": "^0.4.7",
+    "twitter": "^1.7.1"
+  }
+}
