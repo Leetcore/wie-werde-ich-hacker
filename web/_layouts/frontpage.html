@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="me" href="https://twitter.com/1337core">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>🏄‍♂️🌍 1337observer - Hacker Archive</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed for 1337observer" href="/feed.xml" />
+	<link rel="stylesheet" type="text/css" href="/style.css" />
+	<!--
+
+
+	Aus großer Macht folgt große Verantwortung! 
+
+
+	-->
+</head>
+
+<body>
+	<div id="main">
+		<h1>1337observer</h1>
+		<p>This is very work in progress. Nothing to see here...</p>
+		<h3>new</h2>
+		<ul>
+			{% for post in site.posts limit:3 %}
+			<li>
+				<a href="{{ post.url }}">{{ post.title }}</a>
+			</li>
+			{% endfor %}
+		</ul>
+		
+		<h3>lists</h2>
+		<ul>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/dir-folder.txt">dir-folder.txt - Folder discovery</a></li>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/forced-browsing.txt">forced-browsing.txt - Folder discovery</a></li>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/small-fuzzing.txt">small-fuzzing.txt - Small fuzzing list</a></li>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/xss.txt">xss.txt - Small xss list</a></li>
+		</ul>
+		
+		<h3>bug bounty programs</h3>
+		<p>Test your skills legally in a bug bountry program:
+			<a href="https://github.com/Leetcore/hacker-archive/blob/master/bugbounty/list.md">List of bug bounty programs</a>.</p>
+	</div>
+</body>
+
+</html>
