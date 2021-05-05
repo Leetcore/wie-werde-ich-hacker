@@ -1,3 +1,0 @@
-'"><scriPt>aleRt(1337)</ScrIpt>
-or 1=1--
-') or '1'='1--
