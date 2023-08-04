@@ -14,15 +14,13 @@ WIE WERDE ICH HACKER?
 Der Anfänger-Guide von 1337core
 
 Copyright
-Dieses digitale Buch steht unter Creative Commons Lizenz "Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 3.0 Deutschland" (CC BY-NC-SA 3.0 DE). Das bedeutet, dass es im privaten Umfeld geteilt werden darf. Bei Änderungen daran muss es unter die gleiche Lizenz gestellt werden.
+Das digitale Buch steht unter Creative Commons Lizenz "Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 3.0 Deutschland" (CC BY-NC-SA 3.0 DE). Das bedeutet, dass es im privaten Umfeld geteilt werden darf. Bei Änderungen daran muss es unter die gleiche Lizenz gestellt werden.
 
 Als Namensnennung reicht mein Nickname "1337core" aus.
 
 Versionsnummer: 0.7
 
-Feedback kann gerne an feedback@1337core.de gesendet werden.
-
-Inhaltsverzeichnis
+Feedback kann gerne an feedback@1337core.de gesendet werden.Inhaltsverzeichnis
 Vorwort
 Vielleicht kennst du Texte aus dem Internet zur großen Frage: "Wie werde ich Hacker/-in?" Dort werden einige Themen angeschnitten, aber nicht erklärt wie Einsteiger/-innen ihr Ziel erreichen können. Nach einer Twitter-Umfrage war klar, dass mein Umfeld etwas für Einsteiger/-innen und Scriptkiddies lesen möchte. Also erzähle ich euch etwas von meinem Einstieg ins Hacking. Viel Spaß!
 
@@ -262,7 +260,7 @@ Du kannst mit deinem Wissen danach in der Open Source Community helfen und lerne
 
 Das ist ein wichtiger Punkt: Viele dieser Dinge sind standardisiert oder werden im Internet bereits gut erklärt. Es gibt sehr viele Dokumentationen zu lesen, verstehen und Software zum Ausprobieren. Ich versuche einen Überblick über die wichtigsten Konzepte zu geben. Die Ideen, Beispiele und ein paar einfache Code-Schnipsel sollen den Einstieg erleichtern.
 
-Mit zwölf Jahren hat mich der damalige Freund meiner Schwester auf das Thema gestoßen, weil er einen Computer hatte und ich absolut begeistert davon war, dass er BASIC (ältere Programmiersprache) konnte. Außerdem hatte ich früher auch einen Lerncomputer, bei dem ich eine Menge an Code abtippen musste, um dann Stein-Schere-Papier zu spielen. Ich verstand als Kind nichts davon, aber fasziniert hat es mich trotzdem. Damals fehlte mir eine kleine Anleitung wie Schleifen, Bedingungen und deren Abläufe funktionieren.
+Mit zwölf Jahren hat mich der damalige Freund meiner Schwester auf das Thema gestoßen, weil er einen Computer hatte und ich absolut begeistert davon war, dass er BASIC (ältere Programmiersprache) konnte. Außerdem hatte ich früher auch eine Lerncomputer, bei dem ich eine Menge an Code abtippen musste, um dann Stein-Schere-Papier zu spielen. Ich verstand als Kind nichts davon, aber fasziniert hat es mich trotzdem. Damals fehlte mir eine kleine Anleitung wie Schleifen, Bedingungen und deren Abläufe funktionieren.
 
 Dieses Buch, das WWW und andere Hacker/-innen sind ein guter Startpunkt um Informationen zu sammeln, herauszufinden was dich davon besonders interessiert und etwas damit anzufangen.
 
@@ -702,7 +700,7 @@ Mainboard: Die Hauptplatine verbindet die Komponenten miteinander.
 BIOS: Das "basic input, output system" ist die Firmware (= Software, die in elektronischen Geräten eingebettet ist) auf dem Mainboard, welche die Komponenten anspricht und danach das Betriebssystem startet.
 Der Nachfolger des BIOS: EFI (= Extensible Firmware Interface) sitzt zwischen Betriebsystem und Firmware.
 Prozessor (= CPU, Central Processing Unit): Zentrale Einheit, die Berechnungen des Systems durchführt.
-RAM (= Random Access Memory): Flüchtiger Speicher, für die gerade ausgeführten Programme. Er besteht solange, wie der Computer mit Strom versorgt wird.
+RAM (= Random Access Memory): Flüchtiger Speicher, für die gerade ausgeführten Programme. Der Speicher besteht solange, wie der Computer mit Strom versorgt wird.
 Grafikkarte: Grafikprozessor und Videospeicher zur Darstellung. Bei manchen Systemen direkt auf dem Mainboard, dann heißt sie Onboard-Grafikkarte.
 Festplatte: HDD (= Hard Drive Disc) oder bessere SSD (= Solid State Disc) speichern Daten dauerhaft.
 
@@ -710,14 +708,14 @@ Computer bauen
 Wer daran interessiert ist, sich einen Computer selbst zusammen zu bauen, kann sich alle Komponenten kaufen (auf kompatible Standards, ausreichendes Netzteil, Slots etc. achten) und zusammenbauen. Dazu muss du eigentlich nur wissen welche Kabel und Hardware zusammengesteckt wird. Das sollte auch alles in der Mainboard Anleitung stehen. Wer vorher sehen will wie es geht, findet heute einige Einsteigervideos auf YouTube. Als ich meinen ersten PC zusammengebaut habe, hatte ich die Anleitung aus einem Buch. Die Anleitung zum Mainboard (meistens auf englisch) zeigt aber auch wie und wo die CPU, Wärmeleitpaste, Kühler, usw. hin gehören und alles angeschlossen wird.
 
 CPU einbauen: Auf dem Mainboard findet sich eine Art Rahmen oder Bügel, der hochgeklappt werden kann. Dort kommt die CPU drauf (ist beschriftet). Es gibt nur eine Richtung, wie die Pins auf das Mainboard passen. Halterung schließen. Die CPU sollte jetzt fest sitzen.
-Kühler: Die Wärmeleitpaste kommt auf die Metallkühlerplatte der CPU. Darauf wieder Kühler platziert und fest geschraubt. Der Kühler braucht Strom, sonst tut sich da nichts. Er wird auf dem Mainboard (üblicherweise 4 Pins) angeschlossen, die Stelle sollte mit CPU_FAN beschriftet sein.
+Kühler: Die Wärmeleitpaste kommt auf die Metallkühlerplatte der CPU. Darauf wird der Kühler platziert und fest geschraubt. Der Kühler braucht Strom, sonst tut sich da nichts. Er wird auf dem Mainboard (üblicherweise 4 Pins) angeschlossen, die Stelle sollte mit CPU_FAN beschriftet sein.
 Danach kann das Mainboard ins Gehäuse geschraubt werden. Auf die Abstandshalter achten.
 Klammern für deinen RAM-Riegel öffnen. Einstecken. Einrastet lassen.
 Die Grafikkarte kommt in den Slot Richtung Gehäuse-Rückseite, damit auch der Monitor angeschlossen werden kann. Zusätzliche Stromversorgung sollte auch angeschlossen werden.
 Die Festplatten haben auch entsprechend große Rahmen an der Vorderseite. Strom und Datenkabel für das Mainboard anschließen.
 
 CPU
-Wenn wir uns mit Prozessoren beschäftigen wollen, müssen wir den Aufbau verstehen und danach die Abarbeitung eines Programms im Zusammenspiel mit dem RAM. Es stellt sich erstmal die Frage, woher wir diese Informationen bekommen. Wie immer ist Wikipedia zwar ein Einstieg ins Thema, es hilft aber leider wenig zum Verständnis. Mein Einstieg war der Artikel auf Wikipedia, der mir immerhin sagen konnte aus was ein Prozessor besteht. Zum besseren Verständnis, wie am Ende die Kommunikation wirklich abläuft, hilft das Video "See How a CPU Works" auf YouTube. Dadurch wird klarer wie in einem Prozessor gearbeitet wird. Die bessere schriftliche Einführung fand ich durch eher typische Überschriften im Universitätsumfeld und dem Zusatz "PDF". Eine gute Erklärung mit Schaubildern konnte ich mit dem "Einführung in Aufbau und Funktionsweise von Mikroprozessoren PDF" finden. Suchmaschine befeuern und lesen!
+Wenn wir uns mit Prozessoren beschäftigen wollen, müssen wir den Aufbau verstehen und danach die Abarbeitung eines Programms im Zusammenspiel mit dem RAM. Es stellt sich erstmal die Frage, woher wir diese Informationen bekommen. Wie immer ist Wikipedia zwar ein Einstieg ins Thema, es hilft aber leider wenig zum Verständnis. Mein Einstieg war der Artikel auf Wikipedia, der mir immerhin sagen konnte aus was ein Prozessor besteht. Zum besseren Verständnis, wie am Ende die Kommunikation wirklich abläuft, hilft das Video "See How a CPU Works" auf YouTube. Dadurch wird klarer wie in einem Prozessor gearbeitet wird. Die bessere schriftliche Einführung fand ich durch eher typische Überschriften im Universitätsumfeld und dem Zusatz "PDF". Eine gute Erklärung mit Schaubildern konnte ich mit dem "Einführung in Aufbau und Funktionsweise von Mikroprozessoren PDF" finden. Suchmaschine befeuern und lesen!
 
 Funktionsgruppen:
 Steuerwerk (= Control Unit). Liest und interpretiert Programminstruktionen aus dem Speicher Schritt für Schritt und gibt Befehle an das Rechenwerk weiter. Diese Programminstruktionen erhält das Steuerwerk in Maschinensprache. Der Compiler erzeugt aus einem in einer höheren Programmiersprache (C, C++, Rust, usw.) geschrieben Quellcode (= Source Code) diese Maschinensprache.
@@ -737,7 +735,7 @@ Zurück zum Beispiel:
 Nehmen wir eine Beispiel:
 00110001 00110011 00110011 00110111
 
-Durch die Leerzeichen wird klar, dass es sich um 1 Byte handelt, das sind 8 Bit also 8 Stellen mit 0 oder 1. Hierbei handelt es sich um ein ASCII (= American Standard Code for Information Interchange) Beispiel. Hierbei können die ersten 4 Bit ignoriert werden, da es sich immer um eine Dezimalzahl handelt.
+Durch die Leerzeichen wird einfacher zu sehen wo ein Byte beginnt. Es gibt insgesamt 8 Bit,  also 8 Stellen mit 0 oder 1. Hierbei handelt es sich um ein ASCII (= American Standard Code for Information Interchange) Beispiel. Hierbei können die ersten 4 Bit ignoriert werden, da es sich immer um eine Dezimalzahl handelt.
 
 0001 0011 0011 0111
 
@@ -1503,7 +1501,7 @@ Das ist ein gutes Beispiel, wie eine utopische Idee innerhalb von zehn Jahren ko
 
 Auf dem Schwarzmarkt wird es benutzt, weil es eine pseudonyme Digitalwährung ist. Aber Bitcoins schürfen lohnt sich eben nur, wenn am Ende die Stromrechnung explodiert. Es wird also viel Strom gegen eine digitale Währung getauscht, mit der der Nutzer leider praktisch wenig anfangen kann, außer sie eben wieder gegen Realwährung zu verkaufen.
 
-Ich bin deshalb skeptisch, was den ethischen Bereich angeht, da wurde eigentlich nicht viel gewonnen. Aber das ist auch nur meine Meinung. Als mögliches Projekt hatte ich nach einem Bitcoin Mini-USB-Miner geschaut. Mit einem Mini-USB-Miner kommt $1US an Bitcoin-Dollar-Wert pro Monat heraus, wenn ein einziger Miner 24 Stunden und 7 Tage die Woche läuft. So richtig Lust dafür Geld auszugeben hatte ich auch nicht, vor allem wenn sich das Gerät erst nach einem halben Jahr überhaupt selbst bezahlt. Es kann nicht einmal mit Bitcoins im Internet bestellt werden, was das eigentliche Problem gut zusammenfasst. ;)
+Ich bin deshalb skeptisch, was den ethischen Bereich angeht wurde eigentlich nicht viel gewonnen. Aber das ist auch nur meine Meinung. Als mögliches Projekt hatte ich nach einem Bitcoin Mini-USB-Miner geschaut. Mit einem Mini-USB-Miner kommt $1US an Bitcoin-Dollar-Wert pro Monat heraus, wenn ein einziger Miner 24 Stunden und 7 Tage die Woche läuft. So richtig Lust dafür Geld auszugeben hatte ich auch nicht, vor allem wenn sich das Gerät erst nach einem halben Jahr überhaupt selbst bezahlt. Es kann nicht einmal mit Bitcoins im Internet bestellt werden, was das eigentliche Problem gut zusammenfasst. ;)
 
 Auf einem Raspberry Pi lässt sich auch mit der CPU Kryptowährung minen.  Die CPU ist sowieso zu langsam und der Raspberry Pi hat kaum Power. Neben Bitcoins gibt es aber auch über 100 andere Kryptowährungen. Das lohnt sich derzeit genauso wenig, aber ihr könnt auch darauf hoffen, dass andere Währungen den gleichen Hype erfahren. Wer früh einsteigt hat am Ende mehr Coins. Obwohl ich den Quatsch verabscheue installiere ich mir einen kleinen Coin Miner. Einfach nur um es abzuhaken.
 
@@ -1646,7 +1644,7 @@ Deshalb gibt es eine goldene Regel, die alle guten Grey-Hats befolgen sollten. D
 Wirklich anonym bleiben
 Wer es ernst meint setzt sich ins Auto oder fährt in eine größere Stadt, benutzt zusätzlich "Tor", weil es dir Zeit verschafft. Im Auto sorgt eine ordentliche WLAN-Antenne für die notwendige Reichweite, mit dem du irgendein offenes, geteiltes oder gehacktes WLAN anzapfst. In der Stadt reicht ein Büro, Raum, Hotelzimmer oder Vergleichbares und ein offenes WLAN, was eben nicht direkt an deinem Standort ist und wofür du keine persönliche Zugangsdaten brauchst. MAC-Adresse ändern nicht vergessen!
 
-Um später auch WLANs zu hacken, brauchst du ein anständiges Chipset, das sich in Monitor-Mode (= reicht alle Datenpakete ans System weiter) versetzen lässt. Von "Alfa Network" gibt es entsprechende WLAN USB Sticks, an die auch eine größere Antenne angeschlossen werden kann. Dieser Stick läuft Plug & Play unter Linux/Mac und ist deshalb perfekt dafür geeignet.
+Um später auch WLANs zu hacken, brauchst du ein WLAN mit  anständigen Chipset, dass sich in den Monitor-Mode (= reicht alle Datenpakete ans System weiter) versetzen lässt. Von "Alfa Network" gibt es entsprechende WLAN USB Sticks, an die auch eine größere Antenne angeschlossen werden kann. Dieser Stick läuft Plug & Play unter Linux/Mac und ist zum Hacken perfekt geeignet.
 
 Im Falle einer VM (=Virtuelle Maschine) kannst du ein Live-System verwenden. Stichwort: "Tails" oder Kali Linux mit verschlüsselter Festplatte und Tor (iptables Config):
 
@@ -3248,7 +3246,7 @@ Das Internet vernetzt immer mehr Geräte und soll unseren Alltag einfacher mache
 
 Vielen Dank für deine Aufmerksamkeit.
 
-Vielen Dank an meine Frau, Noxmiles, DanielBilanovic, unbelauscht und ytvwld für Hinweise auf Tippfehler und Verbesserungen.
+Vielen Dank an meine Frau, Noxmiles, DanielBilanovic, unbelauscht, ytvwld und Maik B. für Hinweise auf Tippfehler und Verbesserungen.
 
 Die Lösungen für die Rätselecke:
 Basic Instinct.
