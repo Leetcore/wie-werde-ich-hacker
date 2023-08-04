@@ -260,7 +260,7 @@ Du kannst mit deinem Wissen danach in der Open Source Community helfen und lerne
 
 Das ist ein wichtiger Punkt: Viele dieser Dinge sind standardisiert oder werden im Internet bereits gut erklärt. Es gibt sehr viele Dokumentationen zu lesen, verstehen und Software zum Ausprobieren. Ich versuche einen Überblick über die wichtigsten Konzepte zu geben. Die Ideen, Beispiele und ein paar einfache Code-Schnipsel sollen den Einstieg erleichtern.
 
-Mit zwölf Jahren hat mich der damalige Freund meiner Schwester auf das Thema gestoßen, weil er einen Computer hatte und ich absolut begeistert davon war, dass er BASIC (ältere Programmiersprache) konnte. Außerdem hatte ich früher auch eine Lerncomputer, bei dem ich eine Menge an Code abtippen musste, um dann Stein-Schere-Papier zu spielen. Ich verstand als Kind nichts davon, aber fasziniert hat es mich trotzdem. Damals fehlte mir eine kleine Anleitung wie Schleifen, Bedingungen und deren Abläufe funktionieren.
+Mit zwölf Jahren hat mich der damalige Freund meiner Schwester auf das Thema gestoßen, weil er einen Computer hatte und ich absolut begeistert davon war, dass er BASIC (ältere Programmiersprache) konnte. Außerdem hatte ich früher auch einen Lerncomputer, bei dem ich eine Menge an Code abtippen musste, um dann Stein-Schere-Papier zu spielen. Ich verstand als Kind nichts davon, aber fasziniert hat es mich trotzdem. Damals fehlte mir eine kleine Anleitung wie Schleifen, Bedingungen und deren Abläufe funktionieren.
 
 Dieses Buch, das WWW und andere Hacker/-innen sind ein guter Startpunkt um Informationen zu sammeln, herauszufinden was dich davon besonders interessiert und etwas damit anzufangen.
 
@@ -735,7 +735,7 @@ Zurück zum Beispiel:
 Nehmen wir eine Beispiel:
 00110001 00110011 00110011 00110111
 
-Durch die Leerzeichen wird einfacher zu sehen wo ein Byte beginnt. Es gibt insgesamt 8 Bit,  also 8 Stellen mit 0 oder 1. Hierbei handelt es sich um ein ASCII (= American Standard Code for Information Interchange) Beispiel. Hierbei können die ersten 4 Bit ignoriert werden, da es sich immer um eine Dezimalzahl handelt.
+Durch die Leerzeichen wird es einfacher zu sehen wo ein Byte beginnt. Es gibt insgesamt 8 Bit,  also 8 Stellen mit 0 oder 1. Hierbei handelt es sich um ein ASCII (= American Standard Code for Information Interchange) Beispiel. Hierbei können die ersten 4 Bit ignoriert werden, da es sich immer um eine Dezimalzahl handelt.
 
 0001 0011 0011 0111
 
@@ -1644,7 +1644,7 @@ Deshalb gibt es eine goldene Regel, die alle guten Grey-Hats befolgen sollten. D
 Wirklich anonym bleiben
 Wer es ernst meint setzt sich ins Auto oder fährt in eine größere Stadt, benutzt zusätzlich "Tor", weil es dir Zeit verschafft. Im Auto sorgt eine ordentliche WLAN-Antenne für die notwendige Reichweite, mit dem du irgendein offenes, geteiltes oder gehacktes WLAN anzapfst. In der Stadt reicht ein Büro, Raum, Hotelzimmer oder Vergleichbares und ein offenes WLAN, was eben nicht direkt an deinem Standort ist und wofür du keine persönliche Zugangsdaten brauchst. MAC-Adresse ändern nicht vergessen!
 
-Um später auch WLANs zu hacken, brauchst du ein WLAN mit  anständigen Chipset, dass sich in den Monitor-Mode (= reicht alle Datenpakete ans System weiter) versetzen lässt. Von "Alfa Network" gibt es entsprechende WLAN USB Sticks, an die auch eine größere Antenne angeschlossen werden kann. Dieser Stick läuft Plug & Play unter Linux/Mac und ist zum Hacken perfekt geeignet.
+Um später auch WLANs zu hacken, brauchst du ein WLAN mit anständigen Chipset, dass sich in den Monitor-Mode (= reicht alle Datenpakete ans System weiter) versetzen lässt. Von "Alfa Network" gibt es entsprechende WLAN USB Sticks, an die auch eine größere Antenne angeschlossen werden kann. Dieser Stick läuft Plug & Play unter Linux/Mac und ist zum Hacken perfekt geeignet.
 
 Im Falle einer VM (=Virtuelle Maschine) kannst du ein Live-System verwenden. Stichwort: "Tails" oder Kali Linux mit verschlüsselter Festplatte und Tor (iptables Config):
 
